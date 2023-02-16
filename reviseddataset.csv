@@ -1,0 +1,800 @@
+zpid,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedrooms,livingArea,homeType,taxAssessedValue,lotAreaValue,brokerName,neighbourhoodName,newAddress
+314350313,977 W 20th Ave,V5Z1Y4,Vancouver,BC,49.253757,-123.12656,2899000.0,3.0,5.0,2602.0,SINGLE_FAMILY,2401300.0,3920.4,Sutton Centre Realty Brokerage,South Cambie,977 W 20th Ave
+2062918487,6 W 17th Ave #7,V5Y1Z4,Vancouver,BC,49.2562734,-123.148524,1575000.0,2.0,2.0,1238.0,TOWNHOUSE,,0.0,Dexter Realty Brokerage,Shaughnessy,6 W 17th Ave 
+314365747,623 Victoria Dr,V5L4H3,Vancouver,BC,49.270275,-123.06561,1299000.0,2.0,3.0,1202.0,TOWNHOUSE,1164000.0,0.0,Oakwyn Realty Ltd. Brokerage,Grandview-Woodland,623 Victoria Dr
+2062918419,6 W 17th Ave #12,V5Y1Z4,Vancouver,BC,49.2562734,-123.148524,1725000.0,2.0,1.0,1358.0,TOWNHOUSE,,0.0,Dexter Realty Brokerage,Shaughnessy,6 W 17th Ave 
+2062918471,6 W 17th Ave #2,V5Y1Z4,Vancouver,BC,49.2562734,-123.148524,1980000.0,2.0,2.0,1558.0,TOWNHOUSE,,0.0,Dexter Realty Brokerage,Shaughnessy,6 W 17th Ave 
+314408191,2880 E 22nd Ave,V5M2Y2,Vancouver,BC,49.25032,-123.04505,1688000.0,2.0,4.0,2423.0,SINGLE_FAMILY,1257000.0,3920.4,London Pacific Brokerage,Renfrew-Collingwood,2880 E 22nd Ave
+2059548932,1495 Richards St #2001,V6Z3E3,Vancouver,BC,49.273617,-123.12812,888000.0,1.0,1.0,741.0,CONDO,,0.0,RE/MAX Masters Realty Brokerage,Downtown,1495 Richards St 
+2059566711,2508 Watson St #521,V5T3G9,Vancouver,BC,49.261738,-123.10015,1599000.0,3.0,3.0,1400.0,TOWNHOUSE,,0.0,Oakwyn Realty Ltd. Brokerage,Mount Pleasant,2508 Watson St 
+2068851925,1328 Homer St #907,V6B6A7,Vancouver,BC,49.273598,-123.124916,1388000.0,2.0,2.0,1123.0,CONDO,,0.0,Oakwyn Realty Ltd. Brokerage,Downtown,1328 Homer St 
+2064141261,8138 Fraser St #304,V5X3T3,Vancouver,BC,49.2098555,-123.0911334,528000.0,1.0,0.0,489.0,CONDO,,0.0,Sutton Group - 1st West Realty Brokerage,Sunset,8138 Fraser St 
+2059589882,2600 E 49th Ave #227,V5S1J8,Vancouver,BC,49.22431,-123.0541,539000.0,1.0,2.0,800.0,CONDO,,0.0,RE/MAX Crest Realty Brokerage,Victoria-Fraserview,2600 E 49th Ave 
+2059585364,1816 Haro St #1701,V6G2Y7,Vancouver,BC,49.290993,-123.137405,699000.0,1.0,1.0,715.0,CONDO,,0.0,Engel & Volkers Vancouver Brokerage,West End,1816 Haro St 
+2076418661,1211 Melville St #2705,V6E0A7,Vancouver,BC,49.28828175,-123.12420333304156,1588000.0,2.0,2.0,1070.0,CONDO,,0.0,Royal LePage Sussex Brokerage,Downtown,1211 Melville St 
+314370632,2281 E 10th Ave,V5N1Y3,Vancouver,BC,49.26154,-123.05853,998000.0,2.0,3.0,1216.0,SINGLE_FAMILY,1467000.0,3920.4,Heller Murch Realty Brokerage,Kensington-Cedar Cottage,2281 E 10th Ave
+2061569939,2119 Yew St #103,V6K3G6,Vancouver,BC,49.2663966,-123.1552211,959000.0,2.0,2.0,900.0,TOWNHOUSE,,0.0,Dexter Realty Brokerage,Kitsilano,2119 Yew St 
+314366305,130 Garden Dr,V5L4P4,Vancouver,BC,49.28335,-123.05743,2199900.0,3.0,5.0,2713.0,SINGLE_FAMILY,1250300.0,3484.8,Stilhavn Real Estate Services Brokerage,Grandview-Woodland,130 Garden Dr
+2059569153,1155 Seymour St #708,V6B1K2,Vancouver,BC,49.277054,-123.12504,649000.0,1.0,1.0,606.0,CONDO,,0.0,Royal LePage Sussex Brokerage,Downtown,1155 Seymour St 
+2059747218,1010 Richards St #502,V6B1G2,Vancouver,BC,49.277588,-123.12112,649900.0,1.0,1.0,573.0,CONDO,,0.0,Oakwyn Realty Ltd. Brokerage,Downtown,1010 Richards St 
+314340113,2941 W 34th Ave,V6N2J9,Vancouver,BC,49.24163,-123.17145,3398000.0,4.0,4.0,2557.0,SINGLE_FAMILY,2906000.0,4356.0,Sotheby's International Realty Canada Brokerage,Dunbar-Southlands,2941 W 34th Ave
+314377263,4161 Prince Albert St,V5V4J5,Vancouver,BC,49.24798,-123.08818,2149000.0,3.0,5.0,2213.0,SINGLE_FAMILY,1415300.0,3920.4,Macdonald Realty Brokerage,Kensington-Cedar Cottage,4161 Prince Albert St
+2059602010,1010 Richards St #1502,V6B1G2,Vancouver,BC,49.277588,-123.12112,648800.0,1.0,1.0,567.0,CONDO,,0.0,Faith Wilson Group Brokerage,Downtown,1010 Richards St 
+314399067,2447 Adanac St,V5K2M3,Vancouver,BC,49.27769,-123.05546,1498000.0,4.0,4.0,1478.0,MULTI_FAMILY,1272500.0,0.0,Sutton Group-West Coast Realty Brokerage,Hastings-Sunrise,2447 Adanac St
+2065653372,2480 W 3rd Ave #101,V6K1L8,Vancouver,BC,49.26889,-123.161766,699000.0,1.0,1.0,686.0,CONDO,,0.0,Oakwyn Realty Ltd. Brokerage,Kitsilano,2480 W 3rd Ave 
+2059675561,1485 W 6th Ave #210,V6H4G1,Vancouver,BC,49.26643,-123.13716,1199000.0,2.0,2.0,1217.0,CONDO,,0.0,Oakwyn Realty Downtown Ltd. Brokerage,Fairview,1485 W 6th Ave 
+2060706142,1718 Venables St #404,V5L2H4,Vancouver,BC,49.2764888,-123.06914965,659000.0,1.0,1.0,703.0,CONDO,,0.0,eXp Realty Brokerage,Grandview-Woodland,1718 Venables St 
+2064305458,666 Leg In Boot Sq #323,V5Z4B3,Vancouver,BC,49.2674729,-123.11925799518951,975000.0,3.0,3.0,1458.0,CONDO,,0.0,Blu Realty Brokerage,Fairview,666 Leg In Boot Sq 
+2061984341,1510 W 1st Ave #406,V6J4S3,Vancouver,BC,49.27023,-123.13981,739900.0,2.0,2.0,992.0,CONDO,,0.0,Engel & Volkers Vancouver Brokerage,Fairview,1510 W 1st Ave 
+2059569228,4341 Windsor St,V5V5C9,Vancouver,BC,49.256104,-123.08375,1788800.0,3.0,3.0,1530.0,MULTI_FAMILY,,3484.8,Macdonald Realty Brokerage,Kensington-Cedar Cottage,4341 Windsor St
+2062394408,288 W 1st Ave #1009,V5Y0E9,Vancouver,BC,49.26911075,-123.111633331167,1188000.0,2.0,2.0,887.0,CONDO,,0.0,RE/MAX Crest Realty Brokerage,Mount Pleasant,288 W 1st Ave 
+2059748155,228 E 14th Ave #104,V5T2M6,Vancouver,BC,49.25815,-123.10033,850000.0,2.0,2.0,821.0,CONDO,,0.0,Keller Williams Realty VanCentral Brokerage,Mount Pleasant,228 E 14th Ave 
+2061142833,1289 Hornby St #2701,V6Z2H7,Vancouver,BC,49.2775746,-123.1297469,1688888.0,2.0,2.0,916.0,CONDO,,0.0,Sutton Group - Vancouver First Realty Brokerage,Downtown,1289 Hornby St 
+2062243138,1239 Georgia St W #1604,V6E4R8,Vancouver,BC,49.28786045,-123.12563464324796,1015000.0,2.0,2.0,816.0,CONDO,,0.0,Anson Realty Ltd. Brokerage,Downtown,1239 Georgia St W 
+2075270224,1283 Howe St PENTHOUSE 1,V6Z0E3,Vancouver,BC,49.277058,-123.128845,2899900.0,3.0,3.0,1623.0,CONDO,,0.0,Oakwyn Realty Ltd. Brokerage,Downtown,1283 Howe St 
+2069108077,1008 Cambie St #1805,V6B6J7,Vancouver,BC,49.275063,-123.1178,729000.0,1.0,1.0,760.0,CONDO,,0.0,Stilhavn Real Estate Services Brokerage,Downtown,1008 Cambie St 
+2077762262,2689 Kingsway #515,V5R0C3,Vancouver,BC,49.2387719,-123.050672844871,698000.0,2.0,2.0,771.0,CONDO,,0.0,Sutton Group-West Coast Realty Brokerage,Renfrew-Collingwood,2689 Kingsway 
+314428500,626 Kinghorne Mews,V6Z3H6,Vancouver,BC,49.272865,-123.13143,3299000.0,3.0,2.0,1674.0,TOWNHOUSE,4001000.0,0.0,RE/MAX 2000 Realty Brokerage,Downtown,626 Kinghorne Mews
+2067895408,2250 W 43rd Ave #105,V6M2E3,Vancouver,BC,49.23251,-123.15924,499999.0,1.0,3.0,1254.0,CONDO,,0.0,Oakwyn Realty Ltd. Brokerage,Kerrisdale,2250 W 43rd Ave 
+2059600490,111 Georgia St W #1806,V6B1T8,Vancouver,BC,49.278152,-123.11055,819000.0,1.0,2.0,806.0,CONDO,,0.0,Coldwell Banker Prestige Realty Brokerage,Downtown,111 Georgia St W 
+2069475593,830 E 7th Ave #211,V5T4J2,Vancouver,BC,49.26404,-123.08641,379900.0,1.0,1.0,439.0,CONDO,,0.0,Oakwyn Realty Encore Brokerage,Mount Pleasant,830 E 7th Ave 
+2060136857,3126 E 2nd Ave,V5M1G1,Vancouver,BC,49.26821,-123.03818,999000.0,3.0,3.0,1100.0,SINGLE_FAMILY,,3920.4,Team 3000 Realty Ltd. Brokerage,Hastings-Sunrise,3126 E 2nd Ave
+314401388,3205 Kitchener St,V5K3G1,Vancouver,BC,49.27255,-123.03603,2328000.0,4.0,6.0,2283.0,SINGLE_FAMILY,1619000.0,4356.0,Sutton Group-West Coast Realty Brokerage,Hastings-Sunrise,3205 Kitchener St
+2061220343,1289 Hornby St #4308,V6Z2H7,Vancouver,BC,49.2775746,-123.1297469,2298000.0,3.0,2.0,1323.0,CONDO,,0.0,Sutton Group-West Coast Realty Brokerage,Downtown,1289 Hornby St 
+314346911,3689 Selkirk St,V6H2Y9,Vancouver,BC,49.252724,-123.13303,17355000.0,12.0,12.0,12586.0,SINGLE_FAMILY,18254000.0,0.91,Royal Pacific Realty Corp. Brokerage,Shaughnessy,3689 Selkirk St
+314351510,46 King Edward Ave W,V5Y2H7,Vancouver,BC,49.248543,-123.10613,1999900.0,3.0,3.0,1484.0,TOWNHOUSE,2500400.0,0.0,Macdonald Realty Brokerage,Riley Park,46 King Edward Ave W
+314426691,1786 Island Ave,V5P2S6,Vancouver,BC,49.209362,-123.07002,2088000.0,3.0,6.0,2540.0,SINGLE_FAMILY,1448000.0,6969.6,RE/MAX City Realty Brokerage,Victoria-Fraserview,1786 Island Ave
+2061024300,777 Richards St #907,V6B0M6,Vancouver,BC,49.28052035,-123.1177996180568,649900.0,1.0,1.0,510.0,CONDO,,0.0,Royal Pacific Realty (Kingsway) Ltd. Brokerage,Downtown,777 Richards St 
+2062908926,188 Keefer St #912,V6A0E3,Vancouver,BC,49.2795071,-123.1009992,565000.0,1.0,1.0,565.0,CONDO,,0.0,RE/MAX Real Estate Services Brokerage,Downtown,188 Keefer St 
+314348116,1318 Minto Cres,V6H2J5,Vancouver,BC,49.24245,-123.13511,24800000.0,9.0,5.0,9949.0,SINGLE_FAMILY,17149000.0,0.61,Faith Wilson Group Brokerage,Shaughnessy,1318 Minto Cres
+2059555536,1717 Bayshore Dr #501,V6G3H3,Vancouver,BC,49.292953,-123.132,3190000.0,3.0,3.0,1734.0,CONDO,,0.0,Royal LePage Westside Brokerage,Downtown,1717 Bayshore Dr 
+314321891,4238 W 13th Ave,V6R2T8,Vancouver,BC,49.260708,-123.20127,2450000.0,2.0,4.0,1831.0,SINGLE_FAMILY,2442600.0,3920.4,Oak West Realty Ltd. Brokerage,West Point Grey,4238 W 13th Ave
+314335741,3421 W 44th Ave,V6N3K7,Vancouver,BC,49.23248,-123.18082,5699000.0,5.0,4.0,4202.0,SINGLE_FAMILY,5405000.0,0.2799999999999999,RE/MAX Crest Realty Brokerage,Dunbar-Southlands,3421 W 44th Ave
+314338256,3272 W 27th Ave,V6L1W8,Vancouver,BC,49.247757,-123.177505,7980000.0,7.0,6.0,5635.0,SINGLE_FAMILY,3720500.0,7840.8,RE/MAX Crest Realty Brokerage,Dunbar-Southlands,3272 W 27th Ave
+2066377024,4986 Moss St,V5R3S9,Vancouver,BC,49.2434891,-123.0414034,1398000.0,4.0,5.0,1656.0,TOWNHOUSE,,0.01,RE/MAX Select Properties Brokerage,Renfrew-Collingwood,4986 Moss St
+314319401,4788 Belmont Ave,V6T1A9,Vancouver,BC,49.274914,-123.21983,33888000.0,11.0,7.0,10548.0,SINGLE_FAMILY,21511000.0,0.61,Sutton Group-West Coast Realty Brokerage,West Point Grey,4788 Belmont Ave
+2059599329,456 Moberly Rd #513,V5Z4L7,Vancouver,BC,49.2687,-123.11743,1188000.0,2.0,2.0,870.0,CONDO,,0.0,Multiple Realty Ltd. Brokerage,Fairview,456 Moberly Rd 
+2062782835,980 Cooperage Way #807,V6B0C3,Vancouver,BC,49.2738871,-123.1138705,1390000.0,2.0,2.0,1099.0,CONDO,,0.0,Nu Stream Realty Inc. Brokerage,Downtown,980 Cooperage Way 
+314326325,2420 W 6th Ave,V6K1W3,Vancouver,BC,49.266277,-123.16062,1799000.0,4.0,2.0,1549.0,TOWNHOUSE,1588000.0,0.0,Macdonald Realty Brokerage,Kitsilano,2420 W 6th Ave
+314324260,3439 Point Grey Rd,V6R1A6,Vancouver,BC,49.272106,-123.18065,24988000.0,4.0,4.0,5475.0,SINGLE_FAMILY,19902000.0,8276.4,Stilhavn Real Estate Services Brokerage,Kitsilano,3439 Point Grey Rd
+2062422029,1365 Davie St #902E,V6E1M5,Vancouver,BC,49.27929,-123.13012,1288000.0,2.0,2.0,753.0,CONDO,,0.0,VIRANI REAL ESTATE ADVISORS Brokerage,West End,1365 Davie St 
+2059557431,1323 Homer St #701,V6B5T1,Vancouver,BC,49.27422,-123.12549,940000.0,1.0,2.0,950.0,CONDO,,0.0,Royal Pacific Realty Corp. Brokerage,Downtown,1323 Homer St 
+2062401364,2112 Prince Edward St,V5T3M3,Vancouver,BC,49.265884,-123.09542,2349800.0,4.0,3.0,2062.0,SINGLE_FAMILY,,2178.0,Stilhavn Real Estate Services Brokerage,Mount Pleasant,2112 Prince Edward St
+2059760940,1537 Frances St,V5L1Z2,Vancouver,BC,49.279675,-123.07332,2579000.0,6.0,6.0,3434.0,SINGLE_FAMILY,,3920.4,Sutton Group-West Coast Realty Brokerage,Grandview-Woodland,1537 Frances St
+2061101122,1380 King Edward Ave W #B,V6H1Z3,Vancouver,BC,49.248917,-123.12798,2891460.0,4.0,4.0,2022.0,TOWNHOUSE,,0.0,Engel & Volkers Vancouver Brokerage,Shaughnessy,1380 King Edward Ave W 
+2063214293,5355 Boundary Rd #106,V5R6G2,Vancouver,BC,49.1806635,-122.9572969,599000.0,1.0,1.0,610.0,CONDO,,0.0,LeHomes Realty Brokerage,Renfrew-Collingwood,5355 Boundary Rd 
+2062348795,1390 King Edward Ave W #A,V6H1Z9,Vancouver,BC,49.24898,-123.13641,3498000.0,4.0,3.0,2613.0,TOWNHOUSE,,0.0,Engel & Volkers Vancouver Brokerage,Shaughnessy,1390 King Edward Ave W 
+2076442606,5058 Joyce St #905,V5R4G8,Vancouver,BC,49.238598,-123.031044,628000.0,1.0,1.0,439.0,CONDO,,0.0,Century 21 In Town Realty Brokerage,Renfrew-Collingwood,5058 Joyce St 
+2076463359,489 Interurban Way #710,V5X0C7,Vancouver,BC,49.2092583,-123.1157213,599000.0,1.0,1.0,561.0,CONDO,,0.0,Nu Stream Realty Inc. Brokerage,Marpole,489 Interurban Way 
+314351506,66 King Edward Ave W,V5Y2H7,Vancouver,BC,49.24855,-123.10655,749900.0,1.0,1.0,665.0,CONDO,2509200.0,0.0,Macdonald Realty Brokerage,Riley Park,66 King Edward Ave W
+2060507012,588 E 5th Ave #235,V5T4H6,Vancouver,BC,49.265702,-123.0416581,528000.0,1.0,1.0,686.0,CONDO,,0.0,Dien Realty Brokerage,Hastings-Sunrise,588 E 5th Ave 
+2063079808,2770 Sophia St #1109,V5T0A4,Vancouver,BC,49.2602746,-123.0977029,799000.0,1.0,1.0,809.0,CONDO,,0.0,Sutton Group-West Coast Realty Brokerage,Mount Pleasant,2770 Sophia St 
+2062627298,828 Cambie St #2006,V6B2N4,Vancouver,BC,49.285362,-123.108696,1979900.0,2.0,3.0,1012.0,CONDO,,0.0,MLA Canada Realty Brokerage,Downtown,828 Cambie St 
+2059545940,628 W 13th Ave #N401,V5Z1N9,Vancouver,BC,49.259136,-123.11844,1199800.0,2.0,2.0,1339.0,CONDO,,0.0,Heller Murch Realty Brokerage,Fairview,628 W 13th Ave 
+314337409,2127 W 21st Ave,V6L1J2,Vancouver,BC,49.253754,-123.15416,4360000.0,5.0,7.0,4342.0,SINGLE_FAMILY,4228000.0,6098.4,Nu Stream Realty Inc. Brokerage,Arbutus-Ridge,2127 W 21st Ave
+314392752,4309 Miller St,V5N4A1,Vancouver,BC,49.246536,-123.069374,1299900.0,2.0,3.0,1252.0,SINGLE_FAMILY,963300.0,2178.0,Stilhavn Real Estate Services Brokerage,Kensington-Cedar Cottage,4309 Miller St
+314324155,2529 Point Grey Rd,V6K1A1,Vancouver,BC,49.273808,-123.16295,22500000.0,3.0,3.0,4309.0,SINGLE_FAMILY,18501000.0,5662.8,Dexter Realty Brokerage,Kitsilano,2529 Point Grey Rd
+2065888378,1238 Seymour St #904,V6B6J3,Vancouver,BC,49.275776,-123.12576,768000.0,1.0,1.0,720.0,CONDO,,0.0,Sunrich Realty Brokerage,Downtown,1238 Seymour St 
+314394795,1255 E 41st Ave,V5W1R3,Vancouver,BC,49.233013,-123.08044,1288000.0,4.0,4.0,1180.0,MULTI_FAMILY,1095800.0,3484.8,Sutton Group-West Coast Realty Brokerage,Kensington-Cedar Cottage,1255 E 41st Ave
+314347556,1351 Laurier Ave,V6H1Y9,Vancouver,BC,49.25113,-123.13544,26800000.0,8.0,5.0,8824.0,SINGLE_FAMILY,13796000.0,0.4599999999999999,Luxmore Realty Brokerage,Shaughnessy,1351 Laurier Ave
+314354869,1188 W 55th Ave,V6P1R1,Vancouver,BC,49.22012,-123.13219,28880000.0,12.0,8.0,15371.0,SINGLE_FAMILY,18846000.0,1.05,Sutton Group-West Coast Realty Brokerage,Oakridge,1188 W 55th Ave
+2059582319,6288 Oak St #26,V6M2V5,Vancouver,BC,49.236534,-123.12843,1949900.0,3.0,3.0,1493.0,TOWNHOUSE,,0.0,Evermark Real Estate Services Brokerage,Shaughnessy,6288 Oak St 
+2059567929,6288 Oak St #51,V6M2V5,Vancouver,BC,49.236534,-123.12843,1949900.0,3.0,3.0,1374.0,TOWNHOUSE,,0.0,Evermark Real Estate Services Brokerage,Shaughnessy,6288 Oak St 
+2076435431,667 Howe St #4801,V6C0B5,Vancouver,BC,49.27419535,-123.13266220522848,23988000.0,7.0,4.0,7214.0,CONDO,,0.0,Prompton Real Estate Services Inc. Brokerage,Downtown,667 Howe St 
+2076443618,3263 Pierview Cres #502,V5S0G4,Vancouver,BC,49.2067952,-123.0380221,938800.0,2.0,2.0,1039.0,CONDO,,0.0,Luxmore Realty Brokerage,Killarney,3263 Pierview Cres 
+314337089,2814 W 20th Ave,V6L1H3,Vancouver,BC,49.254337,-123.1682,2888888.0,4.0,5.0,2744.0,SINGLE_FAMILY,2666000.0,4791.6,RE/MAX Crest Realty Brokerage,Arbutus-Ridge,2814 W 20th Ave
+314387754,7675 Prince Albert St,V5X3Z3,Vancouver,BC,49.215015,-123.08813,1800000.0,4.0,5.0,2550.0,SINGLE_FAMILY,1376000.0,3920.4,Sutton Group-West Coast Realty Brokerage,Sunset,7675 Prince Albert St
+2060184197,2435 Kingsway #314,V5R5G8,Vancouver,BC,49.241,-123.05549,619000.0,1.0,1.0,554.0,CONDO,,0.0,RE/MAX Crest Realty Brokerage,Renfrew-Collingwood,2435 Kingsway 
+2087436588,1480 Howe St,V6Z1R8,Vancouver,BC,49.2749095,-123.13101661844736,2699900.0,3.0,2.0,1335.0,CONDO,,0.0,RE/MAX Crest Realty Brokerage,Downtown,1480 Howe St
+2072489666,5118 Cambie St #301,V5Z3B2,Vancouver,BC,49.2842406,-123.10883,1869900.0,2.0,3.0,1315.0,CONDO,,0.0,RE/MAX Crest Realty Brokerage,Downtown,5118 Cambie St 
+314348864,692 W 39th Ave,V5Z2M3,Vancouver,BC,49.23536,-123.12043,6780000.0,2.0,4.0,2452.0,SINGLE_FAMILY,4011200.0,8276.4,Sutton Group Mattu Realty Brokerage,South Cambie,692 W 39th Ave
+314347410,1738 Angus Dr,V6J4H5,Vancouver,BC,49.25302,-123.143486,24998000.0,7.0,4.0,7984.0,SINGLE_FAMILY,17814000.0,1.17,Sotheby's International Realty Canada Brokerage,Shaughnessy,1738 Angus Dr
+314319398,4838 Belmont Ave,V6T1A9,Vancouver,BC,49.27489,-123.22121,59800000.0,8.0,5.0,12410.0,SINGLE_FAMILY,17339000.0,0.85,Macdonald Realty Brokerage,West Point Grey,4838 Belmont Ave
+2072599105,5118 Cambie St #401,V5Z3B2,Vancouver,BC,49.2842406,-123.10883,1939900.0,3.0,3.0,1335.0,CONDO,,0.0,RE/MAX Crest Realty Brokerage,Downtown,5118 Cambie St 
+2072517933,5118 Cambie St #402,V5Z3B2,Vancouver,BC,49.2842406,-123.10883,2059900.0,2.0,3.0,1315.0,CONDO,,0.0,RE/MAX Crest Realty Brokerage,Downtown,5118 Cambie St 
+2059567198,836/838 E 56th Ave,V5X1P7,Vancouver,BC,49.219517,-123.10582,3200000.0,8.0,8.0,2796.0,MULTI_FAMILY,,3484.8,RE/MAX Crest Realty Brokerage,Sunset,836/838 E 56th Ave
+2060711860,1550 Alberni St PENTHOUSE 1,V6G1A5,Vancouver,BC,49.289803,-123.13132,31880800.0,5.0,3.0,4404.0,CONDO,,0.0,VIRANI REAL ESTATE ADVISORS Brokerage,West End,1550 Alberni St 
+314325832,2835 W 5th Ave,V6K1T7,Vancouver,BC,49.26774,-123.16922,2799000.0,3.0,5.0,2798.0,SINGLE_FAMILY,2254000.0,6098.4,RE/MAX Select Properties Brokerage,Kitsilano,2835 W 5th Ave
+2060806273,1238 Richards St #2202,V6B6M6,Vancouver,BC,49.275234,-123.12472,1899900.0,2.0,2.0,1585.0,CONDO,,0.0,Oakwyn Realty Downtown Ltd. Brokerage,Downtown,1238 Richards St 
+2075229929,1011 Cordova St W PENTHOUSE 2,V6C0B2,Vancouver,BC,49.2856752,-123.1124025,24880000.0,5.0,4.0,6585.0,CONDO,,0.0,Rennie & Associates Realty Ltd. Brokerage,Downtown,1011 Cordova St W 
+2059597737,1570 W 7th Ave #1102,V6J5M1,Vancouver,BC,49.26513,-123.13997,829000.0,2.0,2.0,960.0,CONDO,,0.0,RE/MAX Select Realty Brokerage,Fairview,1570 W 7th Ave 
+2059556134,433 SW Marine Dr #1505,V5X2P9,Vancouver,BC,49.212673,-123.10687,709800.0,1.0,1.0,505.0,CONDO,,0.0,RE/MAX Crest Realty Brokerage,Marpole,433 SW Marine Dr 
+314355463,5980 Oak St,V6M2W2,Vancouver,BC,49.231617,-123.127716,1868000.0,4.0,3.0,1789.0,TOWNHOUSE,1767000.0,0.0,RE/MAX Real Estate Services Brokerage,Oakridge,5980 Oak St
+314373270,1185 E 17th Ave,V5V1C4,Vancouver,BC,49.255623,-123.08002,5195000.0,8.0,7.0,5094.0,SINGLE_FAMILY,1829500.0,6098.4,RE/MAX Select Properties Brokerage,Kensington-Cedar Cottage,1185 E 17th Ave
+314394796,1256 E 41st Ave,V5W1R4,Vancouver,BC,49.232475,-123.080475,2199000.0,6.0,6.0,2252.0,SINGLE_FAMILY,1714000.0,3049.2,eXp Realty Brokerage,Sunset,1256 E 41st Ave
+314360467,1558 W 64th Ave,V6P2N9,Vancouver,BC,49.212906,-123.14239,2880000.0,4.0,5.0,2424.0,SINGLE_FAMILY,2197000.0,3920.4,RE/MAX Select Properties Brokerage,Marpole,1558 W 64th Ave
+314323769,1338 Walnut St,V6J3R3,Vancouver,BC,49.273823,-123.148674,1499000.0,2.0,2.0,1373.0,TOWNHOUSE,1106000.0,0.0,Engel & Volkers Vancouver Brokerage,Kitsilano,1338 Walnut St
+2066436476,2418 Broad Way #302,V5M4T9,Vancouver,BC,49.261505,-123.05453,419900.0,2.0,2.0,992.0,APARTMENT,,0.0,Oakwyn Realty Ltd. Brokerage,Renfrew-Collingwood,2418 Broad Way 
+314371973,3315 Knight St,V5N3K7,Vancouver,BC,49.25505,-123.076294,1098000.0,2.0,4.0,1528.0,SINGLE_FAMILY,1202200.0,3484.8,RE/MAX Select Properties Brokerage,Kensington-Cedar Cottage,3315 Knight St
+2066829221,3601 Rae Ave,V5R2P6,Vancouver,BC,49.237156,-123.02518,1890000.0,3.0,3.0,1230.0,TOWNHOUSE,,0.0,Century 21 In Town Realty Brokerage,Renfrew-Collingwood,3601 Rae Ave
+314365106,238 E 15th Ave,V5T2P9,Vancouver,BC,49.25722,-123.09946,1500000.0,2.0,4.0,1442.0,TOWNHOUSE,1182000.0,0.0,TRG The Residential Group Realty Brokerage,Mount Pleasant,238 E 15th Ave
+2076437977,6999 Cambie St #106,V6P3H1,Vancouver,BC,49.2842406,-123.10883,849999.0,1.0,1.0,694.0,CONDO,,0.0,Sutton Group - Vancouver First Realty Brokerage,Downtown,6999 Cambie St 
+314389326,3437 Amberly Pl,V5S4P9,Vancouver,BC,49.20753,-123.03198,828800.0,3.0,3.0,1501.0,TOWNHOUSE,628000.0,1306.8,Keller Williams Realty VanCentral Brokerage,Killarney,3437 Amberly Pl
+2059848557,759 E 28th Ave,V5V3G9,Vancouver,BC,49.246124,-123.104744,1969000.0,4.0,3.0,1734.0,MULTI_FAMILY,,0.0,Oakwyn Realty Ltd. Brokerage,Riley Park,759 E 28th Ave
+314390069,5187 Sherbrooke St,V5W3M3,Vancouver,BC,49.237785,-123.08167,2399000.0,6.0,6.0,2863.0,SINGLE_FAMILY,1842000.0,3484.8,eXp Realty Brokerage,Kensington-Cedar Cottage,5187 Sherbrooke St
+2069073044,1534 Harwood St #1103,V6G1X9,Vancouver,BC,49.283222,-123.140495,399000.0,1.0,1.0,540.0,CONDO,,0.0,Stilhavn Real Estate Services Brokerage,West End,1534 Harwood St 
+2059760826,1225 Barclay St PENTHOUSE 1-801,V6E1H5,Vancouver,BC,49.285053,-123.12925,1379900.0,2.0,2.0,1289.0,CONDO,,0.0,Oakwyn Realty Ltd. Brokerage,West End,1225 Barclay St 
+2064186486,4837 Ross St,V5V4T6,Vancouver,BC,49.2173059,-123.0831337,2099000.0,5.0,4.0,2007.0,MULTI_FAMILY,,0.0,RE/MAX Crest Realty Brokerage,Sunset,4837 Ross St
+314427114,1060 Cardero St,V6G2H3,Vancouver,BC,49.286366,-123.136566,1250000.0,2.0,3.0,1088.0,TOWNHOUSE,1139000.0,0.0,RE/MAX Masters Realty Brokerage,West End,1060 Cardero St
+2077053670,620 Cardero St #1305,V6G0C7,Vancouver,BC,49.290783,-123.129776,1275000.0,1.0,2.0,718.0,CONDO,,0.0,TRG The Residential Group Realty Brokerage,Downtown,620 Cardero St 
+2059760231,1892 E 8th Ave,V5N1T8,Vancouver,BC,49.26297,-123.06618,1488000.0,3.0,3.0,1301.0,MULTI_FAMILY,,0.0,Umber Realty Inc. Brokerage,Grandview-Woodland,1892 E 8th Ave
+314324178,2487 Point Grey Rd,V6K1A1,Vancouver,BC,49.273792,-123.16158,18500000.0,5.0,4.0,4878.0,SINGLE_FAMILY,14495000.0,5662.8,Dexter Realty Brokerage,Kitsilano,2487 Point Grey Rd
+2059759349,7828 Granville St PENTHOUSE 11,V6P4Z2,Vancouver,BC,49.2147,-123.139885,1090000.0,2.0,2.0,967.0,CONDO,,0.0,Oakwyn Realty Downtown Ltd. Brokerage,Marpole,7828 Granville St 
+314426434,8170 Laval Pl,V5S4B2,Vancouver,BC,49.211548,-123.02876,729000.0,3.0,3.0,1516.0,TOWNHOUSE,722000.0,0.0,Sutton Group-West Coast Realty Brokerage,Killarney,8170 Laval Pl
+2059767835,49 W 1st Ave #3647,V6R1G4,Vancouver,BC,49.270905,-123.17781,4188000.0,5.0,4.0,3086.0,SINGLE_FAMILY,,3920.4,RE/MAX Select Properties Brokerage,Kitsilano,49 W 1st Ave 
+314325351,3066 W 3rd Ave,V6K1N1,Vancouver,BC,49.26906,-123.17317,3499000.0,3.0,4.0,2309.0,MULTI_FAMILY,2264000.0,0.0,Sutton Group-West Coast Realty Brokerage,Kitsilano,3066 W 3rd Ave
+2061262748,1201 Lameys Mill Rd #29,V6H3S8,Vancouver,BC,49.267197,-123.13277,777000.0,1.0,1.0,910.0,CONDO,,0.0,Oakwyn Realty Ltd. Brokerage,Fairview,1201 Lameys Mill Rd 
+314337393,2188 W 21st Ave,V6L1J3,Vancouver,BC,49.253258,-123.15543,4490000.0,7.0,6.0,4281.0,SINGLE_FAMILY,4585000.0,6969.6,RE/MAX Crest Realty Brokerage,Arbutus-Ridge,2188 W 21st Ave
+314357934,8119 Cartier St,V6P4T6,Vancouver,BC,49.212147,-123.13812,2180000.0,3.0,4.0,2398.0,SINGLE_FAMILY,1875700.0,3920.4,Regent Park Realty Inc. Brokerage,Marpole,8119 Cartier St
+314320475,3856 W 8th Ave,V6R1Z4,Vancouver,BC,49.26505,-123.189705,3380000.0,3.0,3.0,3012.0,SINGLE_FAMILY,2944000.0,5662.8,Homeland Realty Brokerage,West Point Grey,3856 W 8th Ave
+314344330,2606 SW Marine Dr,V6P6K5,Vancouver,BC,49.209114,-123.118484,22000000.0,7.0,5.0,10177.0,SINGLE_FAMILY,11033000.0,0.95,Sutton Group-West Coast Realty Brokerage,Marpole,2606 SW Marine Dr
+314346467,3416 Cedar Cres,V6J2R3,Vancouver,BC,49.25525,-123.14664,18500000.0,7.0,5.0,6260.0,SINGLE_FAMILY,13443000.0,0.3399999999999999,eXp Realty Brokerage,Shaughnessy,3416 Cedar Cres
+2059758675,1838 Nelson St #602,V6G1N1,Vancouver,BC,49.289524,-123.13957,1085000.0,2.0,2.0,959.0,CONDO,,0.0,Oakwyn Realty Downtown Ltd. Brokerage,West End,1838 Nelson St 
+2076432358,1211 Melville St #2404,V6E0A7,Vancouver,BC,49.28828175,-123.12420333304156,1988000.0,3.0,3.0,1360.0,CONDO,,0.0,Royal First Realty Brokerage,Downtown,1211 Melville St 
+2059757399,1151 Georgia St W #4102,V6E0B3,Vancouver,BC,49.28672,-123.12402,1949800.0,3.0,2.0,1130.0,CONDO,,0.0,Macdonald Realty Brokerage,Downtown,1151 Georgia St W 
+314357447,780 W 54th Ave,V6P1M5,Vancouver,BC,49.221203,-123.12325,4990000.0,7.0,7.0,4420.0,SINGLE_FAMILY,4411000.0,0.0,Royal Pacific Realty Corp. Brokerage,Oakridge,780 W 54th Ave
+314385787,362 E 56th Ave,V5X1R3,Vancouver,BC,49.21904,-123.098656,1980000.0,4.0,5.0,2000.0,SINGLE_FAMILY,1568000.0,3484.8,Multiple Realty Ltd. Brokerage,Sunset,362 E 56th Ave
+314347308,1055 Wolfe Ave,V6H1V6,Vancouver,BC,49.254288,-123.12871,4988000.0,5.0,8.0,5765.0,SINGLE_FAMILY,4523000.0,0.37,Heller Murch Realty Brokerage,Shaughnessy,1055 Wolfe Ave
+314336677,2849 W 18th Ave,V6L1B7,Vancouver,BC,49.256622,-123.16887,2299000.0,4.0,5.0,2137.0,SINGLE_FAMILY,1891000.0,3049.2,Stilhavn Real Estate Services Brokerage,Arbutus-Ridge,2849 W 18th Ave
+314361289,2887 Alberta St,V5Y3L6,Vancouver,BC,49.259758,-123.11133,1425000.0,2.0,3.0,1243.0,MULTI_FAMILY,1202000.0,0.0,One Percent Realty Ltd. Brokerage,Mount Pleasant,2887 Alberta St
+314324373,2711 Point Grey Rd,V6K1A4,Vancouver,BC,49.272415,-123.16668,15750000.0,6.0,4.0,4870.0,SINGLE_FAMILY,14582000.0,7405.2,Stilhavn Real Estate Services Brokerage,Kitsilano,2711 Point Grey Rd
+314425230,7206 Celista Dr,V5S4A1,Vancouver,BC,49.21812,-123.0267,699800.0,1.0,3.0,1067.0,TOWNHOUSE,596400.0,0.0,RE/MAX Crest Realty Brokerage,Killarney,7206 Celista Dr
+2059546762,1288 Alberni St #1703,V6E4N5,Vancouver,BC,49.28687,-123.12674,1038000.0,2.0,2.0,911.0,CONDO,,0.0,Stonehaus Realty Corp. Brokerage,West End,1288 Alberni St 
+314341431,2947 W 41st Ave,V6N3C8,Vancouver,BC,49.23502,-123.17158,2058000.0,2.0,4.0,2563.0,SINGLE_FAMILY,1913000.0,4356.0,RE/MAX Crest Realty Brokerage,Dunbar-Southlands,2947 W 41st Ave
+2059751816,1943 E 1st Ave #101,V5N1B3,Vancouver,BC,49.269833,-123.06481,1060000.0,2.0,3.0,1210.0,TOWNHOUSE,,0.0,Engel & Volkers Vancouver Brokerage,Grandview-Woodland,1943 E 1st Ave 
+2076442362,535 Smithe St #2801,V6B0H2,Vancouver,BC,49.27950645,-123.11929843108,1449000.0,2.0,2.0,1037.0,CONDO,,0.0,Behroyan & Associates Real Estate Services Brokerage,Downtown,535 Smithe St 
+2067888460,1508 Mariner Walk #408,V6J4X9,Vancouver,BC,49.27023,-123.13981,625000.0,2.0,2.0,1010.0,CONDO,,0.0,Oakwyn Realty Ltd. Brokerage,Fairview,1508 Mariner Walk 
+314391280,5335 Lanark St,V5P2X9,Vancouver,BC,49.23617,-123.07594,2688888.0,6.0,6.0,3539.0,SINGLE_FAMILY,1405900.0,3920.4,RE/MAX Crest Realty Brokerage,Kensington-Cedar Cottage,5335 Lanark St
+314338842,2175 W 32nd Ave,V6L2B1,Vancouver,BC,49.243313,-123.15666,6380000.0,5.0,5.0,4486.0,SINGLE_FAMILY,4803000.0,6969.6,Sutton Group-West Coast Realty Brokerage,Arbutus-Ridge,2175 W 32nd Ave
+2063148451,1028 Barclay St PENTHOUSE 1,V6E0B1,Vancouver,BC,49.282032,-123.12576,11988000.0,5.0,3.0,3175.0,CONDO,,0.0,VIRANI REAL ESTATE ADVISORS Brokerage,West End,1028 Barclay St 
+314319142,1611 Drummond Dr,V6T1B7,Vancouver,BC,49.274082,-123.22225,21000000.0,6.0,5.0,6977.0,SINGLE_FAMILY,18189000.0,1.34,Macdonald Realty Brokerage,West Point Grey,1611 Drummond Dr
+314336775,2259 W 18th Ave,V6L1A5,Vancouver,BC,49.25655,-123.156876,4480000.0,5.0,7.0,4424.0,SINGLE_FAMILY,3939000.0,7405.2,Royal Pacific Realty Corp. Brokerage,Arbutus-Ridge,2259 W 18th Ave
+2064230442,1077 Cordova St W PENTHOUSE 4201,V6C2C6,Vancouver,BC,49.288555,-123.11806,19999000.0,5.0,3.0,6041.0,CONDO,,0.0,VIRANI REAL ESTATE ADVISORS Brokerage,Downtown,1077 Cordova St W 
+314320568,2460 Sasamat St,V6R4S8,Vancouver,BC,49.26503,-123.20883,1650000.0,3.0,2.0,1556.0,TOWNHOUSE,1782000.0,0.0,RE/MAX Select Properties Brokerage,West Point Grey,2460 Sasamat St
+314346938,3402 Osler St,V6H2W3,Vancouver,BC,49.255585,-123.13185,21990000.0,9.0,6.0,9714.0,SINGLE_FAMILY,20401000.0,0.54,Sutton Group-West Coast Realty Brokerage,Shaughnessy,3402 Osler St
+2061263928,1250 Burnaby St #606,V6E1P6,Vancouver,BC,49.28149835,-123.13557188214205,319000.0,1.0,1.0,560.0,CONDO,,0.0,Sutton Group-West Coast Realty Brokerage,West End,1250 Burnaby St 
+314379459,4751 Saint Catherines St,V5V4M8,Vancouver,BC,49.241917,-123.08621,1499000.0,3.0,3.0,2536.0,SINGLE_FAMILY,1511000.0,3484.8,RE/MAX City Realty Brokerage,Kensington-Cedar Cottage,4751 Saint Catherines St
+314353831,6848 Hudson St,V6P4K5,Vancouver,BC,49.22325,-123.13465,11680000.0,8.0,6.0,7345.0,SINGLE_FAMILY,6430000.0,0.32,Faith Wilson Group Brokerage,Oakridge,6848 Hudson St
+2063296628,1219 Harwood St #604,V6E1S5,Vancouver,BC,49.2808,-123.13561,349000.0,1.0,1.0,547.0,CONDO,,0.0,Century 21 In Town Realty Brokerage,West End,1219 Harwood St 
+2059818427,1350 W 14th Ave PENTHOUSE 12,V6H1R1,Vancouver,BC,49.258606,-123.1352,4250000.0,3.0,3.0,2838.0,CONDO,,0.0,Engel & Volkers Vancouver Brokerage,Fairview,1350 W 14th Ave 
+314344727,1010 Ironwork Pass,V6H3P1,Vancouver,BC,49.267628,-123.128525,1350000.0,2.0,3.0,1246.0,TOWNHOUSE,1162000.0,0.0,Sutton Group - Grimson Realty Brokerage,Fairview,1010 Ironwork Pass
+2059759154,3651 Rae Ave,V5R2P6,Vancouver,BC,49.2371,-123.02501,1250000.0,3.0,4.0,1300.0,TOWNHOUSE,,0.0,Century 21 In Town Realty Brokerage,Renfrew-Collingwood,3651 Rae Ave
+2061259241,1850 Comox St #1207,V6G1R3,Vancouver,BC,49.288967,-123.14078,380000.0,1.0,1.0,613.0,CONDO,,0.0,Homelife Benchmark Realty Corp. (White Rock) Brokerage,West End,1850 Comox St 
+2059760935,1238 Burrard St #1101,V6Z3E1,Vancouver,BC,49.278458,-123.12951,675000.0,1.0,1.0,659.0,CONDO,,0.0,RE/MAX Crest Realty Brokerage,Downtown,1238 Burrard St 
+2065892973,2925 Horley St,V5R0H8,Vancouver,BC,49.2392233,-123.0455329,1098000.0,3.0,3.0,1175.0,SINGLE_FAMILY,,0.0,RA Realty Alliance Inc. Brokerage,Renfrew-Collingwood,2925 Horley St
+314335883,3595 Puget Dr,V6L2T6,Vancouver,BC,49.254574,-123.17574,7998000.0,4.0,5.0,4154.0,SINGLE_FAMILY,2638800.0,6534.0,Stilhavn Real Estate Services Brokerage,Dunbar-Southlands,3595 Puget Dr
+314347477,3537 Osler St,V6H2W4,Vancouver,BC,49.25423,-123.13155,23800000.0,9.0,5.0,10880.0,SINGLE_FAMILY,20755000.0,0.52,Icon&co. Boutique Inc. Brokerage,Shaughnessy,3537 Osler St
+2060694939,5926 Tisdall St #506,V5Z3N2,Vancouver,BC,49.23171,-123.121666,498000.0,1.0,2.0,946.0,CONDO,,0.0,RE/MAX Select Properties Brokerage,Oakridge,5926 Tisdall St 
+314388933,268 E 65th Ave,V5X2P4,Vancouver,BC,49.21147,-123.10078,1649000.0,3.0,5.0,2632.0,SINGLE_FAMILY,1443000.0,4356.0,Magsen Realty Inc. Brokerage,Sunset,268 E 65th Ave
+2059971604,1000 Beach Ave #33,V6E4M2,Vancouver,BC,49.27562,-123.13419,299000.0,0.0,0.0,40.0,SINGLE_FAMILY,,0.0,Century 21 In Town Realty Brokerage,Downtown,1000 Beach Ave 
+314363049,438 W 1st Ave,V5Y3S9,Vancouver,BC,49.267624,-123.11408,1299000.0,3.0,2.0,1336.0,TOWNHOUSE,1229000.0,0.0,Sotheby's International Realty Canada Brokerage,Mount Pleasant,438 W 1st Ave
+2059801636,1372 Seymour St SPACE H4601,V6B0L1,Vancouver,BC,49.27459,-123.12756,4888000.0,4.0,3.0,3088.0,CONDO,,0.0,Faith Wilson Group Brokerage,Downtown,1372 Seymour St SPACE H4601
+314390055,5059 Sherbrooke St,V5W3M1,Vancouver,BC,49.23866,-123.08165,2799000.0,5.0,5.0,2308.0,SINGLE_FAMILY,1236500.0,3049.2,Royal LePage West Real Estate Services Brokerage,Kensington-Cedar Cottage,5059 Sherbrooke St
+314352910,6475 Wiltshire St,V6M3M3,Vancouver,BC,49.227463,-123.14705,6980000.0,7.0,4.0,4945.0,SINGLE_FAMILY,6048000.0,8712.0,RE/MAX Crest Realty Brokerage,Kerrisdale,6475 Wiltshire St
+314328301,2995 W 12th Ave,V6K2R2,Vancouver,BC,49.261684,-123.171936,3499000.0,5.0,5.0,3711.0,SINGLE_FAMILY,3346000.0,4791.6,RE/MAX Crest Realty Brokerage,Kitsilano,2995 W 12th Ave
+2061266248,1250 Burnaby St #607,V6E1P6,Vancouver,BC,49.28147,-123.135605,349000.0,1.0,1.0,570.0,CONDO,,0.0,Sutton Group-West Coast Realty Brokerage,West End,1250 Burnaby St 
+2060941507,1268 Broadway W #1120,V6H1G6,Vancouver,BC,49.263184,-123.13281,1148000.0,2.0,3.0,1245.0,CONDO,,0.0,Oakwyn Realty Encore Brokerage,Fairview,1268 Broadway W 
+2060216334,901 E Broadway,V5T1Y3,Vancouver,BC,49.26278,-123.08508,1138000.0,3.0,3.0,1175.0,TOWNHOUSE,,0.0,Interlink Realty Brokerage,Mount Pleasant,901 E Broadway
+2061575488,1219 Harwood St #201,V6E1S5,Vancouver,BC,49.2808,-123.13561,629000.0,2.0,2.0,744.0,CONDO,,0.0,Stilhavn Real Estate Services Brokerage,West End,1219 Harwood St 
+2059749231,5380 Oben St #1108,V5R6H7,Vancouver,BC,49.23514,-123.02616,649900.0,1.0,1.0,680.0,CONDO,,0.0,Multiple Realty Ltd. Brokerage,Renfrew-Collingwood,5380 Oben St 
+314366876,2042 Franklin St,V5L1R3,Vancouver,BC,49.281853,-123.06261,1388888.0,3.0,4.0,2026.0,SINGLE_FAMILY,1126000.0,3049.2,Bode Platform Inc. Brokerage,Grandview-Woodland,2042 Franklin St
+2060118225,1933 W 5th Ave #305,V6J1P6,Vancouver,BC,49.26749,-123.14884,479000.0,1.0,1.0,449.0,CONDO,,0.0,RE/MAX Sabre Realty Group Brokerage,Kitsilano,1933 W 5th Ave 
+2060781717,935 Richards St,V6B3B6,Vancouver,BC,49.27875,-123.12026,1348000.0,2.0,3.0,1302.0,TOWNHOUSE,,0.0,Heller Murch Realty Brokerage,Downtown,935 Richards St
+2059768478,3537 Georgia St E,V5K2J4,Vancouver,BC,49.278503,-123.056305,1398000.0,3.0,3.0,1409.0,MULTI_FAMILY,,0.0,RE/MAX Select Realty Brokerage,Hastings-Sunrise,3537 Georgia St E
+2059759075,3617 Rae Ave,V5R2P6,Vancouver,BC,49.237156,-123.02518,799000.0,2.0,2.0,822.0,TOWNHOUSE,,0.0,Century 21 In Town Realty Brokerage,Renfrew-Collingwood,3617 Rae Ave
+314333663,3405 W 27th Ave,V6S1P5,Vancouver,BC,49.248302,-123.18035,2798000.0,3.0,5.0,2551.0,SINGLE_FAMILY,2500000.0,4356.0,Engel & Volkers Vancouver Brokerage,Dunbar-Southlands,3405 W 27th Ave
+314342949,6330 Macdonald St,V6N1E6,Vancouver,BC,49.22908,-123.16667,26888000.0,8.0,6.0,10006.0,SINGLE_FAMILY,11186000.0,0.49,LDG Realty Brokerage,Kerrisdale,6330 Macdonald St
+2059998212,518 Moberly Rd #514,V5Z4G3,Vancouver,BC,49.26786,-123.11686,958000.0,2.0,2.0,1294.0,CONDO,,0.0,Engel & Volkers Vancouver Brokerage,Fairview,518 Moberly Rd 
+2076461380,7561 Granville St,V6P4Y6,Vancouver,BC,49.2652712,-123.1385151,1780000.0,3.0,3.0,1544.0,TOWNHOUSE,,0.0,RE/MAX Crest Realty Brokerage,Fairview,7561 Granville St
+2060828590,1328 W 73rd Ave #1,V6P3E7,Vancouver,BC,49.20408,-123.1356,699000.0,2.0,2.0,858.0,TOWNHOUSE,,0.0,Macdonald Realty Brokerage,Marpole,1328 W 73rd Ave 
+2065575057,885 Cambie St #2500,V6B0R6,Vancouver,BC,49.277515,-123.11653,12888800.0,6.0,5.0,4587.0,CONDO,,0.0,VIRANI REAL ESTATE ADVISORS Brokerage,Downtown,885 Cambie St 
+314346285,3183 Ash St,V5Z4L1,Vancouver,BC,49.257236,-123.11845,999000.0,3.0,2.0,1256.0,TOWNHOUSE,1021000.0,0.0,One Percent Realty Ltd. Brokerage,Fairview,3183 Ash St
+2070559360,1005 Beach Ave #303,V6E3W2,Vancouver,BC,49.27686735,-123.13417168042524,1298000.0,2.0,2.0,1138.0,CONDO,,0.0,Coldwell Banker Prestige Realty Brokerage,West End,1005 Beach Ave 
+2059752667,1255 Seymour St #1504,V6B0H1,Vancouver,BC,49.27604,-123.12647,899000.0,2.0,2.0,865.0,CONDO,,0.0,RE/MAX Select Properties Brokerage,Downtown,1255 Seymour St 
+314404989,3326 Slocan St,V5M3E5,Vancouver,BC,49.25455,-123.04921,1599000.0,3.0,4.0,2345.0,SINGLE_FAMILY,1326000.0,3484.8,RE/MAX Little Oak Realty (Surrey) Brokerage,Renfrew-Collingwood,3326 Slocan St
+314385313,1392 E 54th Ave,V5X1M4,Vancouver,BC,49.220184,-123.07773,1669000.0,4.0,4.0,1965.0,SINGLE_FAMILY,1240000.0,3484.8,Vanhaus Gruppe Realty Inc. Brokerage,Sunset,1392 E 54th Ave
+314356423,825 W 42nd Ave,V5Z2P2,Vancouver,BC,49.233128,-123.12441,5588000.0,7.0,6.0,4467.0,SINGLE_FAMILY,5053000.0,6969.6,Dracco Pacific Realty Brokerage,Oakridge,825 W 42nd Ave
+2059758931,3631 Rae Ave,V5R2P6,Vancouver,BC,49.2371,-123.02501,1149000.0,3.0,3.0,1100.0,TOWNHOUSE,,0.0,Century 21 In Town Realty Brokerage,Renfrew-Collingwood,3631 Rae Ave
+314367987,1258 Salsbury Dr,V5L0B2,Vancouver,BC,49.273384,-123.067375,1288000.0,3.0,3.0,1200.0,TOWNHOUSE,1152000.0,0.0,RE/MAX Select Realty Brokerage,Grandview-Woodland,1258 Salsbury Dr
+314395799,3195 Venables St,V5K2S3,Vancouver,BC,49.27656,-123.03671,2250000.0,4.0,7.0,2620.0,SINGLE_FAMILY,1704000.0,3920.4,Sutton Group - 1st West Realty Brokerage,Hastings-Sunrise,3195 Venables St
+314338332,2920 W 27th Ave,V6L1W3,Vancouver,BC,49.247726,-123.170815,7980000.0,5.0,4.0,3078.0,SINGLE_FAMILY,5095000.0,4356.0,Luxmore Realty Brokerage,Dunbar-Southlands,2920 W 27th Ave
+2059759505,2288 W 40th Ave #802,V6M1W6,Vancouver,BC,49.235313,-123.15959,1989000.0,3.0,3.0,1837.0,CONDO,,0.0,RE/MAX Crest Realty Brokerage,Arbutus-Ridge,2288 W 40th Ave 
+2061495114,727 E 39th Ave,V5W1K5,Vancouver,BC,49.23503,-123.0896,1700000.0,3.0,9.0,2880.0,SINGLE_FAMILY,,3920.4,Sutton Group-West Coast Realty Brokerage,Kensington-Cedar Cottage,727 E 39th Ave
+2059755188,928 Richards St #706,V6B6P6,Vancouver,BC,49.27836,-123.1199,849000.0,2.0,2.0,765.0,CONDO,,0.0,Oakwyn Realty Ltd. Brokerage,Downtown,928 Richards St 
+314357641,8450 Cornish St,V6P5B8,Vancouver,BC,49.20889,-123.14194,1650000.0,4.0,4.0,1750.0,TOWNHOUSE,1868000.0,0.0,RE/MAX Crest Realty Brokerage,Marpole,8450 Cornish St
+314354072,6131 Oak St,V6M2W3,Vancouver,BC,49.22977,-123.12871,1399000.0,2.0,2.0,1161.0,TOWNHOUSE,1232000.0,0.0,RE/MAX Crest Realty Brokerage,Oakridge,6131 Oak St
+314322121,4583 W 14th Ave,V6R2Y5,Vancouver,BC,49.26048,-123.21166,4799900.0,8.0,7.0,3513.0,SINGLE_FAMILY,2418200.0,3920.4,RE/MAX Crest Realty Brokerage,West Point Grey,4583 W 14th Ave
+314321191,4318 W 11th Ave,V6R2M1,Vancouver,BC,49.262543,-123.20356,4490000.0,5.0,8.0,3847.0,SINGLE_FAMILY,3262000.0,6098.4,LeHomes Realty Premier Brokerage,West Point Grey,4318 W 11th Ave
+314345983,1685 W 14th Ave #700,V6J2J3,Vancouver,BC,49.259235,-123.14327,1899000.0,2.0,3.0,2060.0,CONDO,1554000.0,0.0,Stilhavn Real Estate Services Brokerage,Fairview,1685 W 14th Ave 
+2071768478,111 Georgia St W #3308,V6B1T8,Vancouver,BC,49.2943105,-123.1364884,1053880.0,2.0,2.0,900.0,CONDO,,0.0,Macdonald Realty Westmar Brokerage,West End,111 Georgia St W 
+2059759201,3649 Rae Ave,V5R2P6,Vancouver,BC,49.2371,-123.02501,1129000.0,3.0,3.0,1102.0,TOWNHOUSE,,0.0,Century 21 In Town Realty Brokerage,Renfrew-Collingwood,3649 Rae Ave
+2061155799,1785 Columbia St,V5Y0B6,Vancouver,BC,49.2818703,-123.1022474,1750000.0,3.0,2.0,1303.0,TOWNHOUSE,,0.0,Dexter Realty Brokerage,Downtown,1785 Columbia St
+314324510,2410 York Ave,V6K1E1,Vancouver,BC,49.271515,-123.16031,1499000.0,2.0,2.0,1356.0,CONDO,1234000.0,0.0,Royal LePage West Real Estate Services Brokerage,Kitsilano,2410 York Ave
+314324169,2502 Point Grey Rd,V6K1A3,Vancouver,BC,49.27331,-123.162315,8500000.0,3.0,5.0,3512.0,SINGLE_FAMILY,5120000.0,6098.4,Oakwyn Realty Ltd. Brokerage,Kitsilano,2502 Point Grey Rd
+2069981786,2883 E Kent Ave N #2,V5S3T9,Vancouver,BC,49.2065923,-123.04871500875318,649000.0,2.0,2.0,947.0,TOWNHOUSE,,0.0,Nu Stream Realty Inc. Brokerage,Killarney,2883 E Kent Ave N 
+314325633,2448 W 4th Ave,V6K1P3,Vancouver,BC,49.267998,-123.160965,898999.0,2.0,2.0,990.0,TOWNHOUSE,970000.0,0.0,Sutton Group - 1st West Realty Brokerage,Kitsilano,2448 W 4th Ave
+314393857,1419 E 30th Ave,V5N3A1,Vancouver,BC,49.24391,-123.075485,2199000.0,3.0,6.0,1814.0,SINGLE_FAMILY,1632500.0,6098.4,Oakwyn Realty Ltd. Brokerage,Kensington-Cedar Cottage,1419 E 30th Ave
+314372567,3816 Commercial St,V5N4G2,Vancouver,BC,49.251175,-123.06775,1249000.0,2.0,3.0,1206.0,TOWNHOUSE,1115000.0,0.0,Blu Realty Brokerage,Kensington-Cedar Cottage,3816 Commercial St
+314339578,5575 Larch St,V6M4C9,Vancouver,BC,49.23577,-123.16312,4699000.0,6.0,7.0,4025.0,SINGLE_FAMILY,4026000.0,6098.4,LeHomes Realty Premier Brokerage,Arbutus-Ridge,5575 Larch St
+2060839653,1055 Broadway E #204,V6H1E2,Vancouver,BC,49.26371,-123.1278,550000.0,1.0,1.0,518.0,CONDO,,0.0,Keller Williams Realty VanCentral Brokerage,Fairview,1055 Broadway E 
+314320483,3806 W 8th Ave,V6R1Z4,Vancouver,BC,49.265003,-123.188095,2888000.0,3.0,5.0,3026.0,SINGLE_FAMILY,2821000.0,6098.4,Rennie & Associates Realty Ltd. Brokerage,West Point Grey,3806 W 8th Ave
+314319155,1784 Drummond Dr,V6T1B6,Vancouver,BC,49.27189,-123.220665,21800000.0,2.0,4.0,0.0,SINGLE_FAMILY,19766000.0,1.73,Oakwyn Realty Ltd. Brokerage,West Point Grey,1784 Drummond Dr
+2073706790,1825 W 8th Ave #208,V6J1V9,Vancouver,BC,49.26484805,-123.1463616160852,1048000.0,2.0,2.0,1088.0,CONDO,,0.0,Dexter Realty Brokerage,Kitsilano,1825 W 8th Ave 
+2070443329,138 E Hastings St #402,V6A0E6,Vancouver,BC,49.281055,-123.1012,389900.0,1.0,1.0,452.0,CONDO,,0.0,Oakwyn Realty Encore Brokerage,Downtown,138 E Hastings St 
+314348326,1626 Avondale Ave,V6M1S1,Vancouver,BC,49.236717,-123.14185,14980000.0,8.0,5.0,5125.0,SINGLE_FAMILY,10112000.0,0.36,RE/MAX Crest Realty Brokerage,Shaughnessy,1626 Avondale Ave
+2059751815,8888 Osler St #205,V6P4G2,Vancouver,BC,49.20483,-123.13085,648800.0,1.0,1.0,445.0,CONDO,,0.0,eXp Realty Brokerage,Marpole,8888 Osler St 
+2061495581,1216 W 11th Ave #206,V6H1K5,Vancouver,BC,49.261246,-123.13179,558000.0,1.0,1.0,865.0,CONDO,,0.0,Sotheby's International Realty Canada Brokerage,Fairview,1216 W 11th Ave 
+2059926902,1325 Rolston St #201,V6B0M2,Vancouver,BC,49.275578,-123.12783,799000.0,2.0,2.0,976.0,CONDO,,0.0,Sutton Group-West Coast Realty Brokerage,Downtown,1325 Rolston St 
+2072715332,5625 Senlac St #205,V5R6G8,Vancouver,BC,49.2324164,-123.0335615,1149000.0,3.0,3.0,2804.0,TOWNHOUSE,,0.0,Sutton Group-West Coast Realty Brokerage,Killarney,5625 Senlac St 
+314427149,1078 Nicola St,V6G2E2,Vancouver,BC,49.28541,-123.13546,1449900.0,2.0,3.0,1253.0,TOWNHOUSE,1159000.0,0.0,RE/MAX All Points Realty Brokerage,West End,1078 Nicola St
+2060504870,2445 W 3rd Ave #203,V6K4K6,Vancouver,BC,49.2694,-123.16086,998000.0,2.0,2.0,1129.0,CONDO,,0.0,Century 21 In Town Realty Brokerage,Kitsilano,2445 W 3rd Ave 
+314347340,1638 Marpole Ave,V6J2S1,Vancouver,BC,49.25533,-123.14173,12990000.0,8.0,5.0,7301.0,SINGLE_FAMILY,9375000.0,0.39,Dracco Pacific Realty Brokerage,Shaughnessy,1638 Marpole Ave
+314347005,4549 Osler St,V6H2Y2,Vancouver,BC,49.245018,-123.130394,4998000.0,6.0,6.0,5327.0,SINGLE_FAMILY,4139000.0,6098.4,Rennie & Associates Realty - Jason Soprovich Brokerage,Shaughnessy,4549 Osler St
+314421399,2235 E 49th Ave,V5P1T9,Vancouver,BC,49.225464,-123.0611,2980000.0,3.0,3.0,2168.0,SINGLE_FAMILY,2086400.0,0.25,Royal LePage Westside Brokerage,Victoria-Fraserview,2235 E 49th Ave
+314370528,1455 E 10th Ave,V5N1X4,Vancouver,BC,49.261654,-123.07443,1798000.0,4.0,4.0,1555.0,MULTI_FAMILY,1494900.0,0.0,RE/MAX Select Realty Brokerage,Kensington-Cedar Cottage,1455 E 10th Ave
+314324144,3623 Cameron Ave,V6R1A1,Vancouver,BC,49.273067,-123.184235,12800000.0,3.0,2.0,2948.0,SINGLE_FAMILY,8274000.0,2613.6,Royal LePage Westside Brokerage,Kitsilano,3623 Cameron Ave
+314366890,2186 Franklin St,V5L1R5,Vancouver,BC,49.281857,-123.060104,1200000.0,2.0,3.0,1458.0,SINGLE_FAMILY,1115300.0,3484.8,RE/MAX 2000 Realty Brokerage,Grandview-Woodland,2186 Franklin St
+314411645,5097 Moss St,V5R3T6,Vancouver,BC,49.23836,-123.04679,1249800.0,4.0,3.0,1246.0,MULTI_FAMILY,1178000.0,3484.8,Jovi Realty Inc. Brokerage,Renfrew-Collingwood,5097 Moss St
+2076439638,3289 Riverwalk Ave #207,V5S0G2,Vancouver,BC,49.205833,-123.03783,824800.0,2.0,2.0,1062.0,CONDO,,0.0,Engel & Volkers Vancouver Brokerage,Killarney,3289 Riverwalk Ave 
+314346840,1487 Minto Cres,V6H2J6,Vancouver,BC,49.243046,-123.13874,15888000.0,10.0,7.0,9904.0,SINGLE_FAMILY,5658000.0,0.4,Regent Park Realty Inc. Brokerage,Shaughnessy,1487 Minto Cres
+314424026,7443 Echo Pl,V5S3Z2,Vancouver,BC,49.217346,-123.02856,978800.0,3.0,3.0,2066.0,TOWNHOUSE,862000.0,0.0,Sutton Group-West Coast Realty Brokerage,Killarney,7443 Echo Pl
+2076463851,5383 Cambie St #604,V5Z2Z9,Vancouver,BC,49.2842406,-123.10883,1330000.0,2.0,2.0,863.0,CONDO,,0.0,RE/MAX Crest Realty Brokerage,Downtown,5383 Cambie St 
+2060635264,3625 Rae Ave,V5R2P6,Vancouver,BC,49.237156,-123.02518,799000.0,2.0,2.0,822.0,TOWNHOUSE,,0.0,Century 21 In Town Realty Brokerage,Renfrew-Collingwood,3625 Rae Ave
+314427630,1161 Cordova St W,V6C0A1,Vancouver,BC,49.289257,-123.12097,4350000.0,4.0,3.0,2303.0,TOWNHOUSE,4957000.0,0.0,Macdonald Realty Brokerage,Downtown,1161 Cordova St W
+314327255,2525 Blenheim St #207,V6K4W6,Vancouver,BC,49.263973,-123.17826,799000.0,1.0,1.0,826.0,CONDO,664000.0,0.0,Regent Park Realty Inc. Brokerage,Kitsilano,2525 Blenheim St 
+2059764030,193 Aquarius Mews #502,V6Z2Z2,Vancouver,BC,49.274166,-123.11877,1198000.0,2.0,2.0,801.0,CONDO,,0.0,RE/MAX City Realty Brokerage,Downtown,193 Aquarius Mews 
+314351364,846 King Edward Ave W,V5Z2E1,Vancouver,BC,49.248768,-123.123436,4200000.0,5.0,6.0,4328.0,SINGLE_FAMILY,3163000.0,7405.2,RE/MAX Crest Realty Brokerage,South Cambie,846 King Edward Ave W
+314364232,1012 E 12th Ave,V5T2J6,Vancouver,BC,49.259403,-123.08303,1480000.0,4.0,4.0,1936.0,SINGLE_FAMILY,1327900.0,3920.4,Oakwyn Realty Ltd. Brokerage,Mount Pleasant,1012 E 12th Ave
+314422891,8469 Portside Ct,V5P4V4,Vancouver,BC,49.207222,-123.062416,1088000.0,3.0,3.0,1691.0,TOWNHOUSE,919000.0,0.0,RE/MAX City Realty Brokerage,Victoria-Fraserview,8469 Portside Ct
+314424072,7250 Appledale Pl,V5S3Y7,Vancouver,BC,49.217346,-123.02856,899999.0,2.0,3.0,1836.0,TOWNHOUSE,795000.0,0.0,Century 21 Supreme Realty Inc. Brokerage,Killarney,7250 Appledale Pl
+314341095,5290 Angus Dr,V6M3N1,Vancouver,BC,49.238396,-123.145805,3999000.0,4.0,6.0,3764.0,SINGLE_FAMILY,4005000.0,9147.6,Dexter Realty Brokerage,Shaughnessy,5290 Angus Dr
+2059988748,1433 E 1st Ave PENTHOUSE 1,V5N1A4,Vancouver,BC,49.269894,-123.07443,679000.0,2.0,2.0,885.0,CONDO,,0.0,Stonehaus Realty Corp. Brokerage,Grandview-Woodland,1433 E 1st Ave 
+2071452048,22 Cordova St E #317,V6A4G8,Vancouver,BC,49.28211,-123.10373,425000.0,1.0,0.0,403.0,CONDO,,0.0,Oakwyn Realty Ltd. Brokerage,Downtown,22 Cordova St E 
+314376982,5022 Fraser St,V5W2Y8,Vancouver,BC,49.23914,-123.09002,1175000.0,1.0,2.0,1344.0,SINGLE_FAMILY,1250000.0,3484.8,RE/MAX Select Properties Brokerage,Kensington-Cedar Cottage,5022 Fraser St
+314319395,4651 Simpson Ave,V6R1C2,Vancouver,BC,49.274628,-123.2133,12580000.0,8.0,5.0,5283.0,SINGLE_FAMILY,10066000.0,9147.6,Luxmore Realty Brokerage,West Point Grey,4651 Simpson Ave
+2068795863,1102 Hornby St PENTHOUSE 2,V6Z1V8,Vancouver,BC,49.27912,-123.12656,3988000.0,4.0,3.0,2719.0,CONDO,,0.0,VIRANI REAL ESTATE ADVISORS Brokerage,Downtown,1102 Hornby St 
+2064146293,1477 Fountain Way #204,V6H3W9,Vancouver,BC,49.2689117,-123.13619806318894,599900.0,2.0,2.0,1282.0,CONDO,,0.0,eXp Realty Brokerage,Fairview,1477 Fountain Way 
+2060488824,1848 Macdonald St,V6K3X9,Vancouver,BC,49.26942,-123.167984,2999999.0,3.0,5.0,2871.0,SINGLE_FAMILY,,2613.6,RE/MAX Crest Realty Brokerage,Kitsilano,1848 Macdonald St
+2070804611,1499 W Pender St #1904,V6G2S3,Vancouver,BC,49.29011585,-123.12851828371991,1680000.0,3.0,2.0,1220.0,CONDO,,0.0,RE/MAX Elevate Realty Brokerage,Downtown,1499 W Pender St 
+2060798094,1425 Lameys Mill Rd #66,V6H3W2,Vancouver,BC,49.268436,-123.135826,1098000.0,2.0,2.0,1668.0,CONDO,,0.0,RE/MAX Select Properties Brokerage,Fairview,1425 Lameys Mill Rd 
+314320283,4613 W 6th Ave,V6R1V6,Vancouver,BC,49.26755,-123.21245,3698000.0,4.0,4.0,3288.0,SINGLE_FAMILY,4026000.0,6534.0,RE/MAX Select Properties Brokerage,West Point Grey,4613 W 6th Ave
+314365486,1022 Odlum Dr,V5L3L6,Vancouver,BC,49.27539,-123.07553,1699000.0,3.0,5.0,1716.0,MULTI_FAMILY,1193300.0,0.0,Macdonald Realty Brokerage,Grandview-Woodland,1022 Odlum Dr
+2060637542,610 Granville St #1010,V6C3T3,Vancouver,BC,49.283215,-123.11653,950000.0,2.0,2.0,889.0,CONDO,,0.0,Stilhavn Real Estate Services Brokerage,Downtown,610 Granville St 
+2061465931,1289 Hornby St #4101,V6Z2H7,Vancouver,BC,49.282707,-123.1215,1250000.0,2.0,2.0,767.0,CONDO,,0.0,eXp Realty Brokerage,Downtown,1289 Hornby St 
+2059749230,221 Union St #419,V6A0B4,Vancouver,BC,49.277897,-123.09864,635000.0,1.0,1.0,635.0,CONDO,,0.0,RE/MAX Crest Realty Brokerage,Strathcona,221 Union St 
+2060603460,4560 W 8th Ave,V6K2A4,Vancouver,BC,49.264404,-123.1533,4190000.0,5.0,7.0,3237.0,SINGLE_FAMILY,,3920.4,Regent Park Fairchild Realty Inc. Brokerage,Kitsilano,4560 W 8th Ave
+314335330,3315 W 38th Ave,V6N2X8,Vancouver,BC,49.237946,-123.17898,5680000.0,4.0,4.0,3652.0,SINGLE_FAMILY,5626000.0,6534.0,Dracco Pacific Realty Brokerage,Dunbar-Southlands,3315 W 38th Ave
+314363110,414 E 5th Ave,V5T1H7,Vancouver,BC,49.265976,-123.09516,1749800.0,3.0,3.0,1751.0,TOWNHOUSE,1878300.0,0.0,Rennie & Associates Realty Ltd. Brokerage,Mount Pleasant,414 E 5th Ave
+2059749115,6288 Oak St #15,V6M2V5,Vancouver,BC,49.236534,-123.12843,1859900.0,3.0,3.0,1283.0,TOWNHOUSE,,0.0,Evermark Real Estate Services Brokerage,Shaughnessy,6288 Oak St 
+2059768532,128 Cordova St W #2304,V6B0E6,Vancouver,BC,49.282524,-123.107956,599000.0,1.0,1.0,646.0,CONDO,,0.0,Oakwyn Realty Ltd. Brokerage,Downtown,128 Cordova St W 
+314347981,1461 Connaught Dr,V6H2H5,Vancouver,BC,49.24573,-123.13801,16880000.0,8.0,6.0,9072.0,SINGLE_FAMILY,12084000.0,0.3299999999999999,Sutton Group-West Coast Realty Brokerage,Shaughnessy,1461 Connaught Dr
+2059906757,55 Alexander St #502,V6A1B2,Vancouver,BC,49.28379,-123.10297,399000.0,1.0,0.0,441.0,CONDO,,0.0,Stilhavn Real Estate Services Brokerage,Downtown,55 Alexander St 
+314339751,5038 Arbutus St,V6M3W2,Vancouver,BC,49.240513,-123.15469,11880880.0,9.0,6.0,4542.0,SINGLE_FAMILY,2810000.0,5662.8,Royal Pacific Riverside Realty Ltd. Brokerage,Arbutus-Ridge,5038 Arbutus St
+2060655925,7061 Cypress St #C,V6P5M2,Vancouver,BC,49.221283,-123.15005,1650000.0,4.0,3.0,1349.0,TOWNHOUSE,,0.0,Oakwyn Realty Ltd. Brokerage,Kerrisdale,7061 Cypress St 
+2061813775,819 Hamilton St #1111,V6B6M2,Vancouver,BC,49.2788521,-123.11647329466888,658000.0,1.0,1.0,631.0,CONDO,,0.0,Pacific Evergreen Realty Ltd. Brokerage,Downtown,819 Hamilton St 
+314333754,3626 W 28th Ave #104,V6S1S4,Vancouver,BC,49.246838,-123.1858,1068000.0,2.0,2.0,1253.0,TOWNHOUSE,895000.0,0.0,Oakwyn Realty Ltd. Brokerage,Dunbar-Southlands,3626 W 28th Ave 
+2059762821,1281 Cordova St W #2604,V6C3R5,Vancouver,BC,49.2901,-123.1232,2839000.0,2.0,2.0,1390.0,CONDO,,0.0,Oakwyn Realty Ltd. Brokerage,Downtown,1281 Cordova St W 
+314336974,2268 W 19th Ave,V6L1C4,Vancouver,BC,49.255096,-123.157135,6880000.0,8.0,5.0,4450.0,SINGLE_FAMILY,5775000.0,6098.4,Sutton Group-West Coast Realty Brokerage,Arbutus-Ridge,2268 W 19th Ave
+2060798520,1850 Comox St #1908,V6G1R3,Vancouver,BC,49.288967,-123.14078,399999.0,1.0,1.0,531.0,CONDO,,0.0,RE/MAX City Realty Brokerage,West End,1850 Comox St 
+314319827,4619 W 3rd Ave,V6R1N5,Vancouver,BC,49.270554,-123.21274,16500000.0,6.0,4.0,6685.0,SINGLE_FAMILY,12175000.0,0.26,Luxmore Realty Brokerage,West Point Grey,4619 W 3rd Ave
+2060120649,1236 Bidwell St #801,V6G2K9,Vancouver,BC,49.285522,-123.14082,2599999.0,2.0,2.0,1755.0,CONDO,,0.0,Oakwyn Realty Downtown Ltd. Brokerage,West End,1236 Bidwell St 
+2060184461,1365 W 4th Ave #205,V6H3Y8,Vancouver,BC,49.266853,-123.13509,699000.0,1.0,1.0,749.0,CONDO,,0.0,TRG The Residential Group Realty Brokerage,Fairview,1365 W 4th Ave 
+2061393673,27 Alexander St #807,V6A1B2,Vancouver,BC,49.283703,-123.10366,849000.0,1.0,1.0,740.0,CONDO,,0.0,Oakwyn Realty Ltd. Brokerage,Downtown,27 Alexander St 
+2072073407,1211 Melville St #3401,V6E0A7,Vancouver,BC,49.28828175,-123.12420333304156,1168000.0,2.0,2.0,820.0,CONDO,,0.0,Real Broker B.C. Ltd. Brokerage,Downtown,1211 Melville St 
+2059752267,1238 Melville St #1805,V6E4N2,Vancouver,BC,49.288223,-123.12536,888800.0,2.0,2.0,945.0,CONDO,,0.0,Oakwyn Realty Downtown Ltd. Brokerage,Downtown,1238 Melville St 
+2059762995,1565 W 6th Ave #203,V6J1R1,Vancouver,BC,49.266468,-123.14007,749000.0,1.0,1.0,582.0,CONDO,,0.0,RE/MAX Crest Realty Brokerage,Fairview,1565 W 6th Ave 
+314411074,5188 Chambers St,V5R0G2,Vancouver,BC,49.23753,-123.05267,799888.0,2.0,2.0,857.0,TOWNHOUSE,676000.0,0.0,eXp Realty (Branch) Brokerage,Renfrew-Collingwood,5188 Chambers St
+2061670018,3180 E 58th Ave #89,V5S3S8,Vancouver,BC,49.2172441,-123.0740374,1260000.0,3.0,4.0,2080.0,TOWNHOUSE,,0.0,Macdonald Realty Westmar Brokerage,Victoria-Fraserview,3180 E 58th Ave 
+314366727,2128 Eton St,V5L1C7,Vancouver,BC,49.28736,-123.06046,1400000.0,3.0,4.0,1464.0,TOWNHOUSE,1266000.0,0.0,Keller Williams Realty VanCentral Brokerage,Grandview-Woodland,2128 Eton St
+314427801,1279 Seymour St,V6B3N6,Vancouver,BC,49.27604,-123.12647,1188888.0,3.0,2.0,1180.0,TOWNHOUSE,1441000.0,0.0,RE/MAX Crest Realty Brokerage,Downtown,1279 Seymour St
+314322507,4474 W 15th Ave,V6R3B2,Vancouver,BC,49.259003,-123.20839,4199000.0,6.0,4.0,2886.0,SINGLE_FAMILY,3377000.0,3920.4,Oakwyn Realty Ltd. Brokerage,West Point Grey,4474 W 15th Ave
+2061439256,583 Beach Cres #2205,V6Z3E6,Vancouver,BC,49.27359615,-123.12920786220332,1788000.0,2.0,2.0,1030.0,CONDO,,0.0,Dexter Realty Brokerage,Downtown,583 Beach Cres 
+2059749113,628 Kinghorne Mews #901,V6Z3H6,Vancouver,BC,49.272865,-123.13143,4500000.0,3.0,2.0,1938.0,CONDO,,0.0,RE/MAX Lionel Lorence Brokerage,Downtown,628 Kinghorne Mews 
+314365105,242 E 15th Ave,V5T2P9,Vancouver,BC,49.25722,-123.09946,1950000.0,4.0,4.0,1899.0,TOWNHOUSE,1434000.0,0.0,TRG The Residential Group Realty Brokerage,Mount Pleasant,242 E 15th Ave
+2072711525,3445 E 49th Ave #98,V5S1M3,Vancouver,BC,49.225351,-123.0786812,833000.0,2.0,4.0,1393.0,TOWNHOUSE,,0.0,Royal Pacific Realty (Kingsway) Ltd. Brokerage,Sunset,3445 E 49th Ave 
+314405901,3576 Dieppe Dr,V5M4C7,Vancouver,BC,49.25196,-123.02428,2198800.0,6.0,9.0,3509.0,SINGLE_FAMILY,2009000.0,5662.8,RE/MAX City Realty Brokerage,Renfrew-Collingwood,3576 Dieppe Dr
+2060115822,4380 Quebec St,V5V3J6,Vancouver,BC,49.25644,-123.10353,1699900.0,3.0,3.0,1445.0,MULTI_FAMILY,,3049.2,Macdonald Realty Brokerage,Riley Park,4380 Quebec St
+2060525034,2146 W 43rd Ave #201,V6M2E1,Vancouver,BC,49.2313592,-123.1083191,499000.0,1.0,2.0,1059.0,CONDO,,0.0,RE/MAX Select Properties Brokerage,Oakridge,2146 W 43rd Ave 
+2067611195,1500 Pendrell St #111,V6G3A5,Vancouver,BC,49.285324,-123.13729,899899.0,1.0,2.0,909.0,CONDO,,0.0,Oakwyn Realty Ltd. Brokerage,West End,1500 Pendrell St 
+314373204,532 E 17th Ave,V5V1B3,Vancouver,BC,49.25532,-123.093,1788000.0,4.0,5.0,1725.0,SINGLE_FAMILY,1556000.0,3049.2,Macdonald Realty Brokerage,Riley Park,532 E 17th Ave
+314334985,3491 W 36th Ave,V6N2R8,Vancouver,BC,49.23976,-123.18175,5498000.0,6.0,4.0,5576.0,SINGLE_FAMILY,3931000.0,8276.4,RE/MAX Select Properties Brokerage,Dunbar-Southlands,3491 W 36th Ave
+2064144731,3349 Dunbar St #104,V6S2B9,Vancouver,BC,49.25688915,-123.18550832666386,1398000.0,3.0,3.0,1561.0,TOWNHOUSE,,0.0,RE/MAX Select Realty Brokerage,Dunbar-Southlands,3349 Dunbar St 
+314323419,2115 Macdonald St,V6K3Y3,Vancouver,BC,49.267197,-123.16847,1590000.0,2.0,3.0,1365.0,MULTI_FAMILY,1257000.0,0.0,WESTSIDE Tom Gradecak Realty Brokerage,Kitsilano,2115 Macdonald St
+2061898623,3639 W 16th Ave #303,V6R3B7,Vancouver,BC,49.25818,-123.17864,2590000.0,3.0,2.0,1257.0,CONDO,,0.0,Youlive Realty Brokerage,Kitsilano,3639 W 16th Ave 
+2059749040,1718 Ontario St,V5T0J7,Vancouver,BC,49.269924,-123.10414,849900.0,1.0,1.0,665.0,TOWNHOUSE,,0.0,Anson Realty Ltd. Brokerage,Mount Pleasant,1718 Ontario St
+314427162,738 Broughton St #1402,V6G3A7,Vancouver,BC,49.288185,-123.1288,2800000.0,3.0,4.0,2822.0,CONDO,2137000.0,0.0,RE/MAX Crest Realty Brokerage,West End,738 Broughton St 
+314327831,2117 W 12th Ave,V6K4T8,Vancouver,BC,49.261353,-123.153435,1080000.0,2.0,2.0,1027.0,TOWNHOUSE,902000.0,0.0,Astral RE Services Inc. Brokerage,Kitsilano,2117 W 12th Ave
+2059760934,3996 Dumfries St #902,V5N3S3,Vancouver,BC,49.25621,-123.07249,689000.0,1.0,1.0,640.0,CONDO,,0.0,Macdonald Realty Brokerage,Kensington-Cedar Cottage,3996 Dumfries St 
+314319669,4777 W 2nd Ave,V6T1C1,Vancouver,BC,49.271866,-123.2196,14998000.0,5.0,6.0,8218.0,SINGLE_FAMILY,12270000.0,0.89,Royal LePage Westside Brokerage,West Point Grey,4777 W 2nd Ave
+314423578,7121 Mont Royal Sq,V5S4W5,Vancouver,BC,49.218613,-123.039,1375000.0,3.0,4.0,1544.0,TOWNHOUSE,1109000.0,0.0,RE/MAX Crest Realty Brokerage,Killarney,7121 Mont Royal Sq
+314338597,2963 W 29th Ave,V6L1Y3,Vancouver,BC,49.246376,-123.17195,3799000.0,5.0,5.0,3067.0,SINGLE_FAMILY,3125000.0,4356.0,RE/MAX Real Estate Services Brokerage,Dunbar-Southlands,2963 W 29th Ave
+2061222830,2409 W 43rd Ave #606,V6M2E6,Vancouver,BC,49.233025,-123.16182,439000.0,1.0,1.0,664.0,CONDO,,0.0,Sutton Group-West Coast Realty Brokerage,Kerrisdale,2409 W 43rd Ave 
+314323851,1317 Chestnut St,V6J3K1,Vancouver,BC,49.274097,-123.146774,1998000.0,3.0,3.0,1978.0,MULTI_FAMILY,2224000.0,0.0,RE/MAX Select Realty Brokerage,Kitsilano,1317 Chestnut St
+2059767952,2741 Hastings St E #303,V5K1Z8,Vancouver,BC,49.281414,-123.048355,699000.0,2.0,2.0,807.0,CONDO,,0.0,Keller Williams Realty VanCentral Brokerage,Hastings-Sunrise,2741 Hastings St E 
+314391067,5408 Knight St,V5P2T9,Vancouver,BC,49.235542,-123.07656,1349000.0,2.0,3.0,1722.0,SINGLE_FAMILY,1113600.0,3920.4,Oakwyn Realty Ltd. Brokerage,Kensington-Cedar Cottage,5408 Knight St
+314396616,2973 McGill St,V5K1H8,Vancouver,BC,49.28901,-123.042404,1699000.0,4.0,6.0,2246.0,SINGLE_FAMILY,1434000.0,3920.4,LeHomes Realty Premier Brokerage,Hastings-Sunrise,2973 McGill St
+2059752342,438 Seymour St #2204,V6B6H4,Vancouver,BC,49.284054,-123.11328,549900.0,1.0,1.0,571.0,CONDO,,0.0,Oakwyn Realty Downtown Ltd. Brokerage,Downtown,438 Seymour St 
+314407181,2436 E 19th Ave,V5M2R9,Vancouver,BC,49.252956,-123.05561,1699000.0,2.0,4.0,1960.0,SINGLE_FAMILY,1218800.0,3484.8,Team 3000 Realty Ltd. Brokerage,Renfrew-Collingwood,2436 E 19th Ave
+2076443284,2320 W 40th Ave #214,V6M4H6,Vancouver,BC,49.2344815,-123.1158801,1099900.0,2.0,3.0,1269.0,CONDO,,0.0,Keller Williams Elite Realty Brokerage,Riley Park,2320 W 40th Ave 
+2059762994,189 Keefer St #312,V6A0C8,Vancouver,BC,49.279724,-123.100174,868000.0,2.0,2.0,884.0,CONDO,,0.0,Sutton Group-West Coast Realty Brokerage,Downtown,189 Keefer St 
+314352970,6991 Wiltshire St,V6P5H2,Vancouver,BC,49.22197,-123.14717,4599000.0,4.0,7.0,4041.0,SINGLE_FAMILY,4408000.0,8712.0,RE/MAX Real Estate Services Brokerage,Kerrisdale,6991 Wiltshire St
+2061257594,198 Aquarius Mews #1707,V6Z2Y4,Vancouver,BC,49.2742345,-123.119496,1549000.0,2.0,2.0,1297.0,CONDO,,0.0,Sutton Group-West Coast Realty Brokerage,Downtown,198 Aquarius Mews 
+2064097467,1289 Hornby St #5706,V6C3J1,Vancouver,BC,49.286346,-123.11603,3525000.0,2.0,2.0,1687.0,CONDO,,0.0,Engel & Volkers Vancouver Brokerage,Downtown,1289 Hornby St 
+314391242,4769 Lanark St,V5N3R9,Vancouver,BC,49.242107,-123.07531,1628800.0,3.0,5.0,2455.0,SINGLE_FAMILY,1496000.0,4356.0,RE/MAX City Realty Brokerage,Kensington-Cedar Cottage,4769 Lanark St
+314393574,1219 E 27th Ave,V5V2L9,Vancouver,BC,49.246742,-123.07961,1349900.0,3.0,3.0,1397.0,TOWNHOUSE,3333000.0,9147.6,Macdonald Realty Brokerage,Kensington-Cedar Cottage,1219 E 27th Ave
+2061576443,2376 W 8th Ave,V6K2A9,Vancouver,BC,49.264584,-123.15936,3789000.0,7.0,11.0,3505.0,SINGLE_FAMILY,,5662.8,Heller Murch Realty Brokerage,Kitsilano,2376 W 8th Ave
+314377311,4435 Prince Albert St,V5V4K1,Vancouver,BC,49.245163,-123.08823,1678000.0,2.0,3.0,1480.0,SINGLE_FAMILY,1386800.0,3484.8,RE/MAX Select Realty Brokerage,Kensington-Cedar Cottage,4435 Prince Albert St
+314380663,1047 E 41st Ave,V5W1P9,Vancouver,BC,49.23309,-123.08378,1398000.0,4.0,5.0,1368.0,MULTI_FAMILY,1196500.0,0.0,Homeland Realty Brokerage,Kensington-Cedar Cottage,1047 E 41st Ave
+314419953,2654 E 45th Ave,V5R3C1,Vancouver,BC,49.2291,-123.0531,1998000.0,3.0,4.0,2400.0,SINGLE_FAMILY,1477000.0,3920.4,Multiple Realty Ltd. Brokerage,Victoria-Fraserview,2654 E 45th Ave
+314394027,1628 E 33rd Ave,V5N3C8,Vancouver,BC,49.239895,-123.07233,1729000.0,3.0,3.0,2159.0,SINGLE_FAMILY,1198000.0,3484.8,Royal Pacific Realty Corp. Brokerage,Kensington-Cedar Cottage,1628 E 33rd Ave
+314339037,3026 W 32nd Ave,V6L2C1,Vancouver,BC,49.242985,-123.17345,3700000.0,2.0,4.0,2819.0,SINGLE_FAMILY,3332600.0,6534.0,Pacific Evergreen Realty Ltd. Brokerage,Dunbar-Southlands,3026 W 32nd Ave
+314352645,5755 Angus Dr,V6M3N7,Vancouver,BC,49.234035,-123.14822,9980000.0,8.0,7.0,5660.0,SINGLE_FAMILY,7002000.0,10454.4,Sutton Group-West Coast Realty Brokerage,Kerrisdale,5755 Angus Dr
+314372291,4022 Perry St,V5N3X3,Vancouver,BC,49.24929,-123.07081,1588000.0,2.0,4.0,2404.0,SINGLE_FAMILY,1467000.0,3920.4,RE/MAX Select Realty Brokerage,Kensington-Cedar Cottage,4022 Perry St
+2060189114,283 Davie St #1205,V6B5T6,Vancouver,BC,49.274555,-123.120865,1450000.0,2.0,3.0,1411.0,CONDO,,0.0,Oakwyn Realty Ltd. Brokerage,Downtown,283 Davie St 
+314415511,4868 Nanaimo St,V5N0A8,Vancouver,BC,49.240932,-123.05814,1248000.0,3.0,2.0,1241.0,TOWNHOUSE,668000.0,0.0,Argus Estates (1983) Ltd. Brokerage,Renfrew-Collingwood,4868 Nanaimo St
+2060688830,3281 E Kent Ave N #210,V5S0C4,Vancouver,BC,49.206673,-123.03768,789900.0,2.0,2.0,913.0,CONDO,,0.0,Sutton Group-West Coast Realty (Abbotsford) Brokerage,Killarney,3281 E Kent Ave N 
+314365542,1107 McLean Dr,V5L3N5,Vancouver,BC,49.27468,-123.0748,1249000.0,1.0,3.0,1850.0,SINGLE_FAMILY,1111000.0,2178.0,Zolo Realty Brokerage,Grandview-Woodland,1107 McLean Dr
+2059759470,4240 Cambie St #301,V6B2N4,Vancouver,BC,49.285362,-123.108696,698000.0,1.0,1.0,476.0,CONDO,,0.0,Oakwyn Realty Ltd. Brokerage,Downtown,4240 Cambie St 
+2059751057,8420 Jellicoe St #207,V5S4T1,Vancouver,BC,49.207123,-123.04676,503800.0,1.0,1.0,764.0,CONDO,,0.0,Macdonald Realty Westmar Brokerage,Killarney,8420 Jellicoe St 
+2059767439,1288 Alberni St #1105,V6E4N5,Vancouver,BC,49.28687,-123.12674,979000.0,2.0,2.0,905.0,CONDO,,0.0,Sutton Group - 1st West Realty Brokerage,West End,1288 Alberni St 
+2071921445,150 Cordova St E #505,V6A0E7,Vancouver,BC,49.2823281,-123.1021128,437000.0,1.0,1.0,508.0,CONDO,,0.0,eXp Realty Brokerage,Downtown,150 Cordova St E 
+314344410,8328 Tugboat Pl,V6P6P9,Vancouver,BC,49.211075,-123.15357,2788800.0,3.0,3.0,2674.0,SINGLE_FAMILY,2140000.0,4791.6,RA Realty Alliance Inc. Brokerage,Kerrisdale,8328 Tugboat Pl
+314321011,3945 W 10th Ave,V6R2G9,Vancouver,BC,49.263832,-123.192024,3290000.0,4.0,6.0,3019.0,SINGLE_FAMILY,2556000.0,6534.0,Pacific Evergreen Realty Ltd. Brokerage,West Point Grey,3945 W 10th Ave
+2060834000,1980 E Kent Ave S,V5P2L7,Vancouver,BC,49.209007,-123.07618,1089000.0,3.0,3.0,1393.0,TOWNHOUSE,,0.0,RE/MAX Crest Realty Brokerage,Victoria-Fraserview,1980 E Kent Ave S
+2059801739,1850 Comox St #1001,V6G1R3,Vancouver,BC,49.288967,-123.14078,369000.0,1.0,1.0,588.0,CONDO,,0.0,RE/MAX Crest Realty Brokerage,West End,1850 Comox St 
+2071591891,1480 Howe St #2602,V6Z0G5,Vancouver,BC,49.2749095,-123.13101661844736,1690000.0,2.0,2.0,830.0,CONDO,,0.0,Rennie & Associates Realty Ltd. Brokerage,Downtown,1480 Howe St 
+2071692064,950 Cambie St #2104,V6B5X5,Vancouver,BC,49.27625,-123.117256,1050000.0,2.0,3.0,1108.0,CONDO,,0.0,Stilhavn Real Estate Services Brokerage,Downtown,950 Cambie St 
+2061908651,1470 Pennyfarthing Dr #408,V6J4Y2,Vancouver,BC,49.272057,-123.14129,924900.0,1.0,1.0,947.0,CONDO,,0.0,Century 21 In Town Realty Brokerage,Fairview,1470 Pennyfarthing Dr 
+314324085,2017 Creelman Ave,V6J1C2,Vancouver,BC,49.274757,-123.150665,2498000.0,3.0,3.0,1601.0,MULTI_FAMILY,1912000.0,0.0,Dexter Realty Brokerage,Kitsilano,2017 Creelman Ave
+314345814,1640 W 11th Ave #101,V6J2B9,Vancouver,BC,49.261497,-123.14216,745000.0,1.0,2.0,857.0,CONDO,659000.0,0.0,Prompton Real Estate Services Inc. Brokerage,Fairview,1640 W 11th Ave 
+2061159046,128 Cordova St W #1803,V6B0E6,Vancouver,BC,49.28294875,-123.10807779919384,1048800.0,2.0,2.0,1057.0,CONDO,,0.0,eXp Realty Brokerage,Downtown,128 Cordova St W 
+314372926,1748 E 16th Ave,V5N2G5,Vancouver,BC,49.256126,-123.06883,1499000.0,2.0,6.0,1797.0,SINGLE_FAMILY,1101200.0,3484.8,Engel & Volkers Vancouver Brokerage,Kensington-Cedar Cottage,1748 E 16th Ave
+2059924692,1528 W 28th Ave,V6J2Y5,Vancouver,BC,49.246204,-123.14017,2898000.0,3.0,3.0,1631.0,TOWNHOUSE,,0.0,RE/MAX Select Properties Brokerage,Shaughnessy,1528 W 28th Ave
+2060646573,1570 W 7th Ave #1001,V6J5M1,Vancouver,BC,49.26513,-123.13997,848000.0,2.0,2.0,947.0,CONDO,,0.0,Keller Williams Realty VanCentral Brokerage,Fairview,1570 W 7th Ave 
+314324926,3623 W 2nd Ave,V6R1J6,Vancouver,BC,49.27064,-123.18421,2498800.0,2.0,3.0,1919.0,MULTI_FAMILY,1900000.0,0.0,Homeland Realty Brokerage,Kitsilano,3623 W 2nd Ave
+314347294,1188 Wolfe Ave,V6H1V8,Vancouver,BC,49.256393,-123.13153,13880000.0,10.0,9.0,9490.0,SINGLE_FAMILY,8973000.0,0.78,Nu Stream Realty Inc. Brokerage,Shaughnessy,1188 Wolfe Ave
+314343513,8415 Wiltshire St,V6P5H6,Vancouver,BC,49.21004,-123.14691,8280000.0,9.0,7.0,7644.0,SINGLE_FAMILY,7290000.0,0.32,RE/MAX Select Properties Brokerage,Marpole,8415 Wiltshire St
+314328644,2575 W 13th Ave,V6K2S9,Vancouver,BC,49.26049,-123.16426,5300000.0,6.0,6.0,4411.0,SINGLE_FAMILY,4395000.0,6098.4,Dracco Pacific Realty Brokerage,Kitsilano,2575 W 13th Ave
+314397306,2697 Dundas St,V5K1R1,Vancouver,BC,49.285027,-123.04965,1529000.0,3.0,3.0,1546.0,MULTI_FAMILY,1304100.0,3920.4,eXp Realty Brokerage,Hastings-Sunrise,2697 Dundas St
+2063298686,5626 Larch St #205,V6M4E1,Vancouver,BC,49.2384152,-123.162618,788000.0,2.0,2.0,962.0,CONDO,,0.0,Macdonald Realty Westmar Brokerage,Arbutus-Ridge,5626 Larch St 
+2061896969,5850 Balsam St #901,V6M4B9,Vancouver,BC,49.233387,-123.16111,1878000.0,3.0,2.0,1616.0,CONDO,,0.0,Macdonald Realty Brokerage,Kerrisdale,5850 Balsam St 
+2066583729,1201 Marinaside Cres #507,V6Z2V2,Vancouver,BC,49.27274,-123.12113,1295000.0,2.0,2.0,1163.0,CONDO,,0.0,Engel & Volkers Vancouver Brokerage,Downtown,1201 Marinaside Cres 
+314383764,734 E 49th Ave,V5W2H4,Vancouver,BC,49.225185,-123.08963,1648000.0,4.0,5.0,1552.0,MULTI_FAMILY,1394400.0,4356.0,Selmak Realty Limited Brokerage,Sunset,734 E 49th Ave
+314355847,6935 Heather St,V6P3P5,Vancouver,BC,49.222267,-123.12418,4750000.0,8.0,7.0,4853.0,SINGLE_FAMILY,4496000.0,8276.4,LeHomes Realty Premier Brokerage,Oakridge,6935 Heather St
+314330375,4732 Dunbar St,V6S2H1,Vancouver,BC,49.24394,-123.18485,2399000.0,4.0,5.0,2532.0,SINGLE_FAMILY,1954000.0,4356.0,Royal LePage Northstar Realty (S. Surrey) Brokerage,Dunbar-Southlands,4732 Dunbar St
+314335344,3511 Mayfair Ave,V6N2Z2,Vancouver,BC,49.237125,-123.18252,2888000.0,4.0,5.0,1952.0,MULTI_FAMILY,2602000.0,5227.2,Faith Wilson Group Brokerage,Dunbar-Southlands,3511 Mayfair Ave
+2059825367,888 W 16th Ave #2,V5Z1T1,Vancouver,BC,49.2568,-123.124146,1049000.0,2.0,2.0,1127.0,CONDO,,0.0,RE/MAX Crest Realty Brokerage,South Cambie,888 W 16th Ave 
+2061498986,822 Seymour St #605,V6B1L7,Vancouver,BC,49.28032705,-123.11890877210668,625000.0,1.0,1.0,564.0,CONDO,,0.0,Regent Park Fairchild Realty Inc. Brokerage,Downtown,822 Seymour St 
+314333197,3079 W 24th Ave,V6L1R7,Vancouver,BC,49.25126,-123.173996,5499000.0,8.0,6.0,4689.0,SINGLE_FAMILY,4815000.0,6098.4,Nu Stream Realty Inc. Brokerage,Dunbar-Southlands,3079 W 24th Ave
+314356337,18 W 43rd Ave,V5Y2T5,Vancouver,BC,49.231167,-123.10613,2650000.0,4.0,4.0,2327.0,SINGLE_FAMILY,2192000.0,3920.4,Grand Central Realty Brokerage,Oakridge,18 W 43rd Ave
+2059837277,702 King Edward Ave E #212,V5V0A9,Vancouver,BC,49.248337,-123.08973,629900.0,1.0,1.0,682.0,CONDO,,0.0,Sutton Group-West Coast Realty Brokerage,Kensington-Cedar Cottage,702 King Edward Ave E 
+314339548,5408 Larch St,V6M4C8,Vancouver,BC,49.23737,-123.162506,1399000.0,3.0,2.0,1156.0,TOWNHOUSE,1304000.0,0.0,Keller Williams Realty VanCentral Brokerage,Arbutus-Ridge,5408 Larch St
+2064248962,889 Pacific St #3901,V6Z2P5,Vancouver,BC,49.2763572,-123.1307856880699,9588000.0,3.0,4.0,2889.0,CONDO,,0.0,Rennie & Associates Realty - Jason Soprovich Brokerage,Downtown,889 Pacific St 
+314324819,2413 W 1st Ave,V6K1G5,Vancouver,BC,49.27114,-123.16032,1595000.0,3.0,2.0,1496.0,TOWNHOUSE,1382000.0,0.0,Stilhavn Real Estate Services Brokerage,Kitsilano,2413 W 1st Ave
+2062251343,1228 Hastings St W #2601,V6E4S6,Vancouver,BC,49.288845,-123.123886,1448000.0,2.0,2.0,1110.0,CONDO,,0.0,Oakwyn Realty Ltd. Brokerage,Downtown,1228 Hastings St W 
+2060157181,1415 W Georgia St #113,V6G3C8,Vancouver,BC,49.289455,-123.12829,100000.0,0.0,0.0,200.0,SINGLE_FAMILY,,0.0,Nu Stream Realty Inc. Brokerage,Downtown,1415 W Georgia St 
+314360000,1597 W 63rd Ave,V6P2H5,Vancouver,BC,49.21428,-123.14317,2990000.0,4.0,6.0,2364.0,SINGLE_FAMILY,2222000.0,3920.4,LeHomes Realty Premier Brokerage,Marpole,1597 W 63rd Ave
+314367020,1965 Ferndale St,V5L1X9,Vancouver,BC,49.279842,-123.06411,1049000.0,0.0,3.0,1470.0,SINGLE_FAMILY,1032700.0,2178.0,Bel-Air Realty Group Ltd. Brokerage,Grandview-Woodland,1965 Ferndale St
+314352701,6411 Angus Dr,V6M3P4,Vancouver,BC,49.22794,-123.1484,6990000.0,7.0,6.0,4630.0,SINGLE_FAMILY,5788000.0,7405.2,Royal Pacific Realty Corp. Brokerage,Kerrisdale,6411 Angus Dr
+2062166919,688 Fairchild Rd #212,V5Z4P7,Vancouver,BC,49.230824,-123.12056,1730000.0,3.0,3.0,1811.0,CONDO,,0.0,Pacific Evergreen Realty Ltd. Brokerage,Oakridge,688 Fairchild Rd 
+314347571,1233 Laurier Ave,V6H1Y7,Vancouver,BC,49.251095,-123.13312,14990000.0,9.0,6.0,8890.0,SINGLE_FAMILY,13269000.0,0.4599999999999999,Sutton Group-West Coast Realty Brokerage,Shaughnessy,1233 Laurier Ave
+2074235778,1050 Burrard St,V6Z2S3,Vancouver,BC,49.279858,-123.12661,8888000.0,8.0,5.0,7136.0,CONDO,,0.0,VIRANI REAL ESTATE ADVISORS Brokerage,Downtown,1050 Burrard St
+314415899,2107 E 36th Ave,V5P1C9,Vancouver,BC,49.23764,-123.063484,1699000.0,2.0,4.0,1341.0,SINGLE_FAMILY,1222900.0,3920.4,RE/MAX 2000 Realty Brokerage,Kensington-Cedar Cottage,2107 E 36th Ave
+314361951,526 Cordova St E,V6A1L7,Vancouver,BC,49.28189,-123.0927,1550000.0,4.0,6.0,2461.0,SINGLE_FAMILY,1059600.0,3049.2,YVR International Realty Brokerage,Strathcona,526 Cordova St E
+2059825832,2083 W 33rd Ave #402,V6M4M6,Vancouver,BC,49.242588,-123.1526,1288000.0,2.0,3.0,1200.0,CONDO,,0.0,Presidio Professional Real Estate Services Inc. Brokerage,Arbutus-Ridge,2083 W 33rd Ave 
+314369415,1923 E 3rd Ave,V5N1H4,Vancouver,BC,49.267998,-123.06519,1399000.0,3.0,3.0,1288.0,MULTI_FAMILY,1601400.0,0.0,Stilhavn Real Estate Services Brokerage,Grandview-Woodland,1923 E 3rd Ave
+2071980555,1477 Fountain Way #501,V6H3W9,Vancouver,BC,49.2689117,-123.13619806318894,799900.0,2.0,2.0,1350.0,CONDO,,0.0,RE/MAX Crest Realty Brokerage,Fairview,1477 Fountain Way 
+314343232,6869 Beechwood St,V6P5V1,Vancouver,BC,49.223206,-123.15769,9998000.0,10.0,8.0,7889.0,SINGLE_FAMILY,6850000.0,0.27,Royal Pacific Realty Corp. Brokerage,Kerrisdale,6869 Beechwood St
+2060793017,3455 Ascot Pl #812,V5R6B7,Vancouver,BC,49.239105,-123.03239,445000.0,1.0,1.0,495.0,CONDO,,0.0,LeHomes Realty Premier Brokerage,Renfrew-Collingwood,3455 Ascot Pl 
+2060003278,168 Powell St #315,V6A0B2,Vancouver,BC,49.282967,-123.10064,499999.0,1.0,1.0,550.0,CONDO,,0.0,Sutton Group-West Coast Realty Brokerage,Downtown,168 Powell St 
+314346664,4568 Marguerite St,V6J4G8,Vancouver,BC,49.244793,-123.14367,5380000.0,5.0,5.0,4446.0,SINGLE_FAMILY,5166000.0,6098.4,LDG Realty Brokerage,Shaughnessy,4568 Marguerite St
+2061089609,1740 Comox St #1906,V6G2Z1,Vancouver,BC,49.2878,-123.13906,868000.0,1.0,2.0,749.0,CONDO,,0.0,Dracco Pacific Realty Brokerage,West End,1740 Comox St 
+314346227,1709 W 16th Ave,V6J2L9,Vancouver,BC,49.25742,-123.1439,938000.0,2.0,2.0,1034.0,TOWNHOUSE,842000.0,0.0,Evergreen West Realty Brokerage,Fairview,1709 W 16th Ave
+314369921,1370 E 6th Ave,V5N1P1,Vancouver,BC,49.264793,-123.07625,1499900.0,2.0,1.0,1716.0,TOWNHOUSE,1025000.0,0.0,Oakwyn Realty Ltd. Brokerage,Grandview-Woodland,1370 E 6th Ave
+314344717,1039 Scantlings,V6H3N9,Vancouver,BC,49.267628,-123.128525,1189000.0,1.0,3.0,1279.0,TOWNHOUSE,1084000.0,0.0,RE/MAX Real Estate Services Brokerage,Fairview,1039 Scantlings
+2059749038,319 E 7th Ave #112,V5T1M9,Vancouver,BC,49.264805,-123.09842,699000.0,1.0,2.0,906.0,CONDO,,0.0,Rennie & Associates Realty Ltd. Brokerage,Mount Pleasant,319 E 7th Ave 
+2059764132,256 E 2nd Ave #519,V5T0A7,Vancouver,BC,49.267906,-123.09922,729000.0,1.0,1.0,709.0,CONDO,,0.0,Coldwell Banker Prestige Realty Brokerage,Mount Pleasant,256 E 2nd Ave 
+2060428805,2720 Stephens St,V6K3X6,Vancouver,BC,49.27167,-123.16594,2898000.0,4.0,3.0,1800.0,MULTI_FAMILY,,4791.6,RE/MAX Select Properties Brokerage,Kitsilano,2720 Stephens St
+2059890064,2763 Chandlery Pl PENTHOUSE 2,V5S4V4,Vancouver,BC,49.207058,-123.05116,575000.0,1.0,1.0,621.0,CONDO,,0.0,RE/MAX Select Realty Brokerage,Killarney,2763 Chandlery Pl 
+314340542,1833 W 35th Ave,V6M1H5,Vancouver,BC,49.240204,-123.14748,5490000.0,5.0,5.0,4019.0,SINGLE_FAMILY,5911000.0,6534.0,Royal Pacific Realty Corp. Brokerage,Shaughnessy,1833 W 35th Ave
+2061131157,1568 W 12th Ave #8B,V6J2E1,Vancouver,BC,49.260506,-123.14037,1088000.0,2.0,2.0,1315.0,CONDO,,0.0,Oakwyn Realty Downtown Ltd. Brokerage,Fairview,1568 W 12th Ave 
+314391395,5886 Lanark St,V5P2Y5,Vancouver,BC,49.230827,-123.07535,1668000.0,4.0,7.0,2475.0,SINGLE_FAMILY,1399800.0,3920.4,Royal Pacific Realty Corp. Brokerage,Victoria-Fraserview,5886 Lanark St
+2060222460,1128 Quebec St #307,V6A4E1,Vancouver,BC,49.27465,-123.10114,950000.0,2.0,2.0,1219.0,CONDO,,0.0,Royal Pacific Realty (Kingsway) Ltd. Brokerage,Downtown,1128 Quebec St 
+314324559,1628 Cypress St,V6J5J1,Vancouver,BC,49.27132,-123.14743,535000.0,1.0,1.0,502.0,CONDO,590000.0,0.0,Engel & Volkers Vancouver Brokerage,Kitsilano,1628 Cypress St
+2061544070,1450 Pennyfarthing Dr #208,V6J4X8,Vancouver,BC,49.2725421,-123.1417742,2188000.0,3.0,4.0,2391.0,CONDO,,0.0,Sutton Group-West Coast Realty Brokerage,Fairview,1450 Pennyfarthing Dr 
+2060865873,3523 Georgia St E #2,V5K2L9,Vancouver,BC,49.278477,-123.02753,1428000.0,3.0,3.0,1400.0,MULTI_FAMILY,,0.0,RE/MAX Select Realty Brokerage,Hastings-Sunrise,3523 Georgia St E 
+2060429603,2224 Eton St #103,V5L1C8,Vancouver,BC,49.28725,-123.058975,434000.0,1.0,0.0,435.0,CONDO,,0.0,Oakwyn Realty Downtown Ltd. Brokerage,Grandview-Woodland,2224 Eton St 
+314345899,1066 W 13th Ave #201,V6H1N2,Vancouver,BC,49.259396,-123.12848,629000.0,1.0,1.0,805.0,CONDO,595700.0,0.0,Keller Williams Realty VanCentral Brokerage,Fairview,1066 W 13th Ave 
+2061154504,1189 Howe St #2405,V6Z2X4,Vancouver,BC,49.278316,-123.12697,598000.0,1.0,1.0,630.0,CONDO,,0.0,Regent Park Realty Inc. Brokerage,Downtown,1189 Howe St 
+2062694918,3508 SW Marine Dr,V6N3Z2,Vancouver,BC,49.22988,-123.18244,3160000.0,4.0,6.0,3392.0,SINGLE_FAMILY,,0.2799999999999999,RE/MAX Crest Realty Brokerage,Dunbar-Southlands,3508 SW Marine Dr
+2059763020,108 E 1st Ave #708,V5T0E4,Vancouver,BC,49.269875,-123.101814,1239000.0,2.0,2.0,974.0,CONDO,,0.0,Oakwyn Realty Ltd. Brokerage,Mount Pleasant,108 E 1st Ave 
+2060156903,476 E 60th Ave,V5X1Z5,Vancouver,BC,49.21604,-123.10594,1425000.0,4.0,4.0,1577.0,MULTI_FAMILY,,3484.8,Coldwell Banker Universe Realty Brokerage,Sunset,476 E 60th Ave
+314357574,953 W 59th Ave,V6P1X8,Vancouver,BC,49.217167,-123.127785,1460000.0,3.0,3.0,1286.0,TOWNHOUSE,1291000.0,0.0,Royal Pacific Realty (Kingsway) Ltd. Brokerage,Marpole,953 W 59th Ave
+2062588439,1001 Homer St #1605,V6B1M9,Vancouver,BC,49.277298,-123.12079,969000.0,2.0,2.0,787.0,CONDO,,0.0,Stilhavn Real Estate Services Brokerage,Downtown,1001 Homer St 
+314373090,60 E 17th Ave,V5V1A2,Vancouver,BC,49.255466,-123.10419,1950000.0,2.0,5.0,1800.0,SINGLE_FAMILY,1774600.0,3920.4,Stilhavn Real Estate Services Brokerage,Riley Park,60 E 17th Ave
+2071558257,1540 W 2nd Ave #513,V6J1H2,Vancouver,BC,49.269417,-123.13984,1399900.0,2.0,1.0,883.0,CONDO,,0.0,Century 21 In Town Realty Brokerage,Fairview,1540 W 2nd Ave 
+314389055,8529 Jellicoe St,V5S4T5,Vancouver,BC,49.205696,-123.04844,998000.0,3.0,3.0,1266.0,TOWNHOUSE,874000.0,0.0,Lico Realty Ltd. Brokerage,Killarney,8529 Jellicoe St
+2060798711,950 Cambie St #1202,V6B5X5,Vancouver,BC,49.27619575,-123.117280305436,849999.0,2.0,2.0,1150.0,CONDO,,0.0,Royal LePage West Real Estate Services Brokerage,Downtown,950 Cambie St 
+2060627605,2111 E 13th Ave,V5N2B6,Vancouver,BC,49.25844,-123.07728,1499900.0,3.0,3.0,1473.0,MULTI_FAMILY,,0.0,Macdonald Commercial Real Estate Services Ltd. Brokerage,Kensington-Cedar Cottage,2111 E 13th Ave
+2068790336,1111 Richards St #3002,V6B3E6,Vancouver,BC,49.27692455,-123.12323908254116,2399000.0,3.0,3.0,1484.0,CONDO,,0.0,Macdonald Realty Brokerage,Downtown,1111 Richards St 
+2059765525,233 Robson St #2205,V6B0E8,Vancouver,BC,49.27851,-123.115005,748000.0,1.0,1.0,738.0,CONDO,,0.0,Royal LePage Sussex Brokerage,Downtown,233 Robson St 
+2060111626,4655 Valley Dr #1215,V6J5L6,Vancouver,BC,49.244453,-123.15172,1198000.0,2.0,2.0,1129.0,CONDO,,0.0,Royal Pacific Realty Corp. Brokerage,Arbutus-Ridge,4655 Valley Dr 
+314427938,1258 Richards St,V6B3G2,Vancouver,BC,49.274944,-123.12518,4398000.0,3.0,2.0,2747.0,TOWNHOUSE,3383000.0,0.0,Macdonald Realty Brokerage,Downtown,1258 Richards St
+314401799,3061 Graveley St,V5K3K5,Vancouver,BC,49.27067,-123.040016,1528000.0,4.0,3.0,1528.0,MULTI_FAMILY,1360500.0,0.0,eXp Realty Brokerage,Hastings-Sunrise,3061 Graveley St
+2060416978,1515 Alberni St #3904,V6G3C9,Vancouver,BC,49.289948,-123.1303,16999800.0,4.0,3.0,2993.0,CONDO,,0.0,Bosa Properties Realty Inc. Brokerage,West End,1515 Alberni St 
+314360144,238 W 62nd Ave #6,V5X0G7,Vancouver,BC,49.214005,-123.110855,1839000.0,3.0,3.0,1723.0,TOWNHOUSE,1559000.0,0.0,Royal Pacific Realty Corp. Brokerage,Marpole,238 W 62nd Ave 
+2060117667,188 Keefer St #1706,V6A0E3,Vancouver,BC,49.279198,-123.10023,759990.0,2.0,2.0,706.0,CONDO,,0.0,Pacific Evergreen Realty Ltd. Brokerage,Downtown,188 Keefer St 
+314344028,1967 W 57th Ave,V6P1T9,Vancouver,BC,49.21981,-123.15208,5888000.0,4.0,6.0,4913.0,SINGLE_FAMILY,4382000.0,0.25,RE/MAX Select Realty Brokerage,Kerrisdale,1967 W 57th Ave
+314340199,2475 W 34th Ave,V6M1G8,Vancouver,BC,49.241554,-123.16199,7988000.0,7.0,6.0,5348.0,SINGLE_FAMILY,5285000.0,7840.8,RE/MAX Crest Realty Brokerage,Arbutus-Ridge,2475 W 34th Ave
+314381635,557 E 48th Ave,V5W2E4,Vancouver,BC,49.226807,-123.09316,2198000.0,3.0,4.0,2320.0,SINGLE_FAMILY,1437900.0,3920.4,Dexter Realty Brokerage,Sunset,557 E 48th Ave
+2063497103,2689 Kingsway #910,V5R0C3,Vancouver,BC,49.2387719,-123.050672844871,699000.0,2.0,2.0,746.0,CONDO,,0.0,Dracco Pacific Realty Brokerage,Renfrew-Collingwood,2689 Kingsway 
+314337035,2985 W 20th Ave,V6L1H6,Vancouver,BC,49.254875,-123.172516,5180000.0,6.0,6.0,3835.0,SINGLE_FAMILY,4178000.0,5227.2,Pacific Evergreen Realty Ltd. Brokerage,Arbutus-Ridge,2985 W 20th Ave
+314372540,3784 Commercial St,V5N4G2,Vancouver,BC,49.251175,-123.06775,1249000.0,2.0,3.0,1195.0,TOWNHOUSE,1113000.0,0.0,Blu Realty Brokerage,Kensington-Cedar Cottage,3784 Commercial St
+2061202107,5289 Cambie St #601,V5Z0J5,Vancouver,BC,49.23743,-123.11666,3280000.0,3.0,4.0,1935.0,CONDO,,0.0,Royal Pacific Realty Corp. Brokerage,South Cambie,5289 Cambie St 
+2060180612,3163 Riverwalk Ave #212,V5S0A8,Vancouver,BC,49.20625,-123.04072,788000.0,2.0,2.0,938.0,CONDO,,0.0,Sutton Group-West Coast Realty Brokerage,Killarney,3163 Riverwalk Ave 
+2060718798,8430 Jellicoe St #305,V5S4S7,Vancouver,BC,49.207123,-123.04676,699800.0,2.0,2.0,892.0,CONDO,,0.0,Nu Stream Realty Inc. Brokerage,Killarney,8430 Jellicoe St 
+314407347,2843 E 20th Ave,V5M2V1,Vancouver,BC,49.252586,-123.0459,1759000.0,3.0,8.0,2065.0,SINGLE_FAMILY,1233500.0,3484.8,Regent Park Realty Inc. Brokerage,Renfrew-Collingwood,2843 E 20th Ave
+2060770630,3400 SE Marine Dr #301,V5S2H1,Vancouver,BC,49.206676,-123.05652,1188000.0,2.0,3.0,1922.0,CONDO,,0.0,Macdonald Realty Brokerage,Killarney,3400 SE Marine Dr 
+314366101,3595 Hull St,V5N4R8,Vancouver,BC,49.25231,-123.06493,2399000.0,5.0,5.0,2500.0,SINGLE_FAMILY,1537000.0,3484.8,LeHomes Realty Premier Brokerage,Kensington-Cedar Cottage,3595 Hull St
+2061052137,2580 Tolmie St #504,V6R4R4,Vancouver,BC,49.264126,-123.211754,688000.0,1.0,1.0,808.0,CONDO,,0.0,LeHomes Realty Premier Brokerage,West Point Grey,2580 Tolmie St 
+2076436266,1236 Bidwell St #403,V6G2K9,Vancouver,BC,49.28553805,-123.14069113292685,2198000.0,2.0,2.0,1688.0,CONDO,,0.0,Heller Murch Realty Brokerage,West End,1236 Bidwell St 
+2067809575,4923 Larch St #5,V6K3P2,Vancouver,BC,49.268726,-123.162384,2050000.0,3.0,2.0,1405.0,TOWNHOUSE,,0.0,Engel & Volkers Vancouver Brokerage,Kitsilano,4923 Larch St 
+314327952,1839 W 12th Ave,V6J2E7,Vancouver,BC,49.26117,-123.14676,1785000.0,3.0,2.0,1762.0,TOWNHOUSE,1416000.0,0.0,Rennie & Associates Realty Ltd. Brokerage,Kitsilano,1839 W 12th Ave
+2067887822,1251 Cardero St #806,V6G2H9,Vancouver,BC,49.28494225,-123.13981483397453,339000.0,1.0,1.0,436.0,CONDO,,0.0,Coldwell Banker Prestige Realty Brokerage,West End,1251 Cardero St 
+2065807916,4418 Cambie St,V5Y1R3,Vancouver,BC,49.2491543,-123.1154977,1780000.0,3.0,3.0,1365.0,TOWNHOUSE,,0.0,Nu Stream Realty Inc. Brokerage,South Cambie,4418 Cambie St
+2061224767,3755 W 8th Ave #213,V6R1Z2,Vancouver,BC,49.26566,-123.187195,1458000.0,2.0,2.0,1568.0,CONDO,,0.0,Dracco Pacific Realty Brokerage,West Point Grey,3755 W 8th Ave 
+314320490,4694 W 8th Ave,V6R2A7,Vancouver,BC,49.26541,-123.21493,2790000.0,2.0,4.0,2074.0,SINGLE_FAMILY,2201200.0,3920.4,eXp Realty Brokerage,West Point Grey,4694 W 8th Ave
+2062968497,1819 W 5th Ave #402,V6J1P5,Vancouver,BC,49.267406,-123.14602,2399900.0,3.0,2.0,1532.0,CONDO,,0.0,Stilhavn Real Estate Services Brokerage,Kitsilano,1819 W 5th Ave 
+2061464130,1575 Beach Ave #501,V6G1Y5,Vancouver,BC,49.283096,-123.141365,1398800.0,2.0,2.0,1163.0,CONDO,,0.0,Coldwell Banker Prestige Realty Brokerage,West End,1575 Beach Ave 
+2059812622,1111 Haro St #1202,V6E1E3,Vancouver,BC,49.28446,-123.12619,1138000.0,2.0,2.0,1098.0,CONDO,,0.0,Sutton Group-West Coast Realty Brokerage,West End,1111 Haro St 
+314330012,2865 W 16th Ave,V6K3C5,Vancouver,BC,49.25803,-123.16963,2200000.0,4.0,3.0,1507.0,MULTI_FAMILY,1936700.0,4791.6,Dexter Realty Brokerage,Kitsilano,2865 W 16th Ave
+314417190,6537 Wales St,V5S2R4,Vancouver,BC,49.22399,-123.05293,4198000.0,8.0,10.0,5087.0,SINGLE_FAMILY,3388000.0,8276.4,Sutton Group-West Coast Realty Brokerage,Victoria-Fraserview,6537 Wales St
+2061711245,2220 Kingsway #NE802,V5N0G4,Vancouver,BC,49.242813,-123.06155,990000.0,2.0,3.0,1140.0,CONDO,,0.0,Interlink Realty Brokerage,Kensington-Cedar Cottage,2220 Kingsway 
+2064293364,1480 Howe St #1908,V6Z0G5,Vancouver,BC,49.275013,-123.13084,1749000.0,2.0,2.0,1360.0,CONDO,,0.0,Royal Pacific Lions Gate Realty Ltd. Brokerage,Downtown,1480 Howe St 
+314327147,2246 W 8th Ave,V6K2A7,Vancouver,BC,49.264523,-123.15643,1799900.0,3.0,4.0,1530.0,TOWNHOUSE,1377000.0,0.0,Stilhavn Real Estate Services Brokerage,Kitsilano,2246 W 8th Ave
+2075123212,2108 W 38th Ave #601,V6M1R9,Vancouver,BC,49.237072,-123.156624,2288000.0,3.0,3.0,2070.0,CONDO,,0.0,Sutton Group-West Coast Realty Brokerage,Arbutus-Ridge,2108 W 38th Ave 
+314377005,5322 Fraser St,V5W2Y9,Vancouver,BC,49.236713,-123.0903,1375000.0,3.0,4.0,1210.0,MULTI_FAMILY,1160000.0,0.0,Royal LePage Sussex Brokerage,Kensington-Cedar Cottage,5322 Fraser St
+2068888279,889 Pacific St PENTHOUSE 3902,V6Z2P5,Vancouver,BC,49.2763572,-123.1307856880699,9188000.0,4.0,4.0,2675.0,CONDO,,0.0,Rennie & Associates Realty - Jason Soprovich Brokerage,Downtown,889 Pacific St 
+2060795773,586 E 19th Ave,V5V1H7,Vancouver,BC,49.25347,-123.104126,2398000.0,5.0,4.0,2573.0,MULTI_FAMILY,,5662.8,RE/MAX Select Properties Brokerage,Riley Park,586 E 19th Ave
+314348108,1411 Minto Cres,V6H2J6,Vancouver,BC,49.243244,-123.13725,13988000.0,6.0,6.0,7535.0,SINGLE_FAMILY,9244000.0,0.4,Luxmore Realty Brokerage,Shaughnessy,1411 Minto Cres
+2059938370,822 Homer St #301,V6B6M3,Vancouver,BC,49.279045,-123.11695,718000.0,2.0,2.0,685.0,CONDO,,0.0,Macdonald Realty Brokerage,Downtown,822 Homer St 
+2060444640,3438 Vanness Ave #808,V5R6E7,Vancouver,BC,49.237797,-123.0318,499000.0,1.0,1.0,548.0,CONDO,,0.0,Royal Pacific Realty (Kingsway) Ltd. Brokerage,Renfrew-Collingwood,3438 Vanness Ave 
+2060594198,918 Cooperage Way #1502,V6B0A7,Vancouver,BC,49.274178,-123.11251,1299000.0,2.0,2.0,928.0,CONDO,,0.0,Rennie & Associates Realty Ltd. Brokerage,Downtown,918 Cooperage Way 
+2071015201,1032 Nicola St #301,V6G2C9,Vancouver,BC,49.2860113,-123.13477612832789,1090000.0,2.0,2.0,1157.0,CONDO,,0.0,Sotheby's International Realty Canada Brokerage,West End,1032 Nicola St 
+2067443295,332 E 50th Ave,V5X1A1,Vancouver,BC,49.2237899,-123.0511409,1488000.0,4.0,3.0,1685.0,MULTI_FAMILY,,0.0,RE/MAX Crest Realty Brokerage,Victoria-Fraserview,332 E 50th Ave
+314395794,829 Windermere St,V5K4J5,Vancouver,BC,49.27687,-123.0367,2798000.0,7.0,13.0,3185.0,SINGLE_FAMILY,1217800.0,3484.8,Metro Edge Realty Brokerage,Hastings-Sunrise,829 Windermere St
+2064189272,1816 Haro St #2201,V6G2Y7,Vancouver,BC,49.29097075,-123.13738182231911,1228800.0,2.0,2.0,1368.0,CONDO,,0.0,Royal LePage Sussex - Edmonds Advantage Brokerage,West End,1816 Haro St 
+2059928977,1935 Haro St #401,V6G1H8,Vancouver,BC,49.29235,-123.13849,1199000.0,2.0,2.0,1017.0,CONDO,,0.0,Stilhavn Real Estate Services Brokerage,West End,1935 Haro St 
+314329856,1957 W 15th Ave,V6J2L2,Vancouver,BC,49.258415,-123.149635,1699900.0,3.0,2.0,1680.0,TOWNHOUSE,1602000.0,0.0,Royal Pacific Realty (Kingsway) Ltd. Brokerage,Kitsilano,1957 W 15th Ave
+2059751280,2366 Birch St #10,V6H2T2,Vancouver,BC,49.26501,-123.1334,859900.0,1.0,1.0,568.0,TOWNHOUSE,,0.0,Stilhavn Real Estate Services Brokerage,Fairview,2366 Birch St 
+314319536,4569 W 1st Ave,V6R1H7,Vancouver,BC,49.272396,-123.21095,5650000.0,4.0,4.0,2719.0,SINGLE_FAMILY,4623000.0,3484.8,Dexter Realty Brokerage,West Point Grey,4569 W 1st Ave
+2062267412,3496 W 8th Ave,V6R1Y5,Vancouver,BC,49.2647306,-123.1522466,2200000.0,2.0,4.0,2516.0,SINGLE_FAMILY,,3920.4,Royal LePage Sterling Realty Brokerage,Kitsilano,3496 W 8th Ave
+314329560,2929 W 15th Ave,V6K3A2,Vancouver,BC,49.25896,-123.17094,3188000.0,6.0,6.0,3298.0,SINGLE_FAMILY,2618000.0,3920.4,Team 3000 Realty Ltd. Brokerage,Kitsilano,2929 W 15th Ave
+2060718565,1311 Beach Ave #401,V6E1V6,Vancouver,BC,49.281166,-123.138336,3098000.0,3.0,3.0,1647.0,CONDO,,0.0,RE/MAX Crest Realty Brokerage,West End,1311 Beach Ave 
+2059890554,3588 Crowley Dr #312,V5R6H3,Vancouver,BC,49.23538,-123.02872,588000.0,1.0,2.0,680.0,CONDO,,0.0,Oakwyn Realty Ltd. Brokerage,Renfrew-Collingwood,3588 Crowley Dr 
+314334615,3937 W 34th Ave,V6N2L4,Vancouver,BC,49.241703,-123.19205,8390000.0,8.0,6.0,5213.0,SINGLE_FAMILY,6477000.0,8712.0,Interlink Realty Brokerage,Dunbar-Southlands,3937 W 34th Ave
+314352464,6520 Laburnum St,V6P5M5,Vancouver,BC,49.226772,-123.15048,6480000.0,7.0,5.0,4338.0,SINGLE_FAMILY,5168000.0,6098.4,Macdonald Realty Brokerage,Kerrisdale,6520 Laburnum St
+314381987,7480 Main St,V5X3J8,Vancouver,BC,49.21696,-123.10158,1998000.0,5.0,7.0,2323.0,SINGLE_FAMILY,1372000.0,3484.8,Sutton Group-West Coast Realty Brokerage,Sunset,7480 Main St
+314398013,3466 Franklin St,V5K1Y3,Vancouver,BC,49.281788,-123.029305,1739000.0,2.0,3.0,1731.0,SINGLE_FAMILY,1286400.0,3920.4,Royal LePage - Wolstencroft Brokerage,Hastings-Sunrise,3466 Franklin St
+314330223,5611 Highbury St,V6N1Y7,Vancouver,BC,49.235523,-123.188736,5880000.0,6.0,5.0,4590.0,SINGLE_FAMILY,3971000.0,7840.8,Dracco Pacific Realty Brokerage,Dunbar-Southlands,5611 Highbury St
+314333953,3456 W 29th Ave,V6S1T1,Vancouver,BC,49.24587,-123.181175,2380000.0,4.0,4.0,1500.0,MULTI_FAMILY,2350000.0,4356.0,Leung Realty & Associates Inc. Brokerage,Dunbar-Southlands,3456 W 29th Ave
+2059765958,4932 Cambie St #208,V5Z3B2,Vancouver,BC,49.22662,-123.116745,1199000.0,2.0,2.0,829.0,CONDO,,0.0,Sutton Group - 1st West Realty Brokerage,Oakridge,4932 Cambie St 
+314324215,3616 Point Grey Rd,V6R1A9,Vancouver,BC,49.271935,-123.184006,4880000.0,3.0,4.0,3712.0,SINGLE_FAMILY,2711300.0,3712.5,ICI Source Real Asset Services Inc. Brokerage,Kitsilano,3616 Point Grey Rd
+314353135,5887 Adera St,V6M3J1,Vancouver,BC,49.23271,-123.14377,10880000.0,7.0,5.0,5350.0,SINGLE_FAMILY,8251000.0,9583.2,Sutton Group-West Coast Realty Brokerage,Kerrisdale,5887 Adera St
+2070285804,838 W Hastings St #1507,V6C0A6,Vancouver,BC,49.286182,-123.11589,1058000.0,1.0,1.0,945.0,APARTMENT,,0.0,Engel & Volkers Vancouver Brokerage,Downtown,838 W Hastings St 
+314347273,1056 Richelieu Ave,V6H1T1,Vancouver,BC,49.255672,-123.12892,4450000.0,3.0,5.0,5143.0,SINGLE_FAMILY,4379900.0,0.35,Faith Wilson Group Brokerage,Shaughnessy,1056 Richelieu Ave
+2067996379,2121 W 38th Ave #802,V6M1R8,Vancouver,BC,49.2363099,-123.1158071,968000.0,2.0,3.0,925.0,CONDO,,0.0,Sutton Group-West Coast Realty Brokerage,Riley Park,2121 W 38th Ave 
+2060506939,2550 Spruce St #504,V6H0A8,Vancouver,BC,49.263126,-123.128654,999000.0,2.0,2.0,848.0,CONDO,,0.0,Nu Stream Realty Inc. Brokerage,Fairview,2550 Spruce St 
+314419803,2066 E 45th Ave,V5P1N8,Vancouver,BC,49.229187,-123.064156,1499800.0,4.0,5.0,1450.0,MULTI_FAMILY,1366000.0,3920.4,Oakwyn Realty Ltd. Brokerage,Victoria-Fraserview,2066 E 45th Ave
+314335835,3229 Trutch St,V6L2T3,Vancouver,BC,49.25716,-123.1767,6800000.0,10.0,9.0,5924.0,SINGLE_FAMILY,2906600.0,8712.0,eXp Realty Brokerage,Arbutus-Ridge,3229 Trutch St
+314428465,410 Beach Cres,V6Z3E9,Vancouver,BC,49.271584,-123.128006,2998000.0,3.0,2.0,1582.0,TOWNHOUSE,1966000.0,0.0,RE/MAX Crest Realty Brokerage,Downtown,410 Beach Cres
+314368151,1747 Kitchener St,V5L2W4,Vancouver,BC,49.272377,-123.06842,2680000.0,4.0,5.0,2355.0,SINGLE_FAMILY,1783000.0,3920.4,Sutton Group-West Coast Realty Brokerage,Grandview-Woodland,1747 Kitchener St
+2062918490,4536 Quebec St,V5V3L9,Vancouver,BC,49.2704271,-123.1025354,1549900.0,3.0,3.0,1503.0,TOWNHOUSE,,6969.6,Macdonald Realty Brokerage,Mount Pleasant,4536 Quebec St
+314336147,4723 Puget Dr,V6L2W2,Vancouver,BC,49.243763,-123.16307,6980000.0,8.0,7.0,4865.0,SINGLE_FAMILY,4911000.0,8276.4,RE/MAX City Realty Brokerage,Arbutus-Ridge,4723 Puget Dr
+314337186,2236 W 20th Ave,V6L1G3,Vancouver,BC,49.254185,-123.15654,4680000.0,7.0,6.0,3854.0,SINGLE_FAMILY,4078000.0,6098.4,Pacific Evergreen Realty Ltd. Brokerage,Arbutus-Ridge,2236 W 20th Ave
+2060722763,1470 Pennyfarthing Dr #108,V6J4Y2,Vancouver,BC,49.272057,-123.14129,699000.0,1.0,1.0,946.0,CONDO,,0.0,Macdonald Realty Brokerage,Fairview,1470 Pennyfarthing Dr 
+2060757545,1383 Marinaside Cres #TOWNHOUSE,V6Z2W9,Vancouver,BC,49.271774,-123.12209,3580000.0,3.0,2.0,1989.0,TOWNHOUSE,,0.0,Engel & Volkers Vancouver Brokerage,Downtown,1383 Marinaside Cres 
+2061259239,1660 E 5th Ave #102A,V5N1L7,Vancouver,BC,49.265702,-123.0416581,1198000.0,3.0,3.0,1227.0,TOWNHOUSE,,0.0,RE/MAX Select Properties Brokerage,Hastings-Sunrise,1660 E 5th Ave 
+314342315,2016 W 48th Ave,V6M2P3,Vancouver,BC,49.227795,-123.152756,3498000.0,1.0,3.0,1314.0,SINGLE_FAMILY,3081700.0,6534.0,RE/MAX Crest Realty Brokerage,Kerrisdale,2016 W 48th Ave
+314419555,2621 E 43rd Ave,V5R5X9,Vancouver,BC,49.230892,-123.02751,1308000.0,3.0,3.0,1403.0,TOWNHOUSE,1091000.0,0.0,Royal Pacific Realty (Kingsway) Ltd. Brokerage,Killarney,2621 E 43rd Ave
+2065723198,1330 Burrard St #318,V6Z2B8,Vancouver,BC,49.2774299,-123.13121769401914,488000.0,1.0,1.0,462.0,CONDO,,0.0,Dracco Pacific Realty Brokerage,Downtown,1330 Burrard St 
+2061819907,7621 Yukon St,V5X2Y4,Vancouver,BC,49.2474307,-123.1122564,1648000.0,3.0,4.0,1480.0,TOWNHOUSE,,0.0,RE/MAX Westcoast Brokerage,Riley Park,7621 Yukon St
+314336887,2815 W 19th Ave,V6L1E4,Vancouver,BC,49.255756,-123.168175,2278000.0,4.0,4.0,1780.0,MULTI_FAMILY,2480000.0,4791.6,Team 3000 Realty Ltd. Brokerage,Arbutus-Ridge,2815 W 19th Ave
+314374955,170 E 22nd Ave,V5V1T6,Vancouver,BC,49.250767,-123.10191,2249000.0,3.0,6.0,2520.0,SINGLE_FAMILY,1970000.0,3484.8,Macdonald Realty Brokerage,Riley Park,170 E 22nd Ave
+314365751,635 Victoria Dr,V5L4H3,Vancouver,BC,49.270275,-123.06561,1499900.0,3.0,3.0,1431.0,TOWNHOUSE,1392000.0,0.0,Oakwyn Realty Downtown Ltd. Brokerage,Grandview-Woodland,635 Victoria Dr
+2060935372,1490 Pennyfarthing Dr #704,V6J4Z3,Vancouver,BC,49.272057,-123.14129,959000.0,1.0,1.0,960.0,CONDO,,0.0,RE/MAX Crest Realty Brokerage,Fairview,1490 Pennyfarthing Dr 
+2061802703,867 Hamilton St #906,V6B6B7,Vancouver,BC,49.27841725,-123.11717249483212,929000.0,2.0,2.0,1049.0,CONDO,,0.0,RE/MAX City Realty Brokerage,Downtown,867 Hamilton St 
+2061691827,6328 Cambie St #508,V5Z3B4,Vancouver,BC,49.228153,-123.116135,1299000.0,2.0,2.0,944.0,CONDO,,0.0,Pacific Evergreen Realty Ltd. Brokerage,Oakridge,6328 Cambie St 
+2076358860,1850 Comox St #1008,V6G1R3,Vancouver,BC,49.2891209,-123.14096031427393,378000.0,1.0,1.0,546.0,CONDO,,0.0,Royal Pacific Tri-Cities Realty Brokerage,West End,1850 Comox St 
+314346099,1748 E 15th Ave,V6J2K8,Vancouver,BC,49.25662,-123.06873,1648800.0,4.0,3.0,1596.0,MULTI_FAMILY,2599000.0,3920.4,Sutton Group-West Coast Realty Brokerage,Kensington-Cedar Cottage,1748 E 15th Ave
+2065463392,1211 Melville St #2402,V6E0A7,Vancouver,BC,49.288166,-123.12415,2099000.0,2.0,3.0,1269.0,CONDO,,0.0,RE/MAX Crest Realty Brokerage,Downtown,1211 Melville St 
+2060506580,4638 Gladstone St #1505,V5N4Y8,Vancouver,BC,49.25198,-123.05945,1100000.0,2.0,3.0,982.0,CONDO,,0.0,Nu Stream Realty Inc. Brokerage,Kensington-Cedar Cottage,4638 Gladstone St 
+314346636,3989 Marguerite St,V6J4E8,Vancouver,BC,49.25057,-123.14484,6900000.0,4.0,4.0,5928.0,SINGLE_FAMILY,6790000.0,0.39,Dexter Realty Brokerage,Shaughnessy,3989 Marguerite St
+314348048,1568 W 32nd Ave,V6J3A6,Vancouver,BC,49.24262,-123.14093,10990000.0,8.0,7.0,6618.0,SINGLE_FAMILY,8684000.0,0.35,Dracco Pacific Realty Brokerage,Shaughnessy,1568 W 32nd Ave
+314369031,2273 Graveley St,V5L3C1,Vancouver,BC,49.270626,-123.058495,1599000.0,2.0,4.0,1613.0,SINGLE_FAMILY,1386000.0,3049.2,Rennie & Associates Realty Ltd. Brokerage,Grandview-Woodland,2273 Graveley St
+2063162430,108 Cordova St W #1506,V6B0G5,Vancouver,BC,49.282616,-123.107956,580000.0,1.0,1.0,560.0,CONDO,,0.0,Oakwyn Realty Ltd. Brokerage,Downtown,108 Cordova St W 
+314398017,3467 Franklin St,V5K1Y4,Vancouver,BC,49.282303,-123.029175,1499900.0,4.0,4.0,1498.0,MULTI_FAMILY,1336000.0,3920.4,Woodhouse Realty Brokerage,Hastings-Sunrise,3467 Franklin St
+314322591,4247 W 15th Ave,V6R3A7,Vancouver,BC,49.25942,-123.20161,5380000.0,5.0,7.0,3530.0,SINGLE_FAMILY,2434200.0,3920.4,Nu Stream Realty Inc. Brokerage,West Point Grey,4247 W 15th Ave
+2062305326,928 Homer St #3104,V6B1T7,Vancouver,BC,49.27801,-123.11875,1228800.0,2.0,2.0,1033.0,CONDO,,0.0,VIRANI REAL ESTATE ADVISORS Brokerage,Downtown,928 Homer St 
+2060973422,5757 Clarendon St,V5R3H7,Vancouver,BC,49.24439,-123.05236,1678000.0,4.0,4.0,1608.0,MULTI_FAMILY,,0.0,RE/MAX Real Estate Services Brokerage,Renfrew-Collingwood,5757 Clarendon St
+2060159464,4858 Slocan St #225,V5R2A3,Vancouver,BC,49.240517,-123.052956,974900.0,2.0,2.0,1135.0,TOWNHOUSE,,0.0,RE/MAX All Points Realty Brokerage,Renfrew-Collingwood,4858 Slocan St 
+314421330,3259 E 48th Ave,V5S1H4,Vancouver,BC,49.225662,-123.03707,1698000.0,3.0,7.0,2427.0,SINGLE_FAMILY,1293400.0,3049.2,Sutton Group-West Coast Realty Brokerage,Killarney,3259 E 48th Ave
+2059750704,180 E 2nd Ave #803,V5T1B5,Vancouver,BC,49.26885,-123.10121,988000.0,2.0,2.0,776.0,CONDO,,0.0,RE/MAX Crest Realty Brokerage,Mount Pleasant,180 E 2nd Ave 
+2061175364,1888 Alberni St #1201,V6G1B3,Vancouver,BC,49.292797,-123.13594,1890000.0,2.0,2.0,1558.0,CONDO,,0.0,Sutton Centre Realty Brokerage,West End,1888 Alberni St 
+2060417411,1251 Cardero St #504,V6G2H9,Vancouver,BC,49.284996,-123.139885,425000.0,1.0,1.0,600.0,CONDO,,0.0,Homelife Benchmark Titus Realty Brokerage,West End,1251 Cardero St 
+314354967,1328 W 57th Ave,V6P1S8,Vancouver,BC,49.218822,-123.13548,6988000.0,8.0,6.0,6551.0,SINGLE_FAMILY,4102000.0,0.25,Keller Williams Realty VanCentral Brokerage,Marpole,1328 W 57th Ave
+2061801590,4083 Cambie St #208,V5Z0G9,Vancouver,BC,49.249386,-123.11584,698000.0,1.0,1.0,621.0,CONDO,,0.0,Interlink Realty Brokerage,South Cambie,4083 Cambie St 
+2061590932,909 Burrard St #2201,V6Z2N2,Vancouver,BC,49.282425,-123.125305,1998000.0,3.0,3.0,1777.0,CONDO,,0.0,Macdonald Realty Brokerage,West End,909 Burrard St 
+2060920672,5770 Oak St #212,V6M4M5,Vancouver,BC,49.23342,-123.12761,650000.0,1.0,1.0,813.0,CONDO,,0.0,Keller Williams Realty VanCentral Brokerage,Oakridge,5770 Oak St 
+2063061662,1480 Howe St #5301,V6Z0G5,Vancouver,BC,49.2749095,-123.13101661844736,9300000.0,4.0,3.0,3107.0,CONDO,,0.0,Luxmore Realty Brokerage,Downtown,1480 Howe St 
+314364766,20 W 14th Ave,V5Y1W6,Vancouver,BC,49.2582,-123.10556,1990000.0,2.0,4.0,2208.0,SINGLE_FAMILY,1770700.0,3484.8,YVR International Realty Brokerage,Mount Pleasant,20 W 14th Ave
+314427616,1281 Cordova St W #402,V6C3R5,Vancouver,BC,49.2901,-123.1232,5988000.0,3.0,3.0,2478.0,CONDO,6489000.0,0.0,Oakwyn Realty Ltd. Brokerage,Downtown,1281 Cordova St W 
+2067809590,4919 Larch St #4,V6K3P2,Vancouver,BC,49.268726,-123.162384,2498000.0,3.0,3.0,1615.0,TOWNHOUSE,,0.0,Engel & Volkers Vancouver Brokerage,Kitsilano,4919 Larch St 
+2060656173,1771 Nelson St #303,V6G1M6,Vancouver,BC,49.28931,-123.13798,868900.0,2.0,2.0,905.0,CONDO,,0.0,Stonehaus Realty Corp. Brokerage,West End,1771 Nelson St 
+2060718207,1238 Richards St #603,V6B6M6,Vancouver,BC,49.275234,-123.12472,890000.0,1.0,1.0,888.0,CONDO,,0.0,Homeland Realty Brokerage,Downtown,1238 Richards St 
+2061325954,1251 W 71st Ave #102,V6P3A9,Vancouver,BC,49.207233,-123.13398,499000.0,1.0,1.0,730.0,CONDO,,0.0,Homeland Realty Brokerage,Marpole,1251 W 71st Ave 
+2068471549,212 Davie St #201,V6B5Z4,Vancouver,BC,49.27379,-123.12371,1049000.0,2.0,2.0,1085.0,CONDO,,0.0,Oakwyn Realty Downtown Ltd. Brokerage,Downtown,212 Davie St 
+2060658750,6288 Oak St #29,V6M2V5,Vancouver,BC,49.236534,-123.12843,1979900.0,3.0,3.0,1455.0,TOWNHOUSE,,0.0,Evermark Real Estate Services Brokerage,Shaughnessy,6288 Oak St 
+2061454240,528 Beatty St #301,V6B2L3,Vancouver,BC,49.280666,-123.10888,1250000.0,2.0,1.0,1303.0,CONDO,,0.0,RE/MAX Select Realty Brokerage,Downtown,528 Beatty St 
+314355550,969 W 46th Ave,V6M2W2,Vancouver,BC,49.22981,-123.12779,1899000.0,4.0,3.0,1699.0,TOWNHOUSE,1512000.0,0.0,Macdonald Realty Brokerage,Oakridge,969 W 46th Ave
+2062952540,1009 Harwood St #307,V6E0C2,Vancouver,BC,49.27807,-123.13131,725000.0,1.0,1.0,623.0,CONDO,,0.0,Oakwyn Realty Encore Brokerage,West End,1009 Harwood St 
+2063437347,3161 W 4th Ave #404,V6K1R6,Vancouver,BC,49.2674531,-123.1083315,924800.0,2.0,2.0,822.0,CONDO,,0.0,Macdonald Realty Brokerage,Mount Pleasant,3161 W 4th Ave 
+2060258537,388 W 64th Ave #26,V5X2L7,Vancouver,BC,49.21276,-123.110176,1699000.0,3.0,3.0,1637.0,TOWNHOUSE,,0.0,Pacific Evergreen Realty Ltd. Brokerage,Marpole,388 W 64th Ave 
+314427380,1398 Nelson St,V6E1J9,Vancouver,BC,49.28533,-123.13294,1485000.0,2.0,2.0,1045.0,TOWNHOUSE,1102000.0,0.0,Macdonald Realty Brokerage,West End,1398 Nelson St
+2060171071,1011 King Edward Ave W #201,V6H1Z3,Vancouver,BC,49.24955,-123.12803,799900.0,2.0,2.0,902.0,CONDO,,0.0,RE/MAX Select Properties Brokerage,Shaughnessy,1011 King Edward Ave W 
+2059968355,1525 Pendrell St #208,V6G1S6,Vancouver,BC,49.285656,-123.13674,898888.0,1.0,2.0,937.0,CONDO,,0.0,Royal LePage Sussex Brokerage,West End,1525 Pendrell St 
+2060813469,1208 E 15th Ave,V5T2S8,Vancouver,BC,49.2565207,-123.073787,1500000.0,4.0,3.0,1334.0,MULTI_FAMILY,,0.0,RE/MAX 2000 Realty Brokerage,Kensington-Cedar Cottage,1208 E 15th Ave
+314343007,6718 Marine Cres,V6P5X3,Vancouver,BC,49.22485,-123.16333,14880000.0,8.0,7.0,8167.0,SINGLE_FAMILY,10319000.0,0.4,RE/MAX Real Estate Services Brokerage,Kerrisdale,6718 Marine Cres
+2066768260,5058 Joyce St #401,V5R4G3,Vancouver,BC,49.23863295,-123.0310862800545,928000.0,2.0,3.0,961.0,CONDO,,0.0,Sutton Group-West Coast Realty (Surrey/24) Brokerage,Renfrew-Collingwood,5058 Joyce St 
+314348734,5631 Willow St,V5Z3S3,Vancouver,BC,49.234814,-123.12426,1628000.0,3.0,3.0,1328.0,TOWNHOUSE,1528000.0,0.0,Luxmore Realty Brokerage,South Cambie,5631 Willow St
+2060417446,38 Smithe St #858,V6B0P3,Vancouver,BC,49.27495,-123.11408,1288000.0,2.0,2.0,971.0,CONDO,,0.0,RE/MAX Crest Realty Brokerage,Downtown,38 Smithe St 
+314422377,7577 Jasper Cres,V5P3S6,Vancouver,BC,49.215553,-123.070526,2388000.0,4.0,8.0,2500.0,SINGLE_FAMILY,2088000.0,5662.8,RE/MAX Real Estate Services Brokerage,Victoria-Fraserview,7577 Jasper Cres
+314373031,1014 E 16th Ave,V5T2W1,Vancouver,BC,49.256058,-123.08318,1658800.0,4.0,3.0,1559.0,MULTI_FAMILY,1771000.0,6098.4,Macdonald Realty Brokerage,Kensington-Cedar Cottage,1014 E 16th Ave
+2063061582,1233 Cordova St W #1003,V6C3R1,Vancouver,BC,49.289783,-123.12244,4680000.0,3.0,4.0,2528.0,CONDO,,0.0,Royal Pacific Realty Corp. Brokerage,Downtown,1233 Cordova St W 
+2068440128,150 Cordova St E #903,V6A0E7,Vancouver,BC,49.2823281,-123.1021128,469900.0,1.0,1.0,519.0,CONDO,,0.0,Zolo Realty Brokerage,Downtown,150 Cordova St E 
+314341406,2150 W 40th Ave #301,V6M1W5,Vancouver,BC,49.23526,-123.156715,1699000.0,3.0,3.0,1942.0,CONDO,1643000.0,0.0,Magsen Realty Inc. Brokerage,Arbutus-Ridge,2150 W 40th Ave 
+2060557121,1311 Beach Ave #1401,V6E1V6,Vancouver,BC,49.281166,-123.138336,2498000.0,3.0,2.0,1659.0,CONDO,,0.0,RE/MAX Masters Realty Brokerage,West End,1311 Beach Ave 
+314369089,1550 E 1st Ave,V5N1A5,Vancouver,BC,49.269352,-123.07233,1499000.0,2.0,4.0,1200.0,MULTI_FAMILY,1016000.0,0.0,RE/MAX Crest Realty Brokerage,Grandview-Woodland,1550 E 1st Ave
+2060627823,3502 E 48th Ave,V5S1G4,Vancouver,BC,49.225536,-123.05831,1999000.0,4.0,4.0,2536.0,MULTI_FAMILY,,6969.6,Nu Stream Realty Inc. Brokerage,Victoria-Fraserview,3502 E 48th Ave
+314319490,4554 Langara Ave,V6R1C8,Vancouver,BC,49.272694,-123.21052,6188000.0,3.0,4.0,2871.0,SINGLE_FAMILY,4304000.0,3484.8,Faith Wilson Group Brokerage,West Point Grey,4554 Langara Ave
+2060148073,1412 E 54th Ave,V5P1Y3,Vancouver,BC,49.221867,-123.13965,1698000.0,4.0,5.0,1795.0,MULTI_FAMILY,,5227.2,Sutton Group-West Coast Realty Brokerage,Oakridge,1412 E 54th Ave
+314390939,4379 Knight St,V5N3M4,Vancouver,BC,49.245647,-123.076645,1112000.0,3.0,3.0,1151.0,MULTI_FAMILY,882000.0,3484.8,RE/MAX LIFESTYLES REALTY Brokerage,Kensington-Cedar Cottage,4379 Knight St
+2060972934,499 Pacific St #2502,V6B0N4,Vancouver,BC,49.27401,-123.1266,3238000.0,3.0,3.0,1618.0,CONDO,,0.0,RE/MAX Crest Realty Brokerage,Downtown,499 Pacific St 
+2059937663,1010 Howe St #705,V6Z1P5,Vancouver,BC,49.279488,-123.12418,549000.0,1.0,1.0,505.0,CONDO,,0.0,Keller Williams Realty VanCentral Brokerage,Downtown,1010 Howe St 
+2066548665,560 Cardero St #2003,V6G3E9,Vancouver,BC,49.291363,-123.12868,4690000.0,2.0,3.0,2156.0,CONDO,,0.0,Century 21 In Town Realty Brokerage,Downtown,560 Cardero St 
+314337856,2855 Alamein Ave,V6L1S4,Vancouver,BC,49.25033,-123.169174,3260000.0,4.0,5.0,2932.0,SINGLE_FAMILY,2496000.0,5227.2,Royal Pacific Realty Corp. Brokerage,Arbutus-Ridge,2855 Alamein Ave
+2059784600,4818 Eldorado Mews PENTHOUSE 4,V5R0B3,Vancouver,BC,49.241432,-123.05811,589900.0,1.0,1.0,478.0,CONDO,,0.0,Macdonald Realty Westmar Brokerage,Renfrew-Collingwood,4818 Eldorado Mews 
+2061639723,2866 E Kent Ave N,V5S2H7,Vancouver,BC,49.20614,-123.056564,1098000.0,3.0,3.0,1271.0,TOWNHOUSE,,0.0,Nu Stream Realty Inc. Brokerage,Killarney,2866 E Kent Ave N
+314382847,7395 Inverness St,V5X4G9,Vancouver,BC,49.217278,-123.080536,1890000.0,2.0,3.0,2568.0,SINGLE_FAMILY,1629500.0,6534.0,Engel & Volkers Vancouver Brokerage,Sunset,7395 Inverness St
+2059825795,3063 Graveley St,V5K3J3,Vancouver,BC,49.27018,-123.05578,1589000.0,4.0,3.0,1498.0,MULTI_FAMILY,,1306.8,eXp Realty Brokerage,Hastings-Sunrise,3063 Graveley St
+2060706506,1205 Howe St #1503,V6Z0B2,Vancouver,BC,49.277763,-123.12779,2098000.0,2.0,1.0,1686.0,CONDO,,0.0,Macdonald Realty Brokerage,Downtown,1205 Howe St 
+2059811883,1740 Comox St #2004,V6G2Z1,Vancouver,BC,49.2878,-123.13906,589000.0,1.0,1.0,621.0,CONDO,,0.0,Royal LePage Sussex Brokerage,West End,1740 Comox St 
+314414696,2310 Brock St,V5N2Z7,Vancouver,BC,49.24358,-123.05885,1549000.0,4.0,3.0,1520.0,MULTI_FAMILY,2058000.0,0.0,Oakwyn Realty Northwest Brokerage,Kensington-Cedar Cottage,2310 Brock St
+314365758,1925 Adanac St,V5L2E5,Vancouver,BC,49.27765,-123.06523,4600000.0,2.0,3.0,1376.0,SINGLE_FAMILY,3611000.0,7840.8,Nu Stream Realty Inc. Brokerage,Grandview-Woodland,1925 Adanac St
+2061000552,55 Cordova St E #314,V6A0A5,Vancouver,BC,49.282593,-123.10296,1099900.0,1.0,1.0,1170.0,CONDO,,0.0,RE/MAX Crest Realty Brokerage,Downtown,55 Cordova St E 
+2071204518,4372 W 13th Ave #A,V6R2T9,Vancouver,BC,49.26077,-123.205284,2598000.0,4.0,3.0,1587.0,MULTI_FAMILY,,3920.4,RE/MAX Select Properties Brokerage,West Point Grey,4372 W 13th Ave 
+2060556164,212 Davie St #701,V6B5Z4,Vancouver,BC,49.27379,-123.12371,1148800.0,2.0,2.0,1281.0,CONDO,,0.0,Sutton Group-West Coast Realty Brokerage,Downtown,212 Davie St 
+314427504,1403 Beach Ave,V6G1Y3,Vancouver,BC,49.281883,-123.13942,4880000.0,3.0,4.0,3303.0,CONDO,5544000.0,0.0,Sutton Group-West Coast Realty Brokerage,West End,1403 Beach Ave
+2061683153,2036 York Ave #201,V6J1E6,Vancouver,BC,49.27137,-123.15116,938000.0,2.0,2.0,842.0,CONDO,,0.0,Oakwyn Realty Ltd. Brokerage,Kitsilano,2036 York Ave 
+2061009527,825 W 7th Ave #101,V5Z1C2,Vancouver,BC,49.265324,-123.12262,899000.0,1.0,2.0,994.0,TOWNHOUSE,,0.0,Oakwyn Realty Ltd. Brokerage,Fairview,825 W 7th Ave 
+314342954,6380 Macdonald St,V6N1E6,Vancouver,BC,49.228714,-123.16668,15000000.0,7.0,6.0,7180.0,SINGLE_FAMILY,8225000.0,0.49,Royal Pacific Realty Corp. Brokerage,Kerrisdale,6380 Macdonald St
+314342385,5880 Crown St,V6N2B8,Vancouver,BC,49.232998,-123.193375,2688000.0,5.0,4.0,2388.0,SINGLE_FAMILY,2441000.0,4356.0,Sutton Group-West Coast Realty Brokerage,Dunbar-Southlands,5880 Crown St
+2061488766,1550 Coal Harbour Quay #L401,V6G3G1,Vancouver,BC,49.2918062,-123.1285668,3650000.0,3.0,4.0,2131.0,CONDO,,0.0,Macdonald Realty Brokerage,Downtown,1550 Coal Harbour Quay
+314340042,1922 W 33rd Ave,V6M1B4,Vancouver,BC,49.241768,-123.15001,3488000.0,4.0,5.0,3067.0,SINGLE_FAMILY,2780000.0,8276.4,Royal Pacific Realty Corp. Brokerage,Arbutus-Ridge,1922 W 33rd Ave
+314428350,168 Prior St,V6A0A6,Vancouver,BC,49.276634,-123.10104,1688000.0,3.0,2.0,1869.0,TOWNHOUSE,1817000.0,0.0,Dexter Realty Brokerage,Downtown,168 Prior St
+314378230,4105 Elgin St,V5V4R3,Vancouver,BC,49.248405,-123.08304,1899900.0,3.0,6.0,2594.0,SINGLE_FAMILY,1427300.0,4356.0,Macdonald Realty Brokerage,Kensington-Cedar Cottage,4105 Elgin St
+314401332,2984 Kitchener St,V5K3E5,Vancouver,BC,49.272007,-123.041954,3388000.0,8.0,10.0,3873.0,SINGLE_FAMILY,1416400.0,4356.0,RE/MAX Crest Realty Brokerage,Hastings-Sunrise,2984 Kitchener St
+2059763951,1533 E 8th Ave #101,V5N0A4,Vancouver,BC,49.263542,-123.07279,649900.0,1.0,1.0,595.0,CONDO,,0.0,Oakwyn Realty Ltd. Brokerage,Grandview-Woodland,1533 E 8th Ave 
+314338199,3255 W 26th Ave,V6L1W2,Vancouver,BC,49.24924,-123.177414,5980000.0,7.0,5.0,4442.0,SINGLE_FAMILY,4796000.0,6534.0,Sutton Group - 1st West Realty Brokerage,Dunbar-Southlands,3255 W 26th Ave
+314351504,76 King Edward Ave W,V5Y2H7,Vancouver,BC,49.248554,-123.106766,1799900.0,2.0,3.0,1360.0,TOWNHOUSE,2502200.0,0.0,Macdonald Realty Brokerage,Riley Park,76 King Edward Ave W
+2068601320,3188 Riverwalk Ave #504,V5S0E7,Vancouver,BC,49.205387,-123.03918,1398000.0,2.0,2.0,1131.0,CONDO,,0.0,RE/MAX Crest Realty Brokerage,Killarney,3188 Riverwalk Ave 
+314322877,4379 W 16th Ave,V6R3E6,Vancouver,BC,49.25857,-123.205505,3988800.0,6.0,5.0,3298.0,SINGLE_FAMILY,3118000.0,3920.4,HomeLife Advantage Realty Ltd Brokerage,West Point Grey,4379 W 16th Ave
+2061157266,1480 Howe St #2611,V6Z0G5,Vancouver,BC,49.275013,-123.13084,599000.0,1.0,1.0,415.0,CONDO,,0.0,Sutton Group - 1st West Realty Brokerage,Downtown,1480 Howe St 
+2061503353,744 W 7th Ave #3,V5Z1B8,Vancouver,BC,49.264816,-123.1211,1379900.0,2.0,2.0,1344.0,TOWNHOUSE,,0.0,Oakwyn Realty Ltd. Brokerage,Fairview,744 W 7th Ave 
+314346884,3980 Cartier St,V6H3C8,Vancouver,BC,49.250286,-123.13632,7498000.0,4.0,5.0,5442.0,SINGLE_FAMILY,7175000.0,10018.8,Macdonald Realty Brokerage,Shaughnessy,3980 Cartier St
+2059979077,1330 Jervis St #601,V6E2E3,Vancouver,BC,49.28145,-123.13662,1269000.0,2.0,2.0,1035.0,CONDO,,0.0,Keller Williams Realty VanCentral Brokerage,West End,1330 Jervis St 
+2062146101,1238 Melville St #2703,V6E4N2,Vancouver,BC,49.288223,-123.12536,1550000.0,2.0,3.0,1260.0,CONDO,,0.0,Royal Pacific Lions Gate Realty Ltd. Brokerage,Downtown,1238 Melville St 
+2061667764,1255 Main St #1201,V6A4G5,Vancouver,BC,49.27344695,-123.10046302933586,1060000.0,2.0,3.0,1250.0,CONDO,,0.0,Royal Pacific Realty Corp. Brokerage,Downtown,1255 Main St 
+2060775788,1710 Bayshore Dr #1802,V6G3G4,Vancouver,BC,49.29236,-123.1326,2138000.0,2.0,2.0,1461.0,CONDO,,0.0,Cathay Pacific Realty Ltd. Brokerage,Downtown,1710 Bayshore Dr 
+2068563513,1068 Hornby St #100,V6Z2Y7,Vancouver,BC,49.27964,-123.12574,1138800.0,2.0,2.0,982.0,TOWNHOUSE,,0.0,Oakwyn Realty Ltd. Brokerage,Downtown,1068 Hornby St 
+2076448978,1480 Howe St #3703,V6Z0G5,Vancouver,BC,49.2749095,-123.13101661844736,2999000.0,3.0,3.0,1463.0,CONDO,,0.0,Rennie & Associates Realty Ltd. Brokerage,Downtown,1480 Howe St 
+2059783888,8081 Yukon St,V5X2Y4,Vancouver,BC,49.21664,-123.11577,1998000.0,3.0,3.0,1588.0,TOWNHOUSE,,0.0,RE/MAX Crest Realty Brokerage,Marpole,8081 Yukon St
+2060676204,1690 W 8th Ave #901,V6J0B1,Vancouver,BC,49.264317,-123.14294,1240000.0,2.0,2.0,1035.0,CONDO,,0.0,RE/MAX Masters Realty Brokerage,Fairview,1690 W 8th Ave 
+2059952521,518 Beatty St #701,V6B6G8,Vancouver,BC,49.280796,-123.10869,655000.0,1.0,1.0,627.0,CONDO,,0.0,Sutton Group-West Coast Realty Brokerage,Downtown,518 Beatty St 
+314391837,4493 Fleming St,V5N3W4,Vancouver,BC,49.24454,-123.072495,2050000.0,7.0,6.0,2179.0,SINGLE_FAMILY,1312100.0,3920.4,YVR International Realty Brokerage,Kensington-Cedar Cottage,4493 Fleming St
+2060162970,1530 W 8th Ave #405,V6J5M6,Vancouver,BC,49.264275,-123.13981,1980000.0,3.0,2.0,1468.0,CONDO,,0.0,Stilhavn Real Estate Services Brokerage,Fairview,1530 W 8th Ave 
+314427877,1065 Richards St,V6B0C2,Vancouver,BC,49.277573,-123.12227,1498000.0,3.0,2.0,1151.0,TOWNHOUSE,1481000.0,0.0,Macdonald Realty Brokerage,Downtown,1065 Richards St
+2060261704,665 W 7th Ave #206,V5Z1B6,Vancouver,BC,49.26528,-123.11894,1049000.0,1.0,2.0,869.0,TOWNHOUSE,,0.0,Stilhavn Real Estate Services Brokerage,Fairview,665 W 7th Ave 
+2060456136,1833 Frances St #1103,V5L1Z8,Vancouver,BC,49.27959,-123.06692,699000.0,2.0,2.0,904.0,CONDO,,0.0,Keller Williams Realty VanCentral Brokerage,Grandview-Woodland,1833 Frances St 
+2066435151,2088 Barclay St #302,V6G1L5,Vancouver,BC,49.2925,-123.14203,1099000.0,1.0,1.0,837.0,CONDO,,0.0,Faith Wilson Group Brokerage,West End,2088 Barclay St 
+2062251511,3536 Sawmill Cres,V5S0E3,Vancouver,BC,49.2066566,-123.0258863,989900.0,3.0,2.0,1003.0,TOWNHOUSE,,0.0,Wesgroup Realty Ltd. Brokerage,Killarney,3536 Sawmill Cres
+314324455,2040 Cornwall Ave #311,V6J1E1,Vancouver,BC,49.27225,-123.1512,628880.0,1.0,1.0,595.0,CONDO,517300.0,0.0,RE/MAX City Realty Brokerage,Kitsilano,2040 Cornwall Ave 
+2061585414,2917 Parker St,V5K2T1,Vancouver,BC,49.275658,-123.05611,1550000.0,3.0,3.0,1654.0,MULTI_FAMILY,,0.0,Engel & Volkers Vancouver Brokerage,Hastings-Sunrise,2917 Parker St
+2060524970,1067 Marinaside Cres #3A,V6Z3A4,Vancouver,BC,49.27369,-123.11722,3200000.0,3.0,3.0,1934.0,TOWNHOUSE,,0.0,RE/MAX Crest Realty Brokerage,Downtown,1067 Marinaside Cres 
+2060151253,283 Davie St #1503/04,V6B5T6,Vancouver,BC,49.274555,-123.120865,8995000.0,4.0,2.0,4222.0,CONDO,,0.0,RE/MAX Colonial Pacific Realty Brokerage,Downtown,283 Davie St 
+2061458437,838 E 56th Ave,V5X1P7,Vancouver,BC,49.219517,-123.10582,1688000.0,4.0,4.0,1378.0,MULTI_FAMILY,,3484.8,RE/MAX Crest Realty Brokerage,Sunset,838 E 56th Ave
+2060476588,2171 Guelph St,V5T3N7,Vancouver,BC,49.26582,-123.09518,1288000.0,2.0,3.0,1063.0,TOWNHOUSE,,2613.6,Engel & Volkers Vancouver Brokerage,Mount Pleasant,2171 Guelph St
+2060258599,333 Wethersfield Dr #214,V5X4M9,Vancouver,BC,49.2246,-123.11402,1199888.0,2.0,3.0,1246.0,CONDO,,0.0,Macdonald Realty Brokerage,Oakridge,333 Wethersfield Dr 
+2059926221,885 Cambie St #1904,V6B0R6,Vancouver,BC,49.277515,-123.11653,2980000.0,3.0,3.0,1431.0,CONDO,,0.0,Sutton Group-West Coast Realty Brokerage,Downtown,885 Cambie St 
+2069444667,1135 Barclay St #5,V6E1G8,Vancouver,BC,49.28442,-123.12829,1479000.0,2.0,2.0,1306.0,TOWNHOUSE,,0.0,Oakwyn Realty Ltd. Brokerage,West End,1135 Barclay St 
+314383067,6751 Knight St,V5P2W4,Vancouver,BC,49.22291,-123.07785,1488000.0,4.0,4.0,1618.0,MULTI_FAMILY,1108800.0,3920.4,Sutton Group-West Coast Realty Brokerage,Sunset,6751 Knight St
+2068709089,4770 Duchess St #SL1,V5R3L5,Vancouver,BC,49.242782,-123.0479632,1049000.0,3.0,3.0,1086.0,TOWNHOUSE,,0.0,Royal LePage Sterling Realty Brokerage,Renfrew-Collingwood,4770 Duchess St 
+2061052190,455 Beach Cres #502,V6Z3E5,Vancouver,BC,49.272663,-123.127754,1398000.0,2.0,2.0,1165.0,CONDO,,0.0,Oakwyn Realty Ltd. Brokerage,Downtown,455 Beach Cres 
+2059991625,1723 Alberni St #1002,V6G3G9,Vancouver,BC,49.291714,-123.13309,899000.0,2.0,2.0,780.0,CONDO,,0.0,Sutton Group-West Coast Realty Brokerage,West End,1723 Alberni St 
+2061601209,1335 Howe St #1602,V6Z1R7,Vancouver,BC,49.276453700000005,-123.12971330957112,1798000.0,2.0,2.0,1090.0,CONDO,,0.0,RE/MAX Crest Realty Brokerage,Downtown,1335 Howe St 
+314338892,2987 W 31st Ave,V6L2A5,Vancouver,BC,49.244476,-123.172554,7380000.0,7.0,7.0,4832.0,SINGLE_FAMILY,3327800.0,6534.0,RE/MAX City Realty Brokerage,Dunbar-Southlands,2987 W 31st Ave
+2060695533,1077 Cordova St W #3306,V6C2C6,Vancouver,BC,49.288555,-123.11806,1298000.0,1.0,1.0,778.0,CONDO,,0.0,Behroyan & Associates Real Estate Services Brokerage,Downtown,1077 Cordova St W 
+314346801,1491 W 26th Ave,V6H2B3,Vancouver,BC,49.248516,-123.13872,6500000.0,8.0,6.0,5800.0,SINGLE_FAMILY,5190000.0,8712.0,RE/MAX Crest Realty Brokerage,Shaughnessy,1491 W 26th Ave
+314333836,4042 W 29th Ave,V6S1V5,Vancouver,BC,49.245926,-123.19501,8280000.0,9.0,7.0,5727.0,SINGLE_FAMILY,3866200.0,6969.6,Homeland Realty Brokerage,Dunbar-Southlands,4042 W 29th Ave
+2059762434,822 Seymour St #909,V6B1L7,Vancouver,BC,49.28042,-123.11891,629800.0,1.0,1.0,531.0,CONDO,,0.0,Rennie & Associates Realty Ltd. Brokerage,Downtown,822 Seymour St 
+2076441211,1251 Cardero St #404,V6G2H9,Vancouver,BC,49.28494225,-123.13981483397453,428000.0,1.0,1.0,640.0,CONDO,,0.0,Pacific Evergreen Realty Ltd. Brokerage,West End,1251 Cardero St 
+2060821073,1500 Hornby St #1008,V6Z2R1,Vancouver,BC,49.274727,-123.1328,998800.0,2.0,2.0,1046.0,CONDO,,0.0,Royal LePage Westside Brokerage,Downtown,1500 Hornby St 
+2080135465,1367 Alberni St #505,V6E4R9,Vancouver,BC,49.288353,-123.1279,595000.0,1.0,1.0,462.0,CONDO,,0.0,Century 21 In Town Realty Brokerage,West End,1367 Alberni St 
+314388701,345 E 64th Ave,V5X2M8,Vancouver,BC,49.21286,-123.09919,1799000.0,4.0,5.0,2344.0,SINGLE_FAMILY,1522000.0,3920.4,LeHomes Realty Premier Brokerage,Sunset,345 E 64th Ave
+314407856,2647 E 21st Ave,V5M4E8,Vancouver,BC,49.251774,-123.05117,1890000.0,2.0,4.0,2368.0,SINGLE_FAMILY,1288000.0,3484.8,Oakwyn Realty Ltd. Brokerage,Renfrew-Collingwood,2647 E 21st Ave
+2061153244,863 W 16th Ave #403,V5Z1S9,Vancouver,BC,49.257305,-123.12372,880000.0,2.0,2.0,1016.0,CONDO,,0.0,Oakwyn Realty Ltd. Brokerage,Fairview,863 W 16th Ave 
+314422102,2666 E 53rd Ave,V5S1V9,Vancouver,BC,49.220867,-123.05333,4358000.0,8.0,11.0,4100.0,SINGLE_FAMILY,1776100.0,6098.4,RE/MAX City Realty Brokerage,Victoria-Fraserview,2666 E 53rd Ave
+314364878,1067 E 14th Ave,V5T2P1,Vancouver,BC,49.258114,-123.08204,1588000.0,2.0,5.0,2160.0,SINGLE_FAMILY,1578200.0,3484.8,Macdonald Realty Brokerage,Mount Pleasant,1067 E 14th Ave
+314387359,705 E 60th Ave,V5X2A5,Vancouver,BC,49.21589,-123.09032,1648000.0,3.0,5.0,2413.0,SINGLE_FAMILY,1301900.0,3920.4,RE/MAX City Realty Brokerage,Sunset,705 E 60th Ave
+2060629231,930 Cambie St #2005,V6B5X6,Vancouver,BC,49.276672,-123.11659,799000.0,2.0,2.0,820.0,CONDO,,0.0,Sutton Group-West Coast Realty Brokerage,Downtown,930 Cambie St 
+314425686,1829 E 61st Ave,V5P2J9,Vancouver,BC,49.2148,-123.06933,1799000.0,3.0,5.0,2969.0,SINGLE_FAMILY,1465000.0,4791.6,Rennie & Associates Realty Ltd. Brokerage,Victoria-Fraserview,1829 E 61st Ave
+2060753944,1199 Marinaside Cres #2101,V6Z2Y2,Vancouver,BC,49.273476,-123.119965,2350000.0,2.0,3.0,1400.0,CONDO,,0.0,Royal LePage Sussex Brokerage,Downtown,1199 Marinaside Cres 
+2060386932,837 Hastings St W #2203,V6C1B6,Vancouver,BC,49.286858,-123.114845,1658888.0,2.0,2.0,1170.0,CONDO,,0.0,RE/MAX Crest Realty Brokerage,Downtown,837 Hastings St W 
+2063495152,3777 W 8th Ave #111,V6R1Z2,Vancouver,BC,49.2647306,-123.1522466,1298000.0,2.0,2.0,1628.0,CONDO,,0.0,Macdonald Realty Brokerage,Kitsilano,3777 W 8th Ave 
+2072710611,5120 Cambie St,V5Z3B2,Vancouver,BC,49.22662,-123.116745,1145900.0,2.0,2.0,1091.0,TOWNHOUSE,,0.0,RE/MAX Crest Realty Brokerage,Oakridge,5120 Cambie St
+314356019,6432 Ash St,V5Z3G9,Vancouver,BC,49.227127,-123.11769,2058000.0,3.0,3.0,1656.0,TOWNHOUSE,1707000.0,0.0,Nu Stream Realty Inc. Brokerage,Oakridge,6432 Ash St
+2059953053,440 E 5th Ave #305,V5T1N5,Vancouver,BC,49.265896,-123.09416,579000.0,1.0,1.0,605.0,CONDO,,0.0,Macdonald Realty Brokerage,Mount Pleasant,440 E 5th Ave 
+314369722,2375 E 4th Ave,V5N1L2,Vancouver,BC,49.26703,-123.05704,1685000.0,4.0,4.0,1580.0,MULTI_FAMILY,1523100.0,3920.4,Oakwyn Realty Northwest Brokerage,Grandview-Woodland,2375 E 4th Ave
+314346754,5376 Connaught Dr,V6M3G6,Vancouver,BC,49.237503,-123.14076,15000000.0,8.0,8.0,7520.0,SINGLE_FAMILY,12185000.0,0.37,Macdonald Platinum Marketing Ltd. Brokerage,Shaughnessy,5376 Connaught Dr
+2059771837,1088 Marinaside Cres #F20,V6Z3C4,Vancouver,BC,49.27267,-123.11672,790000.0,0.0,0.0,101.0,SINGLE_FAMILY,,0.0,RE/MAX City Realty Brokerage,Downtown,1088 Marinaside Cres 
+2060249606,628 Kinghorne Mews #903,V6Z3H6,Vancouver,BC,49.272865,-123.13143,1524900.0,2.0,2.0,1006.0,CONDO,,0.0,Keller Williams Realty VanCentral Brokerage,Downtown,628 Kinghorne Mews 
+2064140239,2100 W 3rd Ave #304,V6K1L1,Vancouver,BC,49.268757,-123.15318,638000.0,1.0,1.0,688.0,CONDO,,0.0,The Partners Real Estate Brokerage,Kitsilano,2100 W 3rd Ave 
+2075781726,1288 Alberni St #403,V6E4N5,Vancouver,BC,49.28687,-123.12674,999000.0,2.0,2.0,930.0,CONDO,,0.0,Oakwyn Realty Ltd. Brokerage,West End,1288 Alberni St 
+2060902215,1289 Hornby St #5507,V6Z2H7,Vancouver,BC,49.282707,-123.1215,3490000.0,3.0,3.0,1640.0,CONDO,,0.0,Engel & Volkers Vancouver Brokerage,Downtown,1289 Hornby St 
+2059767951,628 W 13th Ave #105,V5Z1N9,Vancouver,BC,49.259136,-123.11844,589900.0,1.0,1.0,521.0,CONDO,,0.0,Oakwyn Realty Ltd. Brokerage,Fairview,628 W 13th Ave 
+2060259740,3438 Sawmill Cres #609,V5S0E3,Vancouver,BC,49.2066566,-123.0258863,1299900.0,2.0,2.0,1362.0,CONDO,,0.0,eXp Realty Brokerage,Killarney,3438 Sawmill Cres 
+2061236484,833 Seymour St #3904,V6B0G4,Vancouver,BC,49.28032,-123.11973,1425000.0,2.0,2.0,1005.0,CONDO,,0.0,"Angell, Hasman & Associates Realty Ltd. Brokerage",Downtown,833 Seymour St 
+2064227566,1333 Georgia St W #1511,V6E4V3,Vancouver,BC,49.28899,-123.12753,540000.0,1.0,0.0,432.0,CONDO,,0.0,Oakwyn Realty Ltd. Brokerage,Downtown,1333 Georgia St W 
+314389101,8486 Kerr St,V5S3E7,Vancouver,BC,49.207657,-123.04209,1299999.0,3.0,3.0,1329.0,TOWNHOUSE,952000.0,0.0,Sutton Group-West Coast Realty Brokerage,Killarney,8486 Kerr St
+2061933414,1080 Pacific St #406,V6E4C2,Vancouver,BC,49.2778205,-123.13424474038996,499900.0,1.0,1.0,516.0,CONDO,,0.0,Macdonald Realty Westmar Brokerage,West End,1080 Pacific St 
+314323667,2074 Creelman Ave,V6J1C3,Vancouver,BC,49.27436,-123.151054,2598000.0,3.0,3.0,1436.0,MULTI_FAMILY,1589000.0,0.0,RE/MAX Select Properties Brokerage,Kitsilano,2074 Creelman Ave
+314399836,2915 Parker St,V5K2T9,Vancouver,BC,49.275658,-123.043274,1550000.0,3.0,4.0,1749.0,MULTI_FAMILY,1420100.0,0.0,Engel & Volkers Vancouver Brokerage,Hastings-Sunrise,2915 Parker St
+314394764,1907 E 40th Ave,V5P1J1,Vancouver,BC,49.23394,-123.06724,1689999.0,4.0,3.0,1740.0,MULTI_FAMILY,1422600.0,4356.0,Sutton Group-West Coast Realty Brokerage,Kensington-Cedar Cottage,1907 E 40th Ave
+2068750768,1425 W 6th Ave #405,V6H4G5,Vancouver,BC,49.26643,-123.13716,1799999.0,2.0,2.0,1640.0,CONDO,,0.0,Stonehaus Realty Corp. Brokerage,Fairview,1425 W 6th Ave 
+2059784418,590 Nicola St #605,V6G3J8,Vancouver,BC,49.29059,-123.12786,1500000.0,2.0,2.0,1130.0,CONDO,,0.0,RE/MAX Masters Realty Brokerage,Downtown,590 Nicola St 
+2060713301,1323 Homer St #806,V6B5T1,Vancouver,BC,49.27422,-123.12549,1099800.0,2.0,2.0,1085.0,CONDO,,0.0,Oakwyn Realty Ltd. Brokerage,Downtown,1323 Homer St 
+2073522379,3163 Riverwalk Ave #312,V5S0A8,Vancouver,BC,49.2058626,-123.039419,798000.0,2.0,2.0,938.0,CONDO,,0.0,RE/MAX Crest Realty Brokerage,Killarney,3163 Riverwalk Ave 
+2075231637,1480 Howe St PENTHOUSE 7,V6Z0G5,Vancouver,BC,49.2749095,-123.13101661844736,9988000.0,4.0,3.0,3252.0,CONDO,,0.0,Dracco Pacific Realty Brokerage,Downtown,1480 Howe St 
+2060433466,1010 Beach Ave #402,V6E1T7,Vancouver,BC,49.27562,-123.13419,1450000.0,2.0,2.0,1435.0,CONDO,,0.0,Sotheby's International Realty Canada Brokerage,Downtown,1010 Beach Ave 
+314398025,3495 Franklin St,V5K1Y4,Vancouver,BC,49.2823,-123.02862,1500000.0,4.0,4.0,1546.0,MULTI_FAMILY,1347800.0,3920.4,RE/MAX Crest Realty Brokerage,Hastings-Sunrise,3495 Franklin St
+314379515,368 E 33rd Ave,V5V2Z9,Vancouver,BC,49.240192,-123.09825,2960000.0,7.0,7.0,1945.0,SINGLE_FAMILY,1831000.0,3484.8,Sutton Group-West Coast Realty Brokerage,Riley Park,368 E 33rd Ave
+314354954,1398 W 57th Ave,V6P1S8,Vancouver,BC,49.219013,-123.13748,4900000.0,6.0,6.0,4966.0,SINGLE_FAMILY,3973000.0,9147.6,RE/MAX Westcoast Brokerage,Marpole,1398 W 57th Ave
+2070775436,789 Drake St #1004,V6Z2N7,Vancouver,BC,49.27676,-123.12832,635000.0,1.0,2.0,660.0,CONDO,,0.0,eXp Realty Brokerage,Downtown,789 Drake St 
+314410969,5269 Slocan St,V5R2A8,Vancouver,BC,49.236755,-123.05463,1675000.0,2.0,5.0,2300.0,SINGLE_FAMILY,1314000.0,3484.8,TRG The Residential Group Downtown Realty Brokerage,Renfrew-Collingwood,5269 Slocan St
+2059763140,1239 Georgia St W #2405,V6E4R8,Vancouver,BC,49.28773,-123.125626,729000.0,1.0,1.0,609.0,CONDO,,0.0,Anson Realty Ltd. Brokerage,Downtown,1239 Georgia St W 
+2063300271,180 E 2nd Ave #507,V5T1B5,Vancouver,BC,49.26885,-123.10121,899999.0,1.0,2.0,738.0,APARTMENT,,0.0,Reign Realty Brokerage,Mount Pleasant,180 E 2nd Ave 
+2062267287,4165 Miller St,V5N3Z8,Vancouver,BC,49.2464885,-123.0690173,1198000.0,3.0,3.0,1573.0,MULTI_FAMILY,,3484.8,Sutton Group-West Coast Realty Brokerage,Kensington-Cedar Cottage,4165 Miller St
+2060712069,550 Taylor St #18,V6B1R1,Vancouver,BC,49.279778,-123.105576,789000.0,1.0,1.0,783.0,TOWNHOUSE,,0.0,Royal LePage West Real Estate Services Brokerage,Downtown,550 Taylor St 
+2061598928,489 Interurban Way #1505,V5X0C7,Vancouver,BC,49.2092583,-123.1157213,548000.0,1.0,1.0,468.0,CONDO,,0.0,Rennie & Associates Realty Ltd. Brokerage,Marpole,489 Interurban Way 
+314371408,2196 E 19th Ave,V5N2J6,Vancouver,BC,49.252098,-123.05985,1798000.0,3.0,4.0,1707.0,MULTI_FAMILY,1465900.0,47.15,Stilhavn Real Estate Services Brokerage,Kensington-Cedar Cottage,2196 E 19th Ave
+2060941167,988 E 10th Ave,V5T2B4,Vancouver,BC,49.2620027,-123.0981705,1798000.0,4.0,3.0,1605.0,MULTI_FAMILY,,0.0,RE/MAX Select Realty Brokerage,Mount Pleasant,988 E 10th Ave
+2060185975,1551 W 11th Ave #208,V6J2B5,Vancouver,BC,49.261986,-123.139885,555000.0,1.0,1.0,685.0,CONDO,,0.0,RE/MAX Crest Realty Brokerage,Fairview,1551 W 11th Ave 
+2060794454,1272 Comox St #403,V6E1K7,Vancouver,BC,49.28377,-123.132744,849000.0,2.0,2.0,851.0,CONDO,,0.0,Sutton Group-West Coast Realty Brokerage,West End,1272 Comox St 
+314375967,215 E 33rd Ave #210,V5V2Z7,Vancouver,BC,49.24077,-123.10106,659900.0,1.0,1.0,617.0,CONDO,552000.0,0.0,Macdonald Realty (Surrey/152) Brokerage,Riley Park,215 E 33rd Ave 
+2067835314,550 Taylor St #1003,V6B1R1,Vancouver,BC,49.279778,-123.105576,575000.0,1.0,0.0,554.0,CONDO,,0.0,Faith Wilson Group Brokerage,Downtown,550 Taylor St 
+2062146873,1330 Harwood St #307,V6E1S8,Vancouver,BC,49.28168925,-123.13810852990429,530000.0,1.0,2.0,778.0,CONDO,,0.0,Optim Pacific Realty Brokerage,West End,1330 Harwood St 
+314427217,1863 Alberni St #301,V6G3H8,Vancouver,BC,49.292774,-123.13474,1599000.0,2.0,2.0,1272.0,CONDO,1700000.0,0.0,Sutton Group-West Coast Realty Brokerage,West End,1863 Alberni St 
+2061599782,1887 Crowe St #903,V5Y0B4,Vancouver,BC,49.268284,-123.11225,1118000.0,2.0,2.0,1066.0,CONDO,,0.0,Sutton Group - 1st West Realty Brokerage,Mount Pleasant,1887 Crowe St 
+2065722713,1961 Collingwood St #216,V6R3K6,Vancouver,BC,49.2505893,-123.1818818,3890000.0,5.0,3.0,3477.0,TOWNHOUSE,,0.0,Nu Stream Realty Inc. Brokerage,Dunbar-Southlands,1961 Collingwood St 
+314426255,2329 Fraserview Dr,V5P2N5,Vancouver,BC,49.21206,-123.05892,2799000.0,6.0,7.0,4340.0,SINGLE_FAMILY,2235000.0,6969.6,eXp Realty Brokerage,Victoria-Fraserview,2329 Fraserview Dr
+2061646089,1028 Barclay St #3307,V6E0B1,Vancouver,BC,49.282032,-123.12576,1998000.0,2.0,2.0,1322.0,CONDO,,0.0,Royal LePage Sussex Brokerage,West End,1028 Barclay St 
+2060206326,499 Broughton St #604,V6G3K1,Vancouver,BC,49.290302,-123.12676,1588000.0,2.0,2.0,1261.0,CONDO,,0.0,Century 21 In Town Realty Brokerage,Downtown,499 Broughton St 
+314335700,3329 W 42nd Ave,V6N3H3,Vancouver,BC,49.234074,-123.17957,7995000.0,5.0,5.0,4850.0,SINGLE_FAMILY,5292000.0,9147.6,Royal LePage Sussex Brokerage,Dunbar-Southlands,3329 W 42nd Ave
+314319654,4722 Drummond Dr,V6T1B4,Vancouver,BC,49.272545,-123.21682,16500000.0,4.0,7.0,4643.0,SINGLE_FAMILY,11530000.0,0.5900000000000001,Luxmore Realty Brokerage,West Point Grey,4722 Drummond Dr
+2064203135,522 Moberly Rd #709,V5Z4G4,Vancouver,BC,49.267307,-123.11721,1349000.0,2.0,2.0,1339.0,CONDO,,0.0,Oakwyn Realty Downtown Ltd. Brokerage,Fairview,522 Moberly Rd 
+2069504415,550 Taylor St #904,V6B1R1,Vancouver,BC,49.279778,-123.105576,823000.0,2.0,2.0,792.0,CONDO,,0.0,Oakwyn Realty Ltd. Brokerage,Downtown,550 Taylor St 
+2067594060,3870 W 26th Ave,V6S1P4,Vancouver,BC,49.247846,-123.1099903,7380000.0,7.0,8.0,5178.0,SINGLE_FAMILY,,6534.0,RE/MAX Select Properties Brokerage,Riley Park,3870 W 26th Ave
+314344107,2077 W 61st Ave,V6P2C6,Vancouver,BC,49.21637,-123.153786,6380000.0,7.0,5.0,5062.0,SINGLE_FAMILY,4174000.0,7840.8,Royal Pacific Realty Corp. Brokerage,Kerrisdale,2077 W 61st Ave
+2060264343,1233 Beach Ave #803,V6E1V4,Vancouver,BC,49.27988,-123.13736,2888800.0,2.0,3.0,1826.0,CONDO,,0.0,TRG The Residential Group Realty Brokerage,West End,1233 Beach Ave 
+314329364,1912 W 14th Ave,V6J2K2,Vancouver,BC,49.258797,-123.148796,2098000.0,3.0,2.0,1752.0,MULTI_FAMILY,1961000.0,0.0,Macdonald Realty Brokerage,Kitsilano,1912 W 14th Ave
+314393872,1450 E 30th Ave,V5N3A2,Vancouver,BC,49.2433,-123.074684,2199000.0,2.0,4.0,2218.0,SINGLE_FAMILY,1852300.0,6969.6,Royal Pacific Realty Corp. Brokerage,Kensington-Cedar Cottage,1450 E 30th Ave
+314427909,1227 Richards St,V6B3G3,Vancouver,BC,49.27579,-123.12494,1499900.0,2.0,2.0,1269.0,TOWNHOUSE,1369000.0,0.0,Royal LePage Sterling Realty Brokerage,Downtown,1227 Richards St
+2060775964,1710 Bayshore Dr #803,V6G3G4,Vancouver,BC,49.29236,-123.1326,1838000.0,2.0,2.0,1309.0,CONDO,,0.0,Cathay Pacific Realty Ltd. Brokerage,Downtown,1710 Bayshore Dr 
+2059845846,1239 Georgia St W #1804,V6E4R8,Vancouver,BC,49.28773,-123.125626,999900.0,2.0,2.0,827.0,CONDO,,0.0,Rennie & Associates Realty Ltd. Brokerage,Downtown,1239 Georgia St W 
+314388437,927 E 63rd Ave,V5X2K9,Vancouver,BC,49.21319,-123.08662,1688000.0,2.0,4.0,1779.0,SINGLE_FAMILY,1297900.0,4356.0,RE/MAX Crest Realty Brokerage,Sunset,927 E 63rd Ave
+2072187361,909 Burrard St #1705,V6Z2N2,Vancouver,BC,49.282425,-123.125305,1370000.0,2.0,2.0,1267.0,CONDO,,0.0,Century 21 In Town Realty Brokerage,West End,909 Burrard St 
+2059847917,2083 W 33rd Ave #313,V6M4M6,Vancouver,BC,49.242588,-123.1526,1299000.0,2.0,3.0,1188.0,CONDO,,0.0,LeHomes Realty Brokerage,Arbutus-Ridge,2083 W 33rd Ave 
+2062340866,2022 E 12th Ave,V5N2A8,Vancouver,BC,49.259247,-123.06341,1888888.0,3.0,5.0,2608.0,SINGLE_FAMILY,,3920.4,Sutton Group-Alliance R.E.S. Brokerage,Kensington-Cedar Cottage,2022 E 12th Ave
+2067622292,3198 Riverwalk Ave #205,V5S0E8,Vancouver,BC,49.20538,-123.03916,828000.0,2.0,2.0,821.0,CONDO,,0.0,Century 21 In Town Realty Brokerage,Killarney,3198 Riverwalk Ave 
+314344601,2335 Heather St,V5Z3H7,Vancouver,BC,49.264584,-123.120094,1650000.0,2.0,3.0,1252.0,TOWNHOUSE,1244000.0,0.0,Park Georgia Realty Ltd. Brokerage,Fairview,2335 Heather St
+2060119979,2408 Grant St #206,V5K3G4,Vancouver,BC,49.27109,-123.05576,478000.0,1.0,0.0,420.0,CONDO,,0.0,Oakwyn Realty Downtown Ltd. Brokerage,Hastings-Sunrise,2408 Grant St 
+2060631931,1788 Columbia St #1403,V5Y0L7,Vancouver,BC,49.269627,-123.1086,879000.0,1.0,2.0,708.0,CONDO,,0.0,Rennie & Associates Realty Ltd. Brokerage,Mount Pleasant,1788 Columbia St 
+2063198748,1372 Seymour St #1701,V6B0L1,Vancouver,BC,49.27459,-123.12756,2998000.0,3.0,3.0,2174.0,CONDO,,0.0,VIRANI REAL ESTATE ADVISORS Brokerage,Downtown,1372 Seymour St 
+2059935459,388 W 1st Ave #104,V5Y0B2,Vancouver,BC,49.268234,-123.113335,689000.0,1.0,1.0,594.0,CONDO,,0.0,RE/MAX Crest Realty Brokerage,Mount Pleasant,388 W 1st Ave 
+2076421049,2731 Duke St,V5R4S8,Vancouver,BC,49.2396077,-123.0511263,1799000.0,4.0,4.0,2049.0,TOWNHOUSE,,0.0,Selmak Realty Limited Brokerage,Renfrew-Collingwood,2731 Duke St
+2060872988,3451 Sawmill Cres #709,V5S0E3,Vancouver,BC,49.20579,-123.03277,879000.0,2.0,2.0,868.0,CONDO,,0.0,Royal Pacific Realty Corp. Brokerage,Killarney,3451 Sawmill Cres 
+2071100379,1386 Nicola St #24,V6G2G2,Vancouver,BC,49.28241865,-123.14025985995414,3498000.0,3.0,2.0,2982.0,CONDO,,0.0,RE/MAX Masters Realty Brokerage,West End,1386 Nicola St 
+2081362214,1225 Richards St #805,V6B1E6,Vancouver,BC,49.27579,-123.12494,564900.0,1.0,0.0,417.0,CONDO,,0.0,Team 3000 Realty Ltd. Brokerage,Downtown,1225 Richards St 
+314388358,465 E 63rd Ave,V5X2K1,Vancouver,BC,49.21361,-123.095634,1999888.0,3.0,6.0,2565.0,SINGLE_FAMILY,1515000.0,4791.6,RE/MAX Real Estate Services Brokerage,Sunset,465 E 63rd Ave
+2060145694,3430 E Kent Ave S #701,V5X2L7,Vancouver,BC,49.20617,-123.10145,983400.0,2.0,3.0,1022.0,CONDO,,0.0,Wesgroup Realty Ltd. Brokerage,Sunset,3430 E Kent Ave S 
+314369251,1808 E 2nd Ave,V5N1E2,Vancouver,BC,49.268414,-123.06753,1799999.0,4.0,4.0,1660.0,MULTI_FAMILY,1728000.0,0.0,Oakwyn Realty Ltd. Brokerage,Grandview-Woodland,1808 E 2nd Ave
+314380917,445 E 44th Ave,V5W1W2,Vancouver,BC,49.230427,-123.09582,1498000.0,3.0,3.0,1212.0,MULTI_FAMILY,1402800.0,3920.4,SRS Westside Realty Brokerage,Sunset,445 E 44th Ave
+314415260,2026 E 32nd Ave,V5N3B8,Vancouver,BC,49.24126,-123.064445,2888000.0,7.0,8.0,2674.0,SINGLE_FAMILY,1307900.0,3484.8,RE/MAX Select Properties Brokerage,Kensington-Cedar Cottage,2026 E 32nd Ave
+314416372,2469 E 40th Ave,V5R2V6,Vancouver,BC,49.23413,-123.05626,1399000.0,4.0,4.0,1437.0,MULTI_FAMILY,2085100.0,0.0,Luxmore Realty Brokerage,Renfrew-Collingwood,2469 E 40th Ave
+314320526,4612 W 8th Ave,V6R2A7,Vancouver,BC,49.26538,-123.21258,2798000.0,3.0,5.0,2733.0,SINGLE_FAMILY,2536000.0,3920.4,RE/MAX - Stuart Bonner Brokerage,West Point Grey,4612 W 8th Ave
+314320782,4545 W 9th Ave,V6R2E2,Vancouver,BC,49.264977,-123.21053,3498000.0,6.0,6.0,2726.0,SINGLE_FAMILY,3213000.0,3920.4,Royal Pacific Realty Corp. Brokerage,West Point Grey,4545 W 9th Ave
+2061593096,1335 Howe St #2102,V6Z1R7,Vancouver,BC,49.276466,-123.12976,1968000.0,2.0,2.0,1090.0,CONDO,,0.0,RE/MAX Crest Realty Brokerage,Downtown,1335 Howe St 
+2059768657,1350 Comox St #202,V6E4E1,Vancouver,BC,49.284534,-123.13402,599000.0,1.0,1.0,611.0,CONDO,,0.0,Momentum Realty Inc. Brokerage,West End,1350 Comox St 
+2059767303,5058 Cambie St #203,V5Z3B2,Vancouver,BC,49.22662,-123.116745,1398000.0,2.0,2.0,1040.0,CONDO,,0.0,RE/MAX Select Properties Brokerage,Oakridge,5058 Cambie St 
+314321266,4131 W 11th Ave,V6R2L5,Vancouver,BC,49.262978,-123.19788,2298000.0,2.0,3.0,1817.0,SINGLE_FAMILY,1471000.0,2178.0,Dracco Pacific Realty Brokerage,West Point Grey,4131 W 11th Ave
+314346124,1160 W 15th Ave,V6H1R8,Vancouver,BC,49.257614,-123.13065,1488000.0,2.0,2.0,1196.0,TOWNHOUSE,891000.0,0.0,Royal LePage Sussex Brokerage,Fairview,1160 W 15th Ave
+2061914656,4351 W 16th Ave,V6R3E6,Vancouver,BC,49.2581407,-123.1936766,3980000.0,5.0,5.0,2872.0,SINGLE_FAMILY,,3920.4,Renanza Realty Inc. Brokerage,West Point Grey,4351 W 16th Ave
+314320700,3885 Broadway W,V6R2C2,Vancouver,BC,49.264755,-123.190186,6380000.0,6.0,5.0,4189.0,SINGLE_FAMILY,5849000.0,6534.0,Luxmore Realty Brokerage,West Point Grey,3885 Broadway W
+2059953139,1425 W 6th Ave #512,V6H4G5,Vancouver,BC,49.26643,-123.13716,1299000.0,2.0,2.0,1119.0,CONDO,,0.0,Sutton Group-West Coast Realty Brokerage,Fairview,1425 W 6th Ave 
+2064023681,1480 Howe St #4102,V6Z0G5,Vancouver,BC,49.275013,-123.13084,3588000.0,3.0,3.0,1767.0,CONDO,,0.0,Multiple Realty Ltd. Brokerage,Downtown,1480 Howe St 
+2060248755,2973 Kingsway #102,V5R5J4,Vancouver,BC,49.236324,-123.04321,618000.0,2.0,2.0,861.0,CONDO,,0.0,Multiple Realty Ltd. Brokerage,Renfrew-Collingwood,2973 Kingsway 
+2063039227,1180 Broughton St #1201,V6G2B1,Vancouver,BC,49.283745,-123.13583,2388900.0,3.0,2.0,1319.0,CONDO,,0.0,Engel & Volkers Vancouver Brokerage,West End,1180 Broughton St 
+314392931,5920 Commercial St,V5P3N9,Vancouver,BC,49.230293,-123.067924,1899000.0,5.0,7.0,2328.0,SINGLE_FAMILY,1550000.0,3920.4,Nu Stream Realty Inc. Brokerage,Victoria-Fraserview,5920 Commercial St
+2061326540,2655 Cranberry Dr #212,V6K4V5,Vancouver,BC,49.262226,-123.15416,1048000.0,2.0,2.0,933.0,CONDO,,0.0,Sutton Group-West Coast Realty Brokerage,Kitsilano,2655 Cranberry Dr 
+314343868,6786 Blenheim St,V6N1R7,Vancouver,BC,49.22486,-123.178116,12800000.0,4.0,5.0,4275.0,SINGLE_FAMILY,6934000.0,1.8,Royal Pacific Riverside Realty Ltd. Brokerage,Kerrisdale,6786 Blenheim St
+2064326966,1768 Cook St #1307,V5Y0N3,Vancouver,BC,49.269657,-123.1099,1799000.0,2.0,2.0,984.0,CONDO,,0.0,Regent Park Realty Inc. Brokerage,Mount Pleasant,1768 Cook St 
+2060116884,707 E 20th Ave PENTHOUSE 7,V5V0B3,Vancouver,BC,49.25312,-123.08949,788800.0,2.0,2.0,725.0,CONDO,,0.0,Oakwyn Realty Ltd. Brokerage,Kensington-Cedar Cottage,707 E 20th Ave 
+2060698887,53 Hastings St W #605,V6B1G4,Vancouver,BC,49.282116,-123.10631,875000.0,1.0,1.0,1047.0,CONDO,,0.0,RE/MAX Select Realty Brokerage,Downtown,53 Hastings St W 
+314327031,2657 W 8th Ave,V6K2B5,Vancouver,BC,49.26517,-123.16598,1900000.0,4.0,2.0,1761.0,SINGLE_FAMILY,1849700.0,3049.2,TRG The Residential Group Realty Brokerage,Kitsilano,2657 W 8th Ave
+2075347811,1480 Howe St #4001,V6Z0G5,Vancouver,BC,49.275013,-123.13084,1249000.0,1.0,2.0,814.0,CONDO,,0.0,Regent Park Realty Inc. Brokerage,Downtown,1480 Howe St 
+2066504642,277 Thurlow St #302,V6C0C1,Vancouver,BC,49.28882665,-123.11901725682804,9990000.0,4.0,3.0,3366.0,CONDO,,0.0,Luxmore Realty Brokerage,Downtown,277 Thurlow St 
+314388218,1322 E 62nd Ave,V5X2H5,Vancouver,BC,49.213505,-123.07935,2388000.0,6.0,6.0,3955.0,SINGLE_FAMILY,1941000.0,0.01,Royal LePage Westside Brokerage,Sunset,1322 E 62nd Ave
+314386134,320 E 57th Ave,V5X1S7,Vancouver,BC,49.218155,-123.09951,1675000.0,3.0,5.0,2453.0,SINGLE_FAMILY,1290300.0,3484.8,Oakwyn Realty Ltd. Brokerage,Sunset,320 E 57th Ave
+2064184101,525 Wheelhouse Sq #306,V5Z4L8,Vancouver,BC,49.269215,-123.1169,1349000.0,2.0,2.0,1123.0,CONDO,,0.0,Oakwyn Realty Downtown Ltd. Brokerage,Fairview,525 Wheelhouse Sq 
+314373002,3206 Carolina St,V5V4B1,Vancouver,BC,49.25619,-123.09162,2198000.0,5.0,6.0,2680.0,SINGLE_FAMILY,1723000.0,6098.4,RE/MAX Select Realty Brokerage,Riley Park,3206 Carolina St
+2061999843,5559 Stamford St,V5R4K5,Vancouver,BC,49.233309,-123.0316317,1598000.0,4.0,4.0,1719.0,TOWNHOUSE,,4791.6,eXp Realty Brokerage,Renfrew-Collingwood,5559 Stamford St
+314333734,4035 W 28th Ave,V6S1S7,Vancouver,BC,49.247417,-123.19477,7590000.0,6.0,5.0,4717.0,SINGLE_FAMILY,5387000.0,6969.6,Royal Pacific Realty Corp. Brokerage,Dunbar-Southlands,4035 W 28th Ave
+314357945,8187 Cartier St,V6P4T6,Vancouver,BC,49.211605,-123.13815,2088000.0,2.0,4.0,1842.0,SINGLE_FAMILY,1828800.0,3920.4,Macdonald Realty Brokerage,Marpole,8187 Cartier St
+2067643432,180 E 2nd Ave #1007,V5T1B5,Vancouver,BC,49.26885,-123.10121,899000.0,1.0,2.0,737.0,CONDO,,0.0,Oakwyn Realty Downtown Ltd. Brokerage,Mount Pleasant,180 E 2nd Ave 
+314322123,4577 W 14th Ave,V6R2Y5,Vancouver,BC,49.260475,-123.211525,3580000.0,4.0,4.0,2382.0,SINGLE_FAMILY,3307000.0,3920.4,Macdonald Realty Westmar Brokerage,West Point Grey,4577 W 14th Ave
+314384918,1935 E 53rd Ave,V5P1X5,Vancouver,BC,49.222046,-123.06718,2779900.0,6.0,7.0,3222.0,SINGLE_FAMILY,1252300.0,3484.8,RE/MAX City Realty Brokerage,Victoria-Fraserview,1935 E 53rd Ave
+2061362515,610 Granville St #904,V6C3T3,Vancouver,BC,49.2833213,-123.116582,839900.0,1.0,1.0,786.0,CONDO,,0.0,Macdonald Realty Brokerage,Downtown,610 Granville St 
+314415042,2479 Saint Lawrence St,V5R2R5,Vancouver,BC,49.242355,-123.05506,1950000.0,5.0,7.0,2725.0,MULTI_FAMILY,2686000.0,6969.6,RE/MAX Crest Realty Brokerage,Renfrew-Collingwood,2479 Saint Lawrence St
+314393739,1358 E 28th Ave,V5V2R1,Vancouver,BC,49.245155,-123.07706,2288000.0,5.0,5.0,2062.0,SINGLE_FAMILY,1301100.0,3484.8,Heller Murch Realty Brokerage,Kensington-Cedar Cottage,1358 E 28th Ave
+2060794458,1510 W 1st Ave #603,V6J4S3,Vancouver,BC,49.270888,-123.1598949,598000.0,1.0,2.0,843.0,CONDO,,0.0,Prompton Real Estate Services Inc. Brokerage,Kitsilano,1510 W 1st Ave 
+2061584314,5555 Yew St #1101,V6M3X9,Vancouver,BC,49.236217,-123.158905,1099000.0,2.0,2.0,1239.0,CONDO,,0.0,Dexter Realty Brokerage,Arbutus-Ridge,5555 Yew St 
+2060658439,488 Kingsway #W407,V5T3J9,Vancouver,BC,49.2577917,-123.09365315498805,659900.0,2.0,2.0,780.0,CONDO,,0.0,RE/MAX Crest Realty Brokerage,Mount Pleasant,488 Kingsway 
+314388462,1045 E 63rd Ave,V5X2L2,Vancouver,BC,49.213154,-123.084526,1699000.0,4.0,6.0,2800.0,SINGLE_FAMILY,1371000.0,3920.4,RE/MAX City Realty Brokerage,Sunset,1045 E 63rd Ave
+314352480,6608 Laburnum St,V6P5M7,Vancouver,BC,49.225613,-123.150505,4295000.0,4.0,5.0,3940.0,SINGLE_FAMILY,3718000.0,6534.0,RE/MAX Crest Realty Brokerage,Kerrisdale,6608 Laburnum St
+2060673828,388 Drake St #2605,V6B6A8,Vancouver,BC,49.273598,-123.124916,1499000.0,2.0,2.0,1202.0,CONDO,,0.0,RE/MAX Select Properties Brokerage,Downtown,388 Drake St 
+2059924167,1522 W 28th Ave,V6J2Y5,Vancouver,BC,49.246204,-123.14017,2898000.0,2.0,3.0,1910.0,TOWNHOUSE,,0.0,RE/MAX Select Properties Brokerage,Shaughnessy,1522 W 28th Ave
+2060939557,128 Cordova St W #3002,V6B0E6,Vancouver,BC,49.282524,-123.107956,1099000.0,2.0,2.0,986.0,CONDO,,0.0,Century 21 In Town Realty Brokerage,Downtown,128 Cordova St W 
+314337490,2862 W 22nd Ave,V6L1M6,Vancouver,BC,49.25253,-123.16927,3190000.0,3.0,4.0,2175.0,SINGLE_FAMILY,2403000.0,4791.6,Nu Stream Realty Inc. Brokerage,Arbutus-Ridge,2862 W 22nd Ave
+314323347,2870 Mackenzie St,V6K4A2,Vancouver,BC,49.26067,-123.16996,2958000.0,4.0,5.0,2585.0,SINGLE_FAMILY,2325000.0,3920.4,Nu Stream Realty Inc. Brokerage,Kitsilano,2870 Mackenzie St
+2059934788,108 Cordova St W #1808,V6B0G5,Vancouver,BC,49.282616,-123.107956,585000.0,1.0,1.0,585.0,CONDO,,0.0,TRG The Residential Group Realty Brokerage,Downtown,108 Cordova St W 
+2060648186,1835 Barclay St #101,V6G1K7,Vancouver,BC,49.290634,-123.13797,729900.0,1.0,1.0,737.0,CONDO,,0.0,Stilhavn Real Estate Services Brokerage,West End,1835 Barclay St 
+314377019,4963 Chester St,V5W3A7,Vancouver,BC,49.239655,-123.0895,1788800.0,2.0,3.0,2381.0,SINGLE_FAMILY,1528300.0,4791.6,Team 3000 Realty Ltd. Brokerage,Kensington-Cedar Cottage,4963 Chester St
+2060611273,2220 Kingsway #1512,V5N0G4,Vancouver,BC,49.242813,-123.06155,820000.0,2.0,2.0,812.0,CONDO,,0.0,RE/MAX Crest Realty Brokerage,Kensington-Cedar Cottage,2220 Kingsway 
+314322291,4153 W 14th Ave,V6R2X6,Vancouver,BC,49.260277,-123.19866,4498000.0,4.0,4.0,2905.0,SINGLE_FAMILY,3733000.0,3920.4,Royal Pacific Realty Corp. Brokerage,West Point Grey,4153 W 14th Ave
+2061754824,1111 Richards St #3003,V6B3E6,Vancouver,BC,49.276924,-123.123245,2398000.0,2.0,3.0,1346.0,CONDO,,0.0,Rennie & Associates Realty Ltd. Brokerage,Downtown,1111 Richards St 
+2060839655,1253 E 41st Ave,V5W1N4,Vancouver,BC,49.233425,-123.105415,1288000.0,4.0,4.0,1180.0,MULTI_FAMILY,,3484.8,Sutton Group-West Coast Realty Brokerage,Riley Park,1253 E 41st Ave
+314426956,1486 W Hastings St,V6G3J6,Vancouver,BC,49.29013,-123.12792,1799000.0,3.0,3.0,1307.0,TOWNHOUSE,1670000.0,0.0,Coldwell Banker Prestige Realty Brokerage,Downtown,1486 W Hastings St
+2069323113,1480 Howe St PENTHOUSE 5,V6Z0G5,Vancouver,BC,49.2749095,-123.13101661844736,9680000.0,3.0,2.0,2694.0,CONDO,,0.0,RE/MAX Masters Realty Brokerage,Downtown,1480 Howe St 
+2059763276,550 Taylor St #1010,V6B1R1,Vancouver,BC,49.279778,-123.105576,634900.0,1.0,1.0,583.0,CONDO,,0.0,Sutton Centre Realty Brokerage,Downtown,550 Taylor St 
+2060183924,4685 Valley Dr #511,V6J5M2,Vancouver,BC,49.243565,-123.15168,1299999.0,2.0,2.0,1052.0,CONDO,,0.0,Sutton Group-West Coast Realty Brokerage,Arbutus-Ridge,4685 Valley Dr 
+314381886,6779 Main St,V5X3H4,Vancouver,BC,49.223087,-123.10214,1798000.0,2.0,4.0,1708.0,SINGLE_FAMILY,1132500.0,3484.8,Sutton Group-West Coast Realty Brokerage,Sunset,6779 Main St
+314343686,2709 W 49th Ave,V6N3S5,Vancouver,BC,49.227726,-123.16619,8490000.0,8.0,5.0,9347.0,SINGLE_FAMILY,7551000.0,0.52,Royal Pacific Realty Corp. Brokerage,Kerrisdale,2709 W 49th Ave
+314332287,3620 W 20th Ave,V6S1E8,Vancouver,BC,49.25441,-123.18593,2499800.0,2.0,3.0,1606.0,SINGLE_FAMILY,2402500.0,3920.4,Royal Pacific Realty Corp. Brokerage,Dunbar-Southlands,3620 W 20th Ave
+314320371,4649 W 7th Ave,V6R1X4,Vancouver,BC,49.266743,-123.21364,3790000.0,5.0,4.0,2600.0,SINGLE_FAMILY,3280000.0,3920.4,Amex Broadway West Realty Brokerage,West Point Grey,4649 W 7th Ave
+314359080,8507 Fremlin St,V6P3X1,Vancouver,BC,49.20919,-123.12788,1699980.0,3.0,3.0,1233.0,MULTI_FAMILY,1721300.0,0.0,Luxmore Realty Brokerage,Marpole,8507 Fremlin St
+314365084,21 W 15th Ave,V5Y1X7,Vancouver,BC,49.25783,-123.105774,1250000.0,2.0,1.0,990.0,TOWNHOUSE,889000.0,0.0,Multiple Realty Ltd. Brokerage,Mount Pleasant,21 W 15th Ave
+314335381,4033 W 39th Ave,V6N3B1,Vancouver,BC,49.236767,-123.19489,4890000.0,3.0,5.0,3465.0,SINGLE_FAMILY,4568000.0,8712.0,Sutton Group-West Coast Realty Brokerage,Dunbar-Southlands,4033 W 39th Ave
+314413382,2070 E 26th Ave,V5N2W4,Vancouver,BC,49.24736,-123.06351,1799000.0,2.0,4.0,1410.0,SINGLE_FAMILY,1315900.0,3920.4,Royal LePage Sussex Brokerage,Kensington-Cedar Cottage,2070 E 26th Ave
+2061437283,1500 Hornby St #409,V6Z2R1,Vancouver,BC,49.27504015,-123.13279660273972,959900.0,2.0,2.0,1102.0,CONDO,,0.0,Keller Williams Realty VanCentral Brokerage,Downtown,1500 Hornby St 
+314397260,2565 Dundas St,V5K1P7,Vancouver,BC,49.285038,-123.05295,1599000.0,2.0,4.0,1792.0,SINGLE_FAMILY,1280300.0,3920.4,Royal Pacific Realty (Kingsway) Ltd. Brokerage,Hastings-Sunrise,2565 Dundas St
+2076449268,383 East Hastings St,V6A1P3,Vancouver,BC,49.2814934,-123.09566373306427,1549000.0,3.0,7.0,3310.0,SINGLE_FAMILY,,3049.2,RE/MAX Real Estate Services Brokerage,Strathcona,383 East Hastings St
+314341562,2974 W 42nd Ave,V6N3G9,Vancouver,BC,49.233482,-123.17237,2618000.0,4.0,4.0,1915.0,MULTI_FAMILY,2715500.0,5662.8,Heller Murch Realty Brokerage,Kerrisdale,2974 W 42nd Ave
+2062219371,289 Alexander St #808,V6A4H6,Vancouver,BC,49.28443,-123.09843,798000.0,2.0,1.0,790.0,CONDO,,0.0,RE/MAX - Stuart Bonner Brokerage,Strathcona,289 Alexander St 
+2060648188,1408 Strathmore Mews #1501,V6Z3A9,Vancouver,BC,49.272675,-123.126625,1479000.0,2.0,2.0,1120.0,CONDO,,0.0,Stilhavn Real Estate Services Brokerage,Downtown,1408 Strathmore Mews 
+2062476319,2025 Stephens St #408,V6K3W2,Vancouver,BC,49.26814365,-123.16670819818218,769000.0,2.0,2.0,703.0,CONDO,,0.0,Sutton Centre Realty Brokerage,Kitsilano,2025 Stephens St 
+2067528880,1480 Howe St #5501,V6Z0G5,Vancouver,BC,49.2749095,-123.13101661844736,8388900.0,5.0,4.0,2739.0,CONDO,,0.0,Royal Pacific Realty Corp. Brokerage,Downtown,1480 Howe St 
+2060858246,530 E 18th Ave,V5V1C9,Vancouver,BC,49.254387,-123.10408,2988000.0,6.0,6.0,2769.0,SINGLE_FAMILY,,3049.2,Oakwyn Realty Encore Brokerage,Riley Park,530 E 18th Ave
+2059768307,58 Keefer Pl #2605,V6B0B8,Vancouver,BC,49.27916,-123.10704,799000.0,1.0,1.0,653.0,CONDO,,0.0,Interlink Realty Brokerage,Downtown,58 Keefer Pl 
+2060639517,1077 Cordova St W #2803,V6C2C6,Vancouver,BC,49.288555,-123.11806,5357000.0,4.0,3.0,2432.0,CONDO,,0.0,Royal LePage Sussex Brokerage,Downtown,1077 Cordova St W 
+2071344958,977 W 8th Ave #101,V5Z1E4,Vancouver,BC,49.264629,-123.12607986529972,2395000.0,2.0,2.0,1973.0,CONDO,,0.0,Sotheby's International Realty Canada Brokerage,Fairview,977 W 8th Ave 
+2073289139,1111 Richards St #2309,V6B3E6,Vancouver,BC,49.276924,-123.123245,2595000.0,2.0,3.0,1292.0,CONDO,,0.0,Engel & Volkers Vancouver Brokerage,Downtown,1111 Richards St 
