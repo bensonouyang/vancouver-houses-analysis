@@ -62,7 +62,7 @@ zpid,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedroom
 2062401364,2112 Prince Edward St,V5T3M3,Vancouver,BC,49.265884,-123.09542,2349800.0,4.0,3.0,2062.0,SINGLE_FAMILY,,2178.0,Stilhavn Real Estate Services Brokerage,Mount Pleasant,2112 Prince Edward St
 2059760940,1537 Frances St,V5L1Z2,Vancouver,BC,49.279675,-123.07332,2579000.0,6.0,6.0,3434.0,SINGLE_FAMILY,,3920.4,Sutton Group-West Coast Realty Brokerage,Grandview-Woodland,1537 Frances St
 2061101122,1380 King Edward Ave W #B,V6H1Z3,Vancouver,BC,49.248917,-123.12798,2891460.0,4.0,4.0,2022.0,TOWNHOUSE,,0.0,Engel & Volkers Vancouver Brokerage,Shaughnessy,1380 King Edward Ave W 
-2063214293,5355 Boundary Rd #106,V5R6G2,Vancouver,BC,49.1806635,-122.9572969,599000.0,1.0,1.0,610.0,CONDO,,0.0,LeHomes Realty Brokerage,Renfrew-Collingwood,5355 Boundary Rd 
+2063214293,5355 Boundary Rd #106,V5R6G2,Vancouver,BC,49.2354894,-123.0236292,599000.0,1.0,1.0,610.0,CONDO,,0.0,LeHomes Realty Brokerage,Renfrew-Collingwood,5355 Boundary Rd 
 2062348795,1390 King Edward Ave W #A,V6H1Z9,Vancouver,BC,49.24898,-123.13641,3498000.0,4.0,3.0,2613.0,TOWNHOUSE,,0.0,Engel & Volkers Vancouver Brokerage,Shaughnessy,1390 King Edward Ave W 
 2076442606,5058 Joyce St #905,V5R4G8,Vancouver,BC,49.238598,-123.031044,628000.0,1.0,1.0,439.0,CONDO,,0.0,Century 21 In Town Realty Brokerage,Renfrew-Collingwood,5058 Joyce St 
 2076463359,489 Interurban Way #710,V5X0C7,Vancouver,BC,49.2092583,-123.1157213,599000.0,1.0,1.0,561.0,CONDO,,0.0,Nu Stream Realty Inc. Brokerage,Marpole,489 Interurban Way 
@@ -787,7 +787,7 @@ zpid,streetAddress,zipcode,city,state,latitude,longitude,price,bathrooms,bedroom
 314413382,2070 E 26th Ave,V5N2W4,Vancouver,BC,49.24736,-123.06351,1799000.0,2.0,4.0,1410.0,SINGLE_FAMILY,1315900.0,3920.4,Royal LePage Sussex Brokerage,Kensington-Cedar Cottage,2070 E 26th Ave
 2061437283,1500 Hornby St #409,V6Z2R1,Vancouver,BC,49.27504015,-123.13279660273972,959900.0,2.0,2.0,1102.0,CONDO,,0.0,Keller Williams Realty VanCentral Brokerage,Downtown,1500 Hornby St 
 314397260,2565 Dundas St,V5K1P7,Vancouver,BC,49.285038,-123.05295,1599000.0,2.0,4.0,1792.0,SINGLE_FAMILY,1280300.0,3920.4,Royal Pacific Realty (Kingsway) Ltd. Brokerage,Hastings-Sunrise,2565 Dundas St
-2076449268,383 East Hastings St,V6A1P3,Vancouver,BC,49.2814934,-123.09566373306427,1549000.0,3.0,7.0,3310.0,SINGLE_FAMILY,,3049.2,RE/MAX Real Estate Services Brokerage,Strathcona,383 East Hastings St
+2076449268,383 East Hastings St,V6A1P3,Vancouver,BC,49.2814934,-123.09566373306428,1549000.0,3.0,7.0,3310.0,SINGLE_FAMILY,,3049.2,RE/MAX Real Estate Services Brokerage,Strathcona,383 East Hastings St
 314341562,2974 W 42nd Ave,V6N3G9,Vancouver,BC,49.233482,-123.17237,2618000.0,4.0,4.0,1915.0,MULTI_FAMILY,2715500.0,5662.8,Heller Murch Realty Brokerage,Kerrisdale,2974 W 42nd Ave
 2062219371,289 Alexander St #808,V6A4H6,Vancouver,BC,49.28443,-123.09843,798000.0,2.0,1.0,790.0,CONDO,,0.0,RE/MAX - Stuart Bonner Brokerage,Strathcona,289 Alexander St 
 2060648188,1408 Strathmore Mews #1501,V6Z3A9,Vancouver,BC,49.272675,-123.126625,1479000.0,2.0,2.0,1120.0,CONDO,,0.0,Stilhavn Real Estate Services Brokerage,Downtown,1408 Strathmore Mews 
